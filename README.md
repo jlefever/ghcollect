@@ -17,3 +17,27 @@ Use the `--help` option on each script to get details on how to use it. These sc
 ## Usage
 
 The scripts are intended to be run in the following order.
+
+##### 1. Collect repository names
+
+Create a text file with a GitHub repository name on each line. These are collected from [The Stack](https://huggingface.co/datasets/bigcode/the-stack) dataset. This is incredibly expensive to run so you almost certainly just want to use the supplied `artifacts/repo_names.txt`.
+
+```bash
+python scripts/fetch_repo_names.py --hf-token <HF_TOKEN> --output repo_names.txt
+```
+
+##### 2. Download metadata
+
+Download the metadata from each GitHub repository.
+
+```bash
+python scripts/fetch_repo_details.py --gh-token <GH_TOKEN> --input repo_names.txt --output repo_details
+```
+
+##### 3. Generate a single CSV
+
+Summarize the repository data into a single CSV.
+
+```bash
+python scripts/generate_repo_csv.py --input repo_details --output repos.csv
+```
