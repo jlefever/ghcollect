@@ -4,7 +4,7 @@ from typing import Any
 
 import click
 import pandas as pd
-
+from tqdm import tqdm
 
 MUST_BY_TRUE = ["private", "is_template", "archived", "disabled"]
 KEYS_TO_BE_KEPT = [
@@ -46,7 +46,7 @@ def load_repo_df(root: Path) -> pd.DataFrame:
     repos = {}
     files = list(root.glob("**/*.json"))
     print(f"Found {len(files)} JSON files.")
-    for file in files:
+    for file in tqdm(files):
         repo = load_repo_details(file)
         if repo is not None:
             repos[repo["id"]] = repo
@@ -59,10 +59,12 @@ def load_repo_df(root: Path) -> pd.DataFrame:
 @click.option("--output", required=True, help="Path to output CSV file")
 @click.option("--no-filtering", is_flag=True, help="Do not apply any filters")
 @click.option("--languages", default="Java", help="Comma-separated list of languages")
-@click.option("--max-size", default=1.0, help="Max size a repo can be (in GB)")
+@click.option("--max-size", default=2.0, help="Max size a repo can be (in GB)")
 @click.option("--min-stars", default=64, help="Min number of stars a repo must have")
 @click.option("--min-forks", default=64, help="Min number of forks a repo must have")
-@click.option("--min-open-issues", default=64, help="Min number of open issues a repo must have")
+@click.option(
+    "--min-open-issues", default=16, help="Min number of open issues a repo must have"
+)
 def main(
     input: str,
     output: str,
