@@ -1,3 +1,4 @@
+import os
 import subprocess as sp
 from pathlib import Path
 
@@ -11,12 +12,10 @@ def clone(repo_name, output):
         print("Skipping...")
         return
     print("Cloning...")
-    try:
-        url = "https://github.com/" + repo_name
-        cmd = f"git clone --bare {url} {clone_path}"
-        sp.run(cmd, shell=True, check=True)
-    except sp.CalledProcessError as e:
-        print(f"Error: {e}\n".encode())
+    url = "https://github.com/" + repo_name
+    cmd = f"git clone --bare {url} {clone_path}"
+    env = dict(os.environ, GIT_TERMINAL_PROMPT="0")
+    sp.run(cmd, shell=True, env=env)
 
 
 @click.command()
