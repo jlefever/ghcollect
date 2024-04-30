@@ -41,3 +41,11 @@ Summarize the repository data into a single CSV.
 ```bash
 python scripts/generate_repo_csv.py --input repo_details --output repos.csv
 ```
+
+##### 4. Clone repositories
+
+Clone the repositories from the CSV one-by-one in order.
+
+```bash
+python scripts/clone_repos.py --input repos.csv --output clones
+```
