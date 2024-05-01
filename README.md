@@ -49,3 +49,11 @@ Clone the repositories from the CSV one-by-one in order.
 ```bash
 python scripts/clone_repos.py --input repos.csv --output clones
 ```
+
+##### 5. Extract data using Neodepends
+
+Export entities, deps, changes, and contents from the repository into a SQLite database using [Neodepends](https://github.com/jlefever/neodepends).
+
+```bash
+python scripts/extract_dbs.py --input repos.csv --clones clones --output dbs
+```
