@@ -6,8 +6,7 @@ import click
 import pandas as pd
 from tqdm import tqdm
 
-MUST_BY_TRUE = ["private", "is_template", "archived", "disabled"]
-KEYS_TO_BE_KEPT = [
+OUTPUT_KEYS = [
     "id",
     "full_name",
     "html_url",
@@ -20,6 +19,7 @@ KEYS_TO_BE_KEPT = [
     "forks_count",
     "open_issues_count",
 ]
+EXCLUDE_IF_TRUE = ["private", "is_template", "archived", "disabled"]
 
 
 def find_root(repo_obj: Any) -> Any:
@@ -33,11 +33,11 @@ def load_repo_details(path: Path) -> Any:
     if obj is None:
         return None
     obj = find_root(obj)
-    for key in MUST_BY_TRUE:
+    for key in EXCLUDE_IF_TRUE:
         if obj[key]:
             return None
     row = {}
-    for key in KEYS_TO_BE_KEPT:
+    for key in OUTPUT_KEYS:
         row[key] = obj[key]
     return row
 
