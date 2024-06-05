@@ -3,9 +3,10 @@ from pathlib import Path
 
 import click
 import pandas as pd
+from rich.progress import Progress
 
 
-def extract(repo_name, clones_dir, output_dir):
+def extract(neodepends, repo_name, clones_dir, output_dir):
     output_path = Path(output_dir, f"{repo_name}.db").absolute()
     clone_path = Path(clones_dir, f"{repo_name}.git").absolute()
     if output_path.exists():
@@ -32,30 +33,49 @@ def extract(repo_name, clones_dir, output_dir):
 
     # Now run neodepends
     neodepends_args = [
-        "neodepends",
+        str(Path(neodepends).absolute()),
         f"--output={output_path}",
         "-D",
         "-ljava",
         "--depends-xmx=12G",
-        revlist_path,
+        str(revlist_path),
     ]
-    sp.run(neodepends_args, check=True, cwd=clone_path)
+
+    with sp.Popen(
+        neodepends_args,
+        stdout=sp.PIPE,
+        stderr=sp.STDOUT,
+        cwd=clone_path,
+        universal_newlines=True,
+    ) as process:
+        for line in process.stdout:
+            print(line, end="")
 
 
 @click.command()
+@click.option(
+    "--neodepends", default="neodepends", help="Command to run for neodepends"
+)
 @click.option("--input", required=True, help="A CSV of GitHub repositories")
 @click.option("--clones", required=True, help="Path of cloned repositories")
 @click.option("--output", required=True, help="Path to database directory")
 @click.option("--skip", default=0, help="Number of repos to skip before starting")
-def main(input, clones, output, skip):
+@click.option("--step", default=1, help="Step size between repos")
+def main(neodepends, input, clones, output, skip, step):
     """
     Extract dbs from repositories one-by-one in the order that they appear in the CSV.
     """
     df = pd.read_csv(input)
     repo_names = list(df["full_name"])
-    for i, repo_name in enumerate(repo_names[skip:]):
-        print(f"[{i + skip + 1}/{len(repo_names)}][{repo_name}] ", end="")
-        extract(repo_name, clones, output)
+    indices = list(range(skip, len(repo_names), step))
+
+    with Progress() as progress:
+        task = progress.add_task("", total=len(indices))
+        for local_i, global_i in enumerate(indices):
+            repo_name = repo_names[global_i]
+            desc = f"[green][{local_i}/{len(indices)}][{global_i}/{len(repo_names)}] Working on {repo_name}"
+            progress.update(task, advance=1, description=desc)
+            extract(neodepends, repo_name, clones, output)
 
 
 if __name__ == "__main__":
