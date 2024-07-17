@@ -29,7 +29,13 @@ def find_root(repo_obj: Any) -> Any:
 
 
 def load_repo_details(path: Path) -> Any:
-    obj = json.loads(path.read_text())
+    try:
+        obj = json.loads(path.read_text())
+    except json.decoder.JSONDecodeError as e:
+        print(f"\nWarning: Failed to decode {path}")
+        print(e)
+        print("Tip: Delete this file so it can be re-downloaded")
+        return None
     if obj is None:
         return None
     obj = find_root(obj)
