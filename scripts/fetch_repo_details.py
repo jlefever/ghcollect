@@ -64,7 +64,7 @@ def fetch_repo_info(repo: Repo, gh_token: str) -> Any | None:
         return None
     if paused:
         print("Retrying...")
-        return fetch_repo_info(repo)
+        return fetch_repo_info(repo, gh_token)
     print("Unknown issue while fetching repo details. Skipping...")
     return None
 
