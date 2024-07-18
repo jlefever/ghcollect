@@ -46,7 +46,7 @@ def main(input: str, dbs: str, output: str):
     indicating a problem during extraction with neodepends.
     """
     df = pd.read_csv(input)
-    paths = [Path(dbs, f"{n}.db") for n in df["full_name"]]
+    paths = sorted(Path(dbs, f"{n}.db") for n in df["full_name"])
 
     with Path(output).open("w") as f:
         for path in tqdm(paths):
