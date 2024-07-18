@@ -63,41 +63,11 @@ def load_repo_df(root: Path) -> pd.DataFrame:
 @click.command()
 @click.option("--input", required=True, help="A directory of repo JSON files")
 @click.option("--output", required=True, help="Path to output CSV file")
-@click.option("--no-filtering", is_flag=True, help="Do not apply any filters")
-@click.option("--languages", default="Java", help="Comma-separated list of languages")
-@click.option("--max-size", default=2.0, help="Max size a repo can be (in GB)")
-@click.option("--min-stars", default=64, help="Min number of stars a repo must have")
-@click.option("--min-forks", default=64, help="Min number of forks a repo must have")
-@click.option(
-    "--min-open-issues", default=16, help="Min number of open issues a repo must have"
-)
-def main(
-    input: str,
-    output: str,
-    no_filtering: bool,
-    languages: str,
-    max_size: int,
-    min_stars: int,
-    min_forks: int,
-    min_open_issues: int,
-):
+def main(input: str, output: str):
     """
     Scan through the JSON files downloaded by fetch_repo_details.py and output a CSV.
     """
-    df = load_repo_df(Path(input))
-    df = df.sort_values(
-        ["stargazers_count", "forks_count", "open_issues_count"], ascending=False
-    )
-    if no_filtering:
-        df.to_csv(output)
-        return
-    languages = set(languages.split(","))
-    df = df[df["language"].isin(languages)]
-    df = df[df["size"] <= max_size * 1_000_000]
-    df = df[df["stargazers_count"] >= min_stars]
-    df = df[df["forks_count"] >= min_forks]
-    df = df[df["open_issues_count"] >= min_open_issues]
-    df.to_csv(output)
+    load_repo_df(Path(input)).sort_index().to_csv(output)
 
 
 if __name__ == "__main__":

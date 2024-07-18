@@ -31,7 +31,7 @@ python scripts/fetch_repo_names.py --hf-token <HF_TOKEN> --output repo_names.txt
 Download the metadata from each GitHub repository.
 
 ```bash
-python scripts/fetch_repo_details.py --gh-token <GH_TOKEN> --input repo_names.txt --output repo_details
+python scripts/fetch_repo_details.py --gh-token <GH_TOKEN> --input repo_names.txt --output repo_details/
 ```
 
 ##### 3. Generate a single CSV
@@ -39,21 +39,37 @@ python scripts/fetch_repo_details.py --gh-token <GH_TOKEN> --input repo_names.tx
 Summarize the repository data into a single CSV.
 
 ```bash
-python scripts/generate_repo_csv.py --input repo_details --output repos.csv
+python scripts/generate_repo_csv.py --input repo_details/ --output repos.csv
 ```
 
-##### 4. Clone repositories
+##### 4. Filter CSV
+
+Create a new CSV that is a filtered version of the original.
+
+```bash
+python scripts/filter_repo_csv.py --input repos.csv --output repos_filtered.csv
+```
+
+##### 5. Clone repositories
 
 Clone the repositories from the CSV one-by-one in order.
 
 ```bash
-python scripts/clone_repos.py --input repos.csv --output clones
+python scripts/clone_repos.py --input repos_filtered.csv --output clones/
 ```
 
-##### 5. Extract data using Neodepends
+##### 6. Extract data using Neodepends
 
 Export entities, deps, changes, and contents from the repository into a SQLite database using [Neodepends](https://github.com/jlefever/neodepends).
 
 ```bash
-python scripts/extract_dbs.py --input repos.csv --clones clones --output dbs
+python scripts/extract_dbs.py --input repos_filtered.csv --clones clones --output dbs/
+```
+
+##### 7. Extract data using Neodepends
+
+Neodepends isn't great at reporting failures. So, check the validity of each `.db` file and export the valid ones to a text file.
+
+```bash
+python scripts/export_db_list.py --input repos_filtered.csv --dbs dbs/ --output dbs.txt
 ```
