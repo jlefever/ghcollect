@@ -1,19 +1,14 @@
-dbs/iluwatar/java-design-patterns.db
-dbs/macrozheng/mall.db
 dbs/spring-projects/spring-boot.db
 dbs/elastic/elasticsearch.db
-dbs/kdn251/interviews.db
 dbs/google/guava.db
 dbs/NationalSecurityAgency/ghidra.db
 dbs/skylot/jadx.db
 dbs/jeecgboot/jeecg-boot.db
 dbs/dbeaver/dbeaver.db
-dbs/eugenp/tutorials.db
 dbs/alibaba/arthas.db
 dbs/bumptech/glide.db
 dbs/Blankj/AndroidUtilCode.db
 dbs/netty/netty.db
-dbs/xkcoding/spring-boot-demo.db
 dbs/termux/termux-app.db
 dbs/alibaba/easyexcel.db
 dbs/alibaba/nacos.db
@@ -47,26 +42,20 @@ dbs/OpenAPITools/openapi-generator.db
 dbs/apache/shardingsphere.db
 dbs/brettwooldridge/HikariCP.db
 dbs/iBotPeaches/Apktool.db
-dbs/linlinjava/litemall.db
 dbs/Baseflow/PhotoView.db
 dbs/google/dagger.db
 dbs/facebook/fresco.db
 dbs/nostra13/Android-Universal-Image-Loader.db
 dbs/openzipkin/zipkin.db
 dbs/Tencent/APIJSON.db
-dbs/winterbe/java8-tutorial.db
 dbs/shuzheng/zheng.db
-dbs/williamfiset/Algorithms.db
 dbs/antlr/antlr4.db
-dbs/JeffLi1993/springboot-learning-example.db
 dbs/justauth/JustAuth.db
 dbs/material-components/material-components-android.db
 dbs/baomidou/mybatis-plus.db
 dbs/thingsboard/thingsboard.db
 dbs/prestodb/presto.db
 dbs/dromara/Sa-Token.db
-dbs/kunal-kushwaha/DSA-Bootcamp-Java.db
-dbs/android10/Android-CleanArchitecture.db
 dbs/alibaba/DataX.db
 dbs/alibaba/ARouter.db
 dbs/Tencent/QMUI_Android.db
@@ -87,7 +76,6 @@ dbs/quarkusio/quarkus.db
 dbs/LuckSiege/PictureSelector.db
 dbs/sqshq/piggymetrics.db
 dbs/youth5201314/banner.db
-dbs/macrozheng/mall-learning.db
 dbs/projectlombok/lombok.db
 dbs/zhihu/Matisse.db
 dbs/daimajia/AndroidViewAnimations.db
@@ -143,19 +131,15 @@ dbs/pockethub/PocketHub.db
 dbs/OpenFeign/feign.db
 dbs/Justson/AgentWeb.db
 dbs/crossoverJie/cim.db
-dbs/android/testing-samples.db
 dbs/ssssssss-team/spider-flow.db
 dbs/GcsSloop/AndroidNote.db
-dbs/navasmdc/MaterialDesignLibrary.db
 dbs/huanghaibin-dev/CalendarView.db
 dbs/didi/VirtualAPK.db
-dbs/awsdocs/aws-doc-sdk-examples.db
 dbs/cats-oss/android-gpuimage.db
 dbs/nathanmarz/storm.db
 dbs/zfile-dev/zfile.db
 dbs/laobie/StatusBarUtil.db
 dbs/opensearch-project/OpenSearch.db
-dbs/firebase/quickstart-android.db
 dbs/chrisjenx/Calligraphy.db
 dbs/ybq/Android-SpinKit.db
 dbs/provectus/kafka-ui.db
@@ -239,7 +223,6 @@ dbs/koush/ion.db
 dbs/apache/zeppelin.db
 dbs/sshahine/JFoenix.db
 dbs/wasabeef/richeditor-android.db
-dbs/fuzhengwei/itstack-demo-design.db
 dbs/ikew0ng/SwipeBackLayout.db
 dbs/wiremock/wiremock.db
 dbs/rengwuxian/MaterialEditText.db
@@ -314,17 +297,13 @@ dbs/JanusGraph/janusgraph.db
 dbs/lingochamp/okdownload.db
 dbs/apache/hudi.db
 dbs/jetlinks/jetlinks-community.db
-dbs/CodingDocs/springboot-guide.db
-dbs/spring-projects/spring-data-examples.db
 dbs/meefik/linuxdeploy.db
 dbs/wequick/Small.db
 dbs/coobird/thumbnailator.db
 dbs/Trinea/android-common.db
-dbs/android/views-widgets-samples.db
 dbs/orhanobut/dialogplus.db
 dbs/frogermcs/InstaMaterial.db
 dbs/JodaOrg/joda-time.db
-dbs/amitshekhariitbhu/RxJava2-Android-Samples.db
 dbs/hyperledger/web3j.db
 dbs/Devlight/NavigationTabBar.db
 dbs/traex/RippleEffect.db
@@ -387,7 +366,6 @@ dbs/mock-server/mockserver.db
 dbs/GeyserMC/Geyser.db
 dbs/648540858/wvp-GB28181-pro.db
 dbs/square/android-times-square.db
-dbs/janishar/android-mvp-architecture.db
 dbs/apache/nifi.db
 dbs/tianshiyeben/wgcloud.db
 dbs/azkaban/azkaban.db
@@ -395,7 +373,6 @@ dbs/exadel-inc/CompreFace.db
 dbs/spring-cloud/spring-cloud-gateway.db
 dbs/Meituan-Dianping/Robust.db
 dbs/rubenlagus/TelegramBots.db
-dbs/phishman3579/java-algorithms-implementation.db
 dbs/apache/calcite.db
 dbs/bytedeco/javacpp.db
 dbs/robinhood/ticker.db
@@ -403,7 +380,6 @@ dbs/JZ-Darkal/AndroidHttpCapture.db
 dbs/CalebFenton/simplify.db
 dbs/airbnb/DeepLinkDispatch.db
 dbs/Ashok-Varma/BottomNavigation.db
-dbs/zq2599/blog_demos.db
 dbs/micrometer-metrics/micrometer.db
 dbs/dreamhead/moco.db
 dbs/bingoogolapple/BGARefreshLayout-Android.db
@@ -413,7 +389,6 @@ dbs/aporter/coursera-android.db
 dbs/apache/iotdb.db
 dbs/ongakuer/CircleIndicator.db
 dbs/grantland/android-autofittextview.db
-dbs/ddd-by-examples/library.db
 dbs/ChadCSong/ShineButton.db
 dbs/ThirtyDegreesRay/OpenHub.db
 dbs/diffplug/spotless.db
@@ -447,12 +422,10 @@ dbs/crate/crate.db
 dbs/pqpo/SmartCropper.db
 dbs/Sayi/poi-tl.db
 dbs/mercyblitz/tech-weekly.db
-dbs/binIoter/GuideView.db
 dbs/zendesk/maxwell.db
 dbs/JoanZapata/android-iconify.db
 dbs/DTStack/chunjun.db
 dbs/bluelinelabs/Conductor.db
-dbs/databricks/learning-spark.db
 dbs/aurelhubert/ahbottomnavigation.db
 dbs/MiguelCatalan/MaterialSearchView.db
 dbs/amirzaidi/Launcher3.db
@@ -466,7 +439,6 @@ dbs/lygttpod/SuperTextView.db
 dbs/allure-framework/allure2.db
 dbs/mpusher/mpush.db
 dbs/promeG/TinyPinyin.db
-dbs/Snailclimb/guide-rpc-framework.db
 dbs/apache/incubator-streampark.db
 dbs/awaitility/awaitility.db
 dbs/CameraKit/blurkit-android.db
@@ -478,12 +450,9 @@ dbs/Atmosphere/atmosphere.db
 dbs/mcxtzhang/SwipeDelMenuLayout.db
 dbs/stfalcon-studio/ChatKit.db
 dbs/google/rejoiner.db
-dbs/VaughnVernon/IDDD_Samples.db
 dbs/lisawray/groupie.db
 dbs/yanzhenjie/AndServer.db
 dbs/ethanhua/Skeleton.db
-dbs/RipMeApp/ripme.db
-dbs/shuzijun/leetcode-editor.db
 dbs/rockerhieu/emojicon.db
 dbs/apache/kylin.db
 dbs/networknt/light-4j.db
@@ -504,8 +473,6 @@ dbs/201206030/novel-plus.db
 dbs/googlemaps/android-maps-utils.db
 dbs/baoyongzhang/SwipeMenuListView.db
 dbs/zhkl0228/unidbg.db
-dbs/vert-x3/vertx-examples.db
-dbs/huburt-Hu/NewbieGuide.db
 dbs/alibaba/Alink.db
 dbs/spockframework/spock.db
 dbs/sofastack/sofa-jraft.db
@@ -519,7 +486,6 @@ dbs/guolindev/giffun.db
 dbs/kubernetes-client/java.db
 dbs/dromara/dynamic-tp.db
 dbs/ittianyu/BottomNavigationViewEx.db
-dbs/sherxon/AlgoDS.db
 dbs/alamkanak/Android-Week-View.db
 dbs/spring-cloud/spring-cloud-kubernetes.db
 dbs/anggrayudi/android-hidden-api.db
@@ -540,7 +506,6 @@ dbs/Mojang/brigadier.db
 dbs/luojilab/DDComponentForAndroid.db
 dbs/woxingxiao/BubbleSeekBar.db
 dbs/kevinsawicki/http-request.db
-dbs/microservices-patterns/ftgo-application.db
 dbs/fabric8io/kubernetes-client.db
 dbs/Red5/red5-server.db
 dbs/microsoft/react-native-macos.db
@@ -586,7 +551,6 @@ dbs/JackyAndroid/AndroidChromium.db
 dbs/TNG/ArchUnit.db
 dbs/elvishew/xLog.db
 dbs/yarolegovich/SlidingRootNav.db
-dbs/yusugomori/DeepLearning.db
 dbs/camunda/zeebe.db
 dbs/sofastack/sofa-jarslink.db
 dbs/real-logic/simple-binary-encoding.db
@@ -601,7 +565,6 @@ dbs/bmelnychuk/AndroidTreeView.db
 dbs/lovetuzitong/MultiImageSelector.db
 dbs/jasonross/Nuwa.db
 dbs/WeBankFinTech/DataSphereStudio.db
-dbs/janishar/android-mvvm-architecture.db
 dbs/googlesamples/android-vision.db
 dbs/prometheus/jmx_exporter.db
 dbs/sockeqwe/AdapterDelegates.db
@@ -635,7 +598,6 @@ dbs/uncle-novel/uncle-novel.db
 dbs/ulisesbocchio/jasypt-spring-boot.db
 dbs/Neamar/KISS.db
 dbs/square/flow.db
-dbs/pedrovgs/Algorithms.db
 dbs/jOOQ/jOOR.db
 dbs/apache/avro.db
 dbs/qunarcorp/qmq.db
@@ -659,7 +621,6 @@ dbs/andpor/react-native-sqlite-storage.db
 dbs/TangoAgency/material-intro-screen.db
 dbs/deano2390/MaterialShowcaseView.db
 dbs/spring-projects/spring-loaded.db
-dbs/aritraroy/PatternLockView.db
 dbs/C2SP/wycheproof.db
 dbs/dromara/liteflow.db
 dbs/internetarchive/heritrix3.db
@@ -694,7 +655,6 @@ dbs/mihaip/dex-method-counts.db
 dbs/Creators-of-Create/Create.db
 dbs/mongodb/mongo-java-driver.db
 dbs/SimonVT/android-menudrawer.db
-dbs/thombergs/code-examples.db
 dbs/LuckyJayce/ViewPagerIndicator.db
 dbs/vdurmont/emoji-java.db
 dbs/Kyson/AndroidGodEye.db
@@ -708,16 +668,13 @@ dbs/assertj/assertj.db
 dbs/AigeStudio/WheelPicker.db
 dbs/pushtorefresh/storio.db
 dbs/iReaderAndroid/X2C.db
-dbs/android/animation-samples.db
 dbs/Azoft/CarouselLayoutManager.db
 dbs/pwittchen/ReactiveNetwork.db
 dbs/reactor/reactor-netty.db
 dbs/nutzam/nutz.db
-dbs/iPaulPro/Android-ItemTouchHelper-Demo.db
 dbs/Zomato/AndroidPhotoFilters.db
 dbs/team-supercharge/ShimmerLayout.db
 dbs/SonicCloudOrg/sonic-server.db
-dbs/javaee-samples/javaee7-samples.db
 dbs/apache/logging-flume.db
 dbs/yanzhenjie/Album.db
 dbs/liyiorg/weixin-popular.db
@@ -745,8 +702,6 @@ dbs/alibaba/jvm-sandbox-repeater.db
 dbs/iammert/MaterialIntroView.db
 dbs/ozodrukh/CircularReveal.db
 dbs/http-kit/http-kit.db
-dbs/deeplearning4j/deeplearning4j-examples.db
-dbs/konifar/android-material-design-icon-generator-plugin.db
 dbs/erupts/erupt.db
 dbs/AhmadElsagheer/Competitive-programming-library.db
 dbs/lealone/Lealone.db
@@ -779,7 +734,6 @@ dbs/yuyakaido/CardStackView.db
 dbs/bingoogolapple/BGASwipeBackLayout-Android.db
 dbs/vikramkakkar/SublimePicker.db
 dbs/hidroh/materialistic.db
-dbs/confluentinc/kafka-streams-examples.db
 dbs/meituan/WMRouter.db
 dbs/H07000223/FlycoDialog_Master.db
 dbs/vladmihalcea/hypersistence-utils.db
@@ -791,7 +745,6 @@ dbs/pf4j/pf4j.db
 dbs/moquette-io/moquette.db
 dbs/jenkinsci/kubernetes-plugin.db
 dbs/Devlight/NavigationTabStrip.db
-dbs/apache/incubator-seata-samples.db
 dbs/modelmapper/modelmapper.db
 dbs/sarxos/webcam-capture.db
 dbs/FasterXML/jackson-core.db
@@ -805,14 +758,12 @@ dbs/didi/tinyid.db
 dbs/xinghongfei/LookLook.db
 dbs/firebase/firebase-android-sdk.db
 dbs/LogNet/grpc-spring-boot-starter.db
-dbs/baomidou/mybatis-plus-samples.db
 dbs/apache/gobblin.db
 dbs/anjlab/android-inapp-billing-v3.db
 dbs/anitaa1990/Android-Cheat-sheet.db
 dbs/vsch/flexmark-java.db
 dbs/bcgit/bc-java.db
 dbs/shyiko/mysql-binlog-connector-java.db
-dbs/apache/dubbo-samples.db
 dbs/loopeer/CardStackView.db
 dbs/seiginonakama/BlockCanaryEx.db
 dbs/ethereum/ethereumj.db
@@ -872,7 +823,6 @@ dbs/jOOQ/jOOL.db
 dbs/a466350665/smart-sso.db
 dbs/luckybilly/SmartSwipe.db
 dbs/Qihoo360/Quicksql.db
-dbs/udacity/ud851-Exercises.db
 dbs/fossasia/pslab-android.db
 dbs/yadav-rahul/TastyToast.db
 dbs/medyo/android-about-page.db
@@ -935,9 +885,7 @@ dbs/x-ream/sqli.db
 dbs/Cleveroad/AdaptiveTableLayout.db
 dbs/Wizcorp/phonegap-facebook-plugin.db
 dbs/Tencent/soter.db
-dbs/quarkusio/quarkus-quickstarts.db
 dbs/apache/drill.db
-dbs/mercyblitz/thinking-in-spring-boot-samples.db
 dbs/NordicSemiconductor/Android-BLE-Library.db
 dbs/sephiroth74/ImageViewZoom.db
 dbs/ZhaoKaiQiang/KLog.db
@@ -961,8 +909,6 @@ dbs/fabric8io/docker-maven-plugin.db
 dbs/pinterest/secor.db
 dbs/flavienlaurent/datetimepicker.db
 dbs/spring-projects/spring-session.db
-dbs/keycloak/keycloak-quickstarts.db
-dbs/macrozheng/mall-tiny.db
 dbs/goldmansachs/gs-collections.db
 dbs/stfalcon-studio/FrescoImageViewer.db
 dbs/SafeGroceryStore/MDUT.db
@@ -1006,7 +952,6 @@ dbs/ParkSangGwon/TedPermission.db
 dbs/JZXiang/TimePickerDialog.db
 dbs/PureDark/H-Viewer.db
 dbs/facebook/screenshot-tests-for-android.db
-dbs/Qihoo360/XLearning.db
 dbs/0x727/SpringBootExploit.db
 dbs/evollu/react-native-fcm.db
 dbs/tangqi92/WaveLoadingView.db
@@ -1021,7 +966,6 @@ dbs/open-telemetry/opentelemetry-java-instrumentation.db
 dbs/hongyangAndroid/AndroidChangeSkin.db
 dbs/Cutta/GifView.db
 dbs/linkedin/ambry.db
-dbs/GoogleCloudPlatform/java-docs-samples.db
 dbs/yangchong211/YCWebView.db
 dbs/LianjiaTech/retrofit-spring-boot-starter.db
 dbs/strapdata/elassandra.db
@@ -1049,7 +993,6 @@ dbs/JasonQS/Anti-recall.db
 dbs/spring-projects-experimental/spring-fu.db
 dbs/jooby-project/jooby.db
 dbs/birdLark/LarkMidTable.db
-dbs/googleads/googleads-mobile-android-examples.db
 dbs/harism/android-pagecurl.db
 dbs/Tibolte/ElasticDownload.db
 dbs/AAkira/ExpandableLayout.db
@@ -1098,7 +1041,6 @@ dbs/paulroehr/EazeGraph.db
 dbs/bramp/ffmpeg-cli-wrapper.db
 dbs/Agontuk/react-native-geolocation-service.db
 dbs/harjot-oberai/VectorMaster.db
-dbs/android/connectivity-samples.db
 dbs/zhisheng17/blog.db
 dbs/ocetnik/react-native-background-timer.db
 dbs/j256/ormlite-android.db
@@ -1163,7 +1105,6 @@ dbs/knowm/XChart.db
 dbs/mitreid-connect/OpenID-Connect-Java-Spring-Server.db
 dbs/naoufal/react-native-touch-id.db
 dbs/xiepeijie/SwipeCardView.db
-dbs/o19s/elasticsearch-learning-to-rank.db
 dbs/ddssingsong/webrtc_android.db
 dbs/liuling07/SimpleNews.db
 dbs/Jigsaw-Code/Intra.db
@@ -1178,7 +1119,6 @@ dbs/google/flogger.db
 dbs/bwssytems/ha-bridge.db
 dbs/leinardi/FloatingActionButtonSpeedDial.db
 dbs/j4velin/Pedometer.db
-dbs/motianhuo/VCameraDemo.db
 dbs/yahoo/mysql_perf_analyzer.db
 dbs/cincheo/jsweet.db
 dbs/jknack/handlebars.java.db
@@ -1304,9 +1244,7 @@ dbs/michalchudziak/react-native-geolocation.db
 dbs/jvm-profiling-tools/honest-profiler.db
 dbs/henryyan/activiti-in-action-codes.db
 dbs/VazkiiMods/Botania.db
-dbs/android/media-samples.db
 dbs/pingpongboss/StandOut.db
-dbs/mapstruct/mapstruct-examples.db
 dbs/Tibolte/AgendaCalendarView.db
 dbs/harjot-oberai/Croller.db
 dbs/google/conscrypt.db
@@ -1329,7 +1267,6 @@ dbs/microcks/microcks.db
 dbs/belerweb/pinyin4j.db
 dbs/rkalla/imgscalr.db
 dbs/muraee/Horizontal-Calendar.db
-dbs/habuma/spring-in-action-5-samples.db
 dbs/rampatra/jbot.db
 dbs/jsquared21/Intro-to-Java-Programming.db
 dbs/aliyun/aliyun-oss-java-sdk.db
@@ -1451,13 +1388,10 @@ dbs/davidmoten/rtree.db
 dbs/alipay/alipay-easysdk.db
 dbs/Chanven/CommonPullToRefresh.db
 dbs/ShawnLin013/NumberPicker.db
-dbs/iiitv/algos.db
 dbs/yarolegovich/LovelyDialog.db
 dbs/taoweiji/MixPush.db
 dbs/ucarGroup/DataLink.db
 dbs/bobbylight/RSyntaxTextArea.db
-dbs/zirouan/NavigationDrawer-MaterialDesign.db
-dbs/wzgiceman/RxjavaRetrofitDemo-master.db
 dbs/ISchwarz23/SortableTableView.db
 dbs/requery/sqlite-android.db
 dbs/apache/jena.db
@@ -1497,7 +1431,6 @@ dbs/xerial/snappy-java.db
 dbs/omkarmoghe/Pokemap.db
 dbs/donkingliang/LabelsView.db
 dbs/zalando/problem-spring-web.db
-dbs/dapr/quickstarts.db
 dbs/jianzhongli/MathView.db
 dbs/booncol/Pulsator4Droid.db
 dbs/confluentinc/kafka-connect-jdbc.db
@@ -1545,11 +1478,9 @@ dbs/wuhenzhizao/android-titlebar.db
 dbs/Hitomis/CircleMenu.db
 dbs/i-net-software/JWebAssembly.db
 dbs/yulichang/mybatis-plus-join.db
-dbs/sukritishah15/DS-Algo-Point.db
 dbs/pholser/junit-quickcheck.db
 dbs/zalando/nakadi.db
 dbs/diegodobelo/AndroidExpandingViewLibrary.db
-dbs/saki4510t/AudioVideoRecordingSample.db
 dbs/protegeproject/protege.db
 dbs/awslabs/aws-saas-boost.db
 dbs/BCsl/GalleryLayoutManager.db
@@ -1562,7 +1493,6 @@ dbs/LoveMyOrange/ActivitiSourceCode.db
 dbs/krlvm/PowerTunnel-Android.db
 dbs/don/cordova-plugin-ble-central.db
 dbs/smarteist/Android-Image-Slider.db
-dbs/spring-cloud/spring-cloud-stream-samples.db
 dbs/aol/micro-server.db
 dbs/nathanmarz/storm-starter.db
 dbs/RestExpress/RestExpress.db
@@ -1577,16 +1507,13 @@ dbs/atilika/kuromoji.db
 dbs/monitorjbl/excel-streaming-reader.db
 dbs/hankcs/AhoCorasickDoubleArrayTrie.db
 dbs/locationtech/spatial4j.db
-dbs/nacos-group/nacos-examples.db
 dbs/emilsjolander/android-FlipView.db
 dbs/togglz/togglz.db
 dbs/apache/activemq-artemis.db
 dbs/jfaster/mango.db
 dbs/imablanco/Zoomy.db
-dbs/thepranaygupta/Data-Structures-and-Algorithms.db
 dbs/nidi3/graphviz-java.db
 dbs/crosswall/Android-Coverflow.db
-dbs/4pr0n/ripme.db
 dbs/miguelhincapie/CustomBottomSheetBehavior.db
 dbs/hexene/LocalVPN.db
 dbs/Haehnchen/idea-php-symfony2-plugin.db
@@ -1597,7 +1524,6 @@ dbs/objectionary/eo.db
 dbs/instagram4j/instagram4j.db
 dbs/Impetus/kundera.db
 dbs/Rosemoe/sora-editor.db
-dbs/wildfly/quickstart.db
 dbs/spring-projects/spring-data-rest.db
 dbs/uber/uReplicator.db
 dbs/hanhailong/FlowTag.db
@@ -1616,7 +1542,6 @@ dbs/TaleLin/lin-cms-spring-boot.db
 dbs/gorbin/ASNE.db
 dbs/Earthcomputer/EnchantmentCracker.db
 dbs/emmaguy/clean-status-bar.db
-dbs/paulc4/microservices-demo.db
 dbs/shts/StoriesProgressView.db
 dbs/MasayukiSuda/ExoPlayerFilter.db
 dbs/AAChartModel/AAChartCore.db
@@ -1633,7 +1558,6 @@ dbs/robert-bor/aho-corasick.db
 dbs/eclipse-vertx/vertx-sql-client.db
 dbs/whataa/SuitLines.db
 dbs/prometheus/cloudwatch_exporter.db
-dbs/saturnism/grpc-by-example-java.db
 dbs/jshiell/checkstyle-idea.db
 dbs/apache/hop.db
 dbs/OfficeDev/ews-java-api.db
@@ -1686,7 +1610,6 @@ dbs/Fabricators-of-Create/Create.db
 dbs/ChenLittlePing/RecyclerCoverFlow.db
 dbs/apache/mina-sshd.db
 dbs/SpaceMadness/lunar-unity-console.db
-dbs/rampatra/Algorithms-and-Data-Structures-in-Java.db
 dbs/percyliang/sempre.db
 dbs/inferred/FreeBuilder.db
 dbs/mkuczera/react-native-haptic-feedback.db
@@ -1710,7 +1633,6 @@ dbs/beanshell/beanshell.db
 dbs/spring-projects/spring-data-neo4j.db
 dbs/MachinePublishers/jBrowserDriver.db
 dbs/ifnoelse/pdf-bookmark.db
-dbs/BuglyDevTeam/Bugly-Android-Demo.db
 dbs/felixpalmer/android-visualizer.db
 dbs/hivemq/hivemq-mqtt-client.db
 dbs/KennFalcon/elasticsearch-analysis-hanlp.db
@@ -1776,7 +1698,6 @@ dbs/magro/memcached-session-manager.db
 dbs/kongchen/swagger-maven-plugin.db
 dbs/alinz/react-native-share-extension.db
 dbs/stripe/stripe-java.db
-dbs/rieckpil/blog-tutorials.db
 dbs/AwakenCN/InChat.db
 dbs/spring-projects/spring-data-commons.db
 dbs/dlsc-software-consulting-gmbh/CalendarFX.db
@@ -1797,11 +1718,9 @@ dbs/NordicSemiconductor/Android-DFU-Library.db
 dbs/tipsy/j2html.db
 dbs/scala-android/sbt-android.db
 dbs/fangyidong/json-simple.db
-dbs/amitshekhariitbhu/Android-TensorFlow-Lite-Example.db
 dbs/NordicSemiconductor/Android-Scanner-Compat-Library.db
 dbs/restfb/restfb.db
 dbs/uPhyca/stetho-realm.db
-dbs/springfox/springfox-demos.db
 dbs/linkedin/coral.db
 dbs/joltup/react-native-threads.db
 dbs/cdapio/cdap.db
@@ -1838,7 +1757,6 @@ dbs/ztosec/secscan-authcheck.db
 dbs/abel533/guns.db
 dbs/jline/jline2.db
 dbs/shuyo/language-detection.db
-dbs/mapbox/mapbox-android-demo.db
 dbs/codebutler/android-websockets.db
 dbs/deliveredtechnologies/rulebook.db
 dbs/ThanosFisherman/WifiUtils.db
@@ -1875,7 +1793,6 @@ dbs/hypertrack/hyperlog-android.db
 dbs/Pangu-Immortal/KeepAlivePerfect.db
 dbs/Esri/geometry-api-java.db
 dbs/apache/submarine.db
-dbs/alphacep/vosk-android-demo.db
 dbs/hierynomus/smbj.db
 dbs/kimxogus/react-native-version-check.db
 dbs/Rapsssito/react-native-background-actions.db
@@ -1993,7 +1910,6 @@ dbs/skadistats/clarity.db
 dbs/dynjs/dynjs.db
 dbs/larsga/Duke.db
 dbs/georgewfraser/java-language-server.db
-dbs/spring-guides/gs-spring-boot-docker.db
 dbs/kennycason/kumo.db
 dbs/takimafr/androidkickstartr.db
 dbs/cloverstudio/Spika.db
@@ -2014,7 +1930,6 @@ dbs/react-native-dialogs/react-native-dialogs.db
 dbs/ryanhoo/PhotoCropper.db
 dbs/scalecube/scalecube-services.db
 dbs/pinball83/Masked-Edittext.db
-dbs/eventuate-tram/eventuate-tram-examples-customers-and-orders.db
 dbs/graalvm/simplelanguage.db
 dbs/in28minutes/full-stack-with-react-and-spring-boot.db
 dbs/idunnololz/AnimatedExpandableListView.db
@@ -2059,7 +1974,6 @@ dbs/j256/ormlite-core.db
 dbs/boxme/SquareCamera.db
 dbs/allenai/science-parse.db
 dbs/dpa99c/cordova-plugin-firebasex.db
-dbs/openjfx/samples.db
 dbs/tolu360/react-native-google-places.db
 dbs/youseries/uflo.db
 dbs/mreram/ShowCaseView.db
@@ -2109,13 +2023,11 @@ dbs/it-rico/ZrcListView.db
 dbs/kobakei/Android-RateThisApp.db
 dbs/GantMan/jail-monkey.db
 dbs/mgks/Android-SmartWebView.db
-dbs/vert-x3/vertx-guide-for-java-devs.db
 dbs/spring-cloud/spring-cloud-zookeeper.db
 dbs/awslabs/aws-athena-query-federation.db
 dbs/nats-io/nats.java.db
 dbs/novoda/spikes.db
 dbs/huxq17/SwipeCardsView.db
-dbs/hazelcast/hazelcast-code-samples.db
 dbs/PlayPro/CoreProtect.db
 dbs/apache/streampipes.db
 dbs/bevy/photo-editor-android.db
@@ -2172,8 +2084,6 @@ dbs/ReactiveX/RxJavaFX.db
 dbs/passy/Android-DirectoryChooser.db
 dbs/aerogear/keycloak-metrics-spi.db
 dbs/SpaiR/imgui-java.db
-dbs/spring-guides/getting-started-guides.db
-dbs/Anuj-Kumar-Sharma/DS-Algo.db
 dbs/javapathfinder/jpf-core.db
 dbs/jitsi/jigasi.db
 dbs/florent37/TutoShowcase.db
@@ -2183,7 +2093,6 @@ dbs/jiaqi/jmxterm.db
 dbs/qinming99/dst-admin.db
 dbs/YoKeyword/SwipeBackFragment.db
 dbs/inmite/android-validation-komensky.db
-dbs/eventuate-tram/eventuate-tram-sagas-examples-customers-and-orders.db
 dbs/crawljax/crawljax.db
 dbs/Railcraft/Railcraft.db
 dbs/Cicizz/jmqtt.db
@@ -2208,7 +2117,6 @@ dbs/TANGKUO/HIS.db
 dbs/locationtech/geowave.db
 dbs/mongobee/mongobee.db
 dbs/eventeum/eventeum.db
-dbs/apache/servicecomb-samples.db
 dbs/googlesamples/android-play-publisher-api.db
 dbs/line/line-fido2-server.db
 dbs/danimahardhika/candybar-library.db
@@ -2225,7 +2133,6 @@ dbs/xylo/intellij-postfix-templates.db
 dbs/sstrickx/yahoofinance-api.db
 dbs/ververica/flink-sql-gateway.db
 dbs/oVirt/ovirt-engine.db
-dbs/googlesamples/androidtv-sample-inputs.db
 dbs/aleksandr-m/gitflow-maven-plugin.db
 dbs/fr1kin/ForgeHax.db
 dbs/FinVolution/pmq.db
@@ -2243,14 +2150,12 @@ dbs/confluentinc/kafka-connect-hdfs.db
 dbs/springtestdbunit/spring-test-dbunit.db
 dbs/fair-acc/chart-fx.db
 dbs/appoly/ARCore-Location.db
-dbs/gaussic/SpringMVCDemo.db
 dbs/fasseg/exp4j.db
 dbs/egslava/edittext-mask.db
 dbs/thelastpickle/cassandra-reaper.db
 dbs/nolanlawson/Catlog.db
 dbs/jprante/elasticsearch-knapsack.db
 dbs/thymeleaf/thymeleaf-extras-springsecurity.db
-dbs/androidthings/sample-googleassistant.db
 dbs/iipc/openwayback.db
 dbs/BiscuitDevelopment/SkyblockAddons.db
 dbs/Itiviti/simple-slack-api.db
@@ -2263,7 +2168,6 @@ dbs/code4craft/xsoup.db
 dbs/jmix-framework/jmix.db
 dbs/games647/FastLogin.db
 dbs/dekorateio/dekorate.db
-dbs/vaadin/dashboard-demo.db
 dbs/TerraformersMC/ModMenu.db
 dbs/Waffle/waffle.db
 dbs/react-native-cookies/cookies.db
@@ -2302,7 +2206,6 @@ dbs/restx/restx.db
 dbs/kokorin/Jaffree.db
 dbs/emqx/mqtt-jmeter.db
 dbs/alibaba/bytekit.db
-dbs/habuma/spring-in-action-4-samples.db
 dbs/GrapheneOS/Auditor.db
 dbs/QuiltMC/quilt-loader.db
 dbs/naver/fixture-monkey.db
@@ -2347,7 +2250,6 @@ dbs/hibernate/hibernate-reactive.db
 dbs/ViaVersion/ViaBackwards.db
 dbs/lumifyio/lumify.db
 dbs/cobbzilla/s3s3mirror.db
-dbs/aws-samples/aws-sam-java-rest.db
 dbs/retrooper/packetevents.db
 dbs/yahoo/storm-yarn.db
 dbs/spring-projects-experimental/spring-boot-migrator.db
@@ -2375,7 +2277,6 @@ dbs/jsorrell/CarpetSkyAdditions.db
 dbs/samdjstevens/java-totp.db
 dbs/highsource/jaxb-tools.db
 dbs/wymsee/cordova-imagePicker.db
-dbs/GwtMaterialDesign/gwt-material.db
 dbs/kafka-ops/julie.db
 dbs/mapbox/mapbox-java.db
 dbs/malmstein/fenster.db
@@ -2458,11 +2359,8 @@ dbs/kaaes/spotify-web-api-android.db
 dbs/tcking/GiraffePlayer2.db
 dbs/RamiJ3mli/PercentageChartView.db
 dbs/cybergarage/cybergarage-upnp.db
-dbs/bobocode-projects/java-fundamentals-exercises.db
 dbs/segmentio/analytics-android.db
 dbs/goldmansachs/reladomo.db
-dbs/spring-cloud-samples/spring-cloud-contract-samples.db
-dbs/GoogleCloudPlatform/cloud-code-samples.db
 dbs/ua-parser/uap-java.db
 dbs/cdancy/jenkins-rest.db
 dbs/diegocarloslima/FloatingGroupExpandableListView.db
@@ -2481,7 +2379,6 @@ dbs/Chainfire/librootjava.db
 dbs/flaxsearch/luwak.db
 dbs/spring-projects/spring-data-cassandra.db
 dbs/jd-opensource/joyqueue.db
-dbs/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library.db
 dbs/flipkart-incubator/springy-heads.db
 dbs/WPIRoboticsProjects/GRIP.db
 dbs/librespot-org/librespot-java.db
@@ -2494,7 +2391,6 @@ dbs/bertrandmartel/speed-test-lib.db
 dbs/comp500/Indium.db
 dbs/wso2/product-ei.db
 dbs/Trainguy9512/trainguys-animation-overhaul.db
-dbs/aliyun/alibabacloud-microservice-demo.db
 dbs/markusaksli/TradeBot.db
 dbs/arquillian/arquillian-core.db
 dbs/Esri/spatial-framework-for-hadoop.db
@@ -2508,13 +2404,11 @@ dbs/nuls-io/nuls-v1.db
 dbs/box/mojito.db
 dbs/wu9007/qrcode_scanner.db
 dbs/debop/hibernate-redis.db
-dbs/Qualeams/Android-Face-Recognition-with-Deep-Learning-Test-Framework.db
 dbs/LambdAurora/LambDynamicLights.db
 dbs/mjiderhamn/classloader-leak-prevention.db
 dbs/SerCeMan/jnr-fuse.db
 dbs/vividus-framework/vividus.db
 dbs/jxlsteam/jxls.db
-dbs/spring-cloud-samples/spring-cloud-gateway-sample.db
 dbs/vijayrawatsan/android-json-form-wizard.db
 dbs/marverenic/Jockey.db
 dbs/CloudNetService/CloudNet.db
@@ -2602,7 +2496,6 @@ dbs/bogkonstantin/android_income_sms_gateway_webhook.db
 dbs/googleads/googleads-mobile-flutter.db
 dbs/antkaynak/Keyist-Ecommerce.db
 dbs/TechReborn/TechReborn.db
-dbs/android/car-samples.db
 dbs/dhorions/boxable.db
 dbs/approvals/ApprovalTests.Java.db
 dbs/anismiles/websocket-android-phonegap.db
@@ -2613,13 +2506,11 @@ dbs/rambler-digital-solutions/swipe-layout-android.db
 dbs/zhuowei/RaspberryJuice.db
 dbs/uber/RemoteShuffleService.db
 dbs/AnswerAIL/dingtalk-spring-boot-starter.db
-dbs/brainhubeu/react-native-opencv-tutorial.db
 dbs/sdaschner/jaxrs-analyzer.db
 dbs/sqlite-sync/SQLite-sync.com.db
 dbs/imLibo/FilePicker.db
 dbs/jfrog/artifactory-client-java.db
 dbs/shouryaj98/Hotel-Management-Project-Java.db
-dbs/googleworkspace/java-samples.db
 dbs/cinchapi/concourse.db
 dbs/appium/appium-uiautomator2-server.db
 dbs/NiklasMerz/cordova-plugin-fingerprint-aio.db
@@ -2631,7 +2522,6 @@ dbs/michaelprimez/searchablespinner.db
 dbs/castlemock/castlemock.db
 dbs/paukiatwee/budgetapp.db
 dbs/LinuxForHealth/FHIR.db
-dbs/thomasdarimont/keycloak-project-example.db
 dbs/jgritman/httpbuilder.db
 dbs/joielechong/CountryCodePicker.db
 dbs/devshawn/kafka-gitops.db
@@ -2639,7 +2529,6 @@ dbs/trautonen/coveralls-maven-plugin.db
 dbs/asciidoctor/asciidoctor-maven-plugin.db
 dbs/jMonkeyEngine/sdk.db
 dbs/PeteGoo/tcSlackBuildNotifier.db
-dbs/opennetworkinglab/ngsdn-tutorial.db
 dbs/react-native-component/react-native-smart-barcode.db
 dbs/jsibbold/zoomage.db
 dbs/aggregateknowledge/java-hll.db
@@ -2654,7 +2543,6 @@ dbs/Michaelvilleneuve/react-native-perspective-image-cropper.db
 dbs/swri-robotics/bag-database.db
 dbs/OSSpk/Library-Management-System-JAVA.db
 dbs/DroidPHP/DroidPHP.db
-dbs/eventuate-examples/eventuate-examples-java-spring-todo-list.db
 dbs/FasterXML/jackson-dataformats-binary.db
 dbs/TheHolyWaffle/TeamSpeak-3-Java-API.db
 dbs/Team-EnderIO/EnderIO.db
@@ -2670,11 +2558,9 @@ dbs/helun/Ektorp.db
 dbs/evangui/multi-fitness-console.db
 dbs/darsh2/MultipleImageSelect.db
 dbs/microsoft/team-explorer-everywhere.db
-dbs/confluentinc/kafka-tutorials.db
 dbs/OpenMods/OpenBlocks.db
 dbs/pf4j/pf4j-spring.db
 dbs/bohnman/squiggly.db
-dbs/jjoe64/GraphView-Demos.db
 dbs/DevonCrawford/A-Pathfinding-Visualization.db
 dbs/usb4java/usb4java.db
 dbs/initialxy/cordova-plugin-themeablebrowser.db
@@ -2707,7 +2593,6 @@ dbs/envoyproxy/java-control-plane.db
 dbs/tamir7/Contacts.db
 dbs/FasterXML/aalto-xml.db
 dbs/imshyam/mintube.db
-dbs/gluonhq/gluon-samples.db
 dbs/dadoonet/spring-elasticsearch.db
 dbs/nexmark/nexmark.db
 dbs/pengjianbo/LoadingViewFinal.db
@@ -2719,7 +2604,6 @@ dbs/wso2/product-microgateway.db
 dbs/apache/rocketmq-exporter.db
 dbs/ThomasLengeling/KinectPV2.db
 dbs/JarvanMo/ExoVideoView.db
-dbs/android/input-samples.db
 dbs/crnk-project/crnk-framework.db
 dbs/microsoft/vscode-java-test.db
 dbs/chrisbatt/AndroidFastImageProcessing.db
@@ -2749,7 +2633,6 @@ dbs/jzy3d/jzy3d-api.db
 dbs/aws-powertools/powertools-lambda-java.db
 dbs/jnr/jnr-unixsocket.db
 dbs/jaumard/sms_autofill.db
-dbs/GleasonK/android-webrtc-tutorial.db
 dbs/CycloneDX/cyclonedx-maven-plugin.db
 dbs/dj3500/hightail.db
 dbs/Sayi/swagger-diff.db
@@ -2792,7 +2675,6 @@ dbs/baumblatt/capacitor-firebase-auth.db
 dbs/thucydides-webtests/thucydides.db
 dbs/horrorho/InflatableDonkey.db
 dbs/confluentinc/kafka-connect-storage-cloud.db
-dbs/CamelCookbook/camel-cookbook-examples.db
 dbs/cantaloupe-project/cantaloupe.db
 dbs/didi/ES-Fastloader.db
 dbs/trung/InMemoryJavaCompiler.db
@@ -2831,7 +2713,6 @@ dbs/urlaubsverwaltung/urlaubsverwaltung.db
 dbs/oracle/weblogic-kubernetes-operator.db
 dbs/dapr/java-sdk.db
 dbs/geosolutions-it/geoserver-manager.db
-dbs/anitaa1990/Biometric-Auth-Sample.db
 dbs/TheCoder4eu/BootsFaces-OSP.db
 dbs/MobilityData/gtfs-validator.db
 dbs/jkrasnay/sqlbuilder.db
@@ -2875,7 +2756,6 @@ dbs/jezhumble/javasysmon.db
 dbs/clockbyte/admobadapter.db
 dbs/jaydeepw/audio-wife.db
 dbs/easybest/spring-data-mybatis.db
-dbs/aliyun/tablestore-examples.db
 dbs/Red-Folder/bgs-core.db
 dbs/openstf/STFService.apk.db
 dbs/julianhyde/optiq.db
@@ -2989,7 +2869,6 @@ dbs/cs-au-dk/dk.brics.automaton.db
 dbs/eclipse/microprofile-config.db
 dbs/fluent/fluent-logger-java.db
 dbs/dwdyer/watchmaker.db
-dbs/Adobe-Consulting-Services/acs-aem-samples.db
 dbs/hashgraph/hedera-sdk-java.db
 dbs/swagger-api/validator-badge.db
 dbs/WeBankBlockchain/WeCross.db
@@ -3029,14 +2908,12 @@ dbs/xebialabs/overthere.db
 dbs/jenkinsci/amazon-ecs-plugin.db
 dbs/newrelic/newrelic-java-agent.db
 dbs/awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore.db
-dbs/googleads/googleads-shopping-samples.db
 dbs/NervJS/taro-native-shell.db
 dbs/freshplanet/ANE-In-App-Purchase.db
 dbs/priteshrnandgaonkar/react-native-call-detection.db
 dbs/coursera/metrics-datadog.db
 dbs/DenizenScript/Denizen.db
 dbs/varunon9/Remote-Control-PC.db
-dbs/saki4510t/ScreenRecordingSample.db
 dbs/FirelyTeam/fhirstarters.db
 dbs/MrBIMC/MaterialSeekBarPreference.db
 dbs/jaquadro/StorageDrawers.db
@@ -3055,7 +2932,6 @@ dbs/ValkyrienSkies/Valkyrien-Skies-2.db
 dbs/aleyn97/LPR.db
 dbs/Fleker/CumulusTV.db
 dbs/espressif/esp-idf-provisioning-android.db
-dbs/googlemaps-samples/android-places-demos.db
 dbs/mapfish/mapfish-print.db
 dbs/Dreamroute/locker.db
 dbs/medallia/Word2VecJava.db
@@ -3068,8 +2944,6 @@ dbs/wso2/product-iots.db
 dbs/hoxfon/react-native-twilio-programmable-voice.db
 dbs/Korilakkuma/CanvasView.db
 dbs/ZaraclaJ/audio_recorder.db
-dbs/benwilcock/spring-cloud-gateway-demo.db
-dbs/LinkedBear/spring-framework-learning-code.db
 dbs/hmsonline/storm-cassandra.db
 dbs/ge0rg/MemorizingTrustManager.db
 dbs/amzn/fire-app-builder.db
@@ -3135,12 +3009,10 @@ dbs/shulieTech/LinkAgent.db
 dbs/justinbleach/saml-client.db
 dbs/QuadFlask/react-native-naver-map.db
 dbs/jcustenborder/kafka-connect-spooldir.db
-dbs/open-telemetry/opentelemetry-java-examples.db
 dbs/mojohaus/exec-maven-plugin.db
 dbs/mbosecke/template-benchmark.db
 dbs/korre/android-tv-epg.db
 dbs/nosqlbench/nosqlbench.db
-dbs/androidthings/sample-bluetooth-audio.db
 dbs/johrstrom/jmeter-prometheus-plugin.db
 dbs/cloudera-labs/envelope.db
 dbs/LMBishop/Quests.db
@@ -3169,7 +3041,6 @@ dbs/ballerina-platform/ballerina-distribution.db
 dbs/cmaron/CS-7641-assignments.db
 dbs/aws/aws-secretsmanager-jdbc.db
 dbs/BitwiseInc/Hydrograph.db
-dbs/mraible/jhipster6-demo.db
 dbs/ResearchStack/ResearchStack.db
 dbs/viritin/viritin.db
 dbs/chhsiao90/nitmproxy.db
@@ -3195,7 +3066,6 @@ dbs/yavijava/yavijava.db
 dbs/Shadows-of-Fire/Apotheosis.db
 dbs/mycontroller-org/mycontroller-v1-legacy.db
 dbs/smallrye/smallrye-graphql.db
-dbs/heremaps/here-android-sdk-examples.db
 dbs/thon-ju/bluetooth_print.db
 dbs/smallrye/smallrye-config.db
 dbs/VersoSolutions/CordovaClipboard.db
@@ -3205,9 +3075,7 @@ dbs/JDatePicker/JDatePicker.db
 dbs/wdtinc/mapbox-vector-tile-java.db
 dbs/spotify/folsom.db
 dbs/aspose-cells/Aspose.Cells-for-Java.db
-dbs/YugabyteDB-Samples/yugastore-java.db
 dbs/nekopanda/logbook.db
-dbs/temporalio/samples-java.db
 dbs/apps4av/avare.db
 dbs/jinput/jinput.db
 dbs/adoptium/installer.db
@@ -3244,7 +3112,6 @@ dbs/brsanthu/google-analytics-java.db
 dbs/jesperfj/force-rest-api.db
 dbs/ory/sdk.db
 dbs/katharsis-project/katharsis-framework.db
-dbs/BrightcoveOS/android-player-samples.db
 dbs/shimohq/react-native-prompt-android.db
 dbs/LynxITDigital/react-native-contacts-wrapper.db
 dbs/strimzi/strimzi-kafka-oauth.db
@@ -3265,7 +3132,6 @@ dbs/opentracing-contrib/java-kafka-client.db
 dbs/MicrosoftDocs/pipelines-java.db
 dbs/OHDSI/WebAPI.db
 dbs/nishio-dens/bitbucket-pullrequest-builder-plugin.db
-dbs/safaricom/LNMOnlineAndroidSample.db
 dbs/vert-x3/vertx-redis-client.db
 dbs/confluentinc/rest-utils.db
 dbs/tronprotocol/trident.db
@@ -3324,7 +3190,6 @@ dbs/wso2/charon.db
 dbs/eclipse-sw360/sw360.db
 dbs/ekreutz/react-native-barcode-scanner-google.db
 dbs/jenkinsci/s3-plugin.db
-dbs/powermock/powermock-examples-maven.db
 dbs/648540858/wvp-pro-assist.db
 dbs/hyperledger/web3j-maven-plugin.db
 dbs/benwtrent/janus-gateway-android.db
@@ -3357,7 +3222,6 @@ dbs/apache/airavata.db
 dbs/docusign/docusign-esign-java-client.db
 dbs/melihyarikkaya/react-native-serialport.db
 dbs/WiIIiam278/HuskHomes.db
-dbs/saucelabs-training/demo-java.db
 dbs/paulevsGitch/BetterEnd.db
 dbs/mojohaus/jaxb2-maven-plugin.db
 dbs/playframework/play-ebean.db
@@ -3373,14 +3237,12 @@ dbs/b8ne/react-native-pusher-push-notifications.db
 dbs/mkremins/fanciful.db
 dbs/RonanPlugins/BetterRTP.db
 dbs/vijaygupta18/Hacktoberfest-2022.db
-dbs/redhat-developer/redhat-sso-quickstarts.db
 dbs/googleapis/java-storage.db
 dbs/Azure/azure-libraries-for-java.db
 dbs/devops-dojo/the-app.db
 dbs/Bastian/bstats-metrics.db
 dbs/Azure/azure-sdk-for-android.db
 dbs/lenis0012/LoginSecurity.db
-dbs/dji-sdk/DJI-Cloud-API-Demo.db
 dbs/calatonsystems/wc-api-java.db
 dbs/StephenBlackWasAlreadyTaken/NightWatch.db
 dbs/jenkinsci/github-pr-coverage-status-plugin.db
@@ -3400,12 +3262,10 @@ dbs/jmprathab/MyHome.db
 dbs/nchutchind/cordova-plugin-app-launcher.db
 dbs/snyk-labs/java-goof.db
 dbs/sjhoeksma/cordova-plugin-keychain-touch-id.db
-dbs/razorpay/razorpay-android-sample-app.db
 dbs/embulk/embulk-output-jdbc.db
 dbs/Multiverse/Multiverse-Inventories.db
 dbs/jenkinsci/custom-war-packager.db
 dbs/Mobiperf/MobiPerf.db
-dbs/lagom/lagom-samples.db
 dbs/logstash-plugins/logstash-input-beats.db
 dbs/Woonivers/react-native-document-scanner.db
 dbs/opencog/relex.db
@@ -3419,7 +3279,6 @@ dbs/ops4j/org.ops4j.pax.exam2.db
 dbs/Traincraft/Traincraft.db
 dbs/napolitano/cordova-plugin-intent.db
 dbs/Kucoin/kucoin-java-sdk.db
-dbs/TechPrimers/jenkins-example.db
 dbs/p2p-org/solanaj.db
 dbs/checkmarx-ltd/cx-flow.db
 dbs/jenkinsci/syslog-java-client.db
@@ -3451,7 +3310,6 @@ dbs/XeroAPI/Xero-Java.db
 dbs/confluentinc/kafka-connect-storage-common.db
 dbs/sgrebnov/cordova-plugin-background-download.db
 dbs/rollbar/rollbar-java.db
-dbs/aliyunmq/mq-http-samples.db
 dbs/januslo/react-native-sunmi-inner-printer.db
 dbs/Credo-Zhao/init-spring.db
 dbs/kogitant/sonar-slack-notifier-plugin.db
@@ -3461,10 +3319,8 @@ dbs/taoneill/war.db
 dbs/JoschkaSchulz/cordova-plugin-image-resizer.db
 dbs/linagora/james-project.db
 dbs/lightcouch/LightCouch.db
-dbs/fabric8io/ipaas-quickstarts.db
 dbs/flutter-package/images_picker.db
 dbs/WeBankBlockchain/WeBASE-Front.db
 dbs/a0x8o/kafka.db
 dbs/nemccarthy/stash-pullrequest-builder-plugin.db
 dbs/pikaju/flutter-braintree.db
-dbs/pivotal-cf/identity-sample-apps.db

@@ -47,7 +47,7 @@ python scripts/generate_repo_csv.py --input repo_details/ --output repos.csv
 Create a new CSV that is a filtered version of the original.
 
 ```bash
-python scripts/filter_repo_csv.py --input repos.csv --output repos_filtered.csv
+python scripts/filter_repo_csv.py --input repos.csv --output repos_filtered.csv --keywords keywords.txt
 ```
 
 ##### 5. Clone repositories

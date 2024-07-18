@@ -1,10 +1,6 @@
 id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_count,forks_count,open_issues_count
-132464395,Snailclimb/JavaGuide,https://github.com/Snailclimb/JavaGuide,175962,Java,2018-05-07T13:27:00Z,2024-05-20T15:32:02Z,2024-05-20T07:39:47Z,143764,45284,59
-22790488,iluwatar/java-design-patterns,https://github.com/iluwatar/java-design-patterns,33224,Java,2014-08-09T16:45:18Z,2024-05-20T20:31:54Z,2024-05-20T17:58:08Z,86939,25982,183
-127988011,macrozheng/mall,https://github.com/macrozheng/mall,58678,Java,2018-04-04T01:11:44Z,2024-05-22T06:51:05Z,2024-05-13T11:55:57Z,75835,28394,33
 6296790,spring-projects/spring-boot,https://github.com/spring-projects/spring-boot,172867,Java,2012-10-19T15:02:57Z,2024-05-20T08:06:35Z,2024-05-19T12:51:32Z,73097,40112,627
 507775,elastic/elasticsearch,https://github.com/elastic/elasticsearch,1187388,Java,2010-02-08T13:20:56Z,2024-05-03T02:44:13Z,2024-05-03T06:11:19Z,67687,24136,4785
-81975372,kdn251/interviews,https://github.com/kdn251/interviews,24091,Java,2017-02-14T18:19:25Z,2024-05-15T02:19:35Z,2024-05-13T08:48:36Z,61852,12736,113
 1148753,spring-projects/spring-framework,https://github.com/spring-projects/spring-framework,207986,Java,2010-12-08T04:04:45Z,2024-05-01T23:21:08Z,2024-05-01T16:15:33Z,55169,37563,288
 20300177,google/guava,https://github.com/google/guava,466132,Java,2014-05-29T16:23:17Z,2024-05-03T04:19:45Z,2024-05-01T20:20:39Z,49425,10812,733
 173228436,NationalSecurityAgency/ghidra,https://github.com/NationalSecurityAgency/ghidra,345576,Java,2019-03-01T03:27:48Z,2024-05-12T20:26:49Z,2024-05-10T15:05:03Z,47946,5556,1546
@@ -13,12 +9,10 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 159152904,jeecgboot/jeecg-boot,https://github.com/jeecgboot/jeecg-boot,59976,Java,2018-11-26T10:40:00Z,2024-05-01T20:16:12Z,2024-04-30T06:25:10Z,37841,14282,41
 44662669,dbeaver/dbeaver,https://github.com/dbeaver/dbeaver,179050,Java,2015-10-21T08:26:28Z,2024-05-01T22:23:02Z,2024-05-01T13:42:50Z,37483,3242,2084
 19148949,PhilJay/MPAndroidChart,https://github.com/PhilJay/MPAndroidChart,21720,Java,2014-04-25T14:29:47Z,2024-05-21T00:10:50Z,2024-05-12T08:48:46Z,37293,8986,2170
-9754983,eugenp/tutorials,https://github.com/eugenp/tutorials,82247,Java,2013-04-29T18:26:36Z,2024-05-14T17:21:24Z,2024-05-14T18:28:38Z,36048,54300,71
 146633589,alibaba/arthas,https://github.com/alibaba/arthas,48698,Java,2018-08-29T17:15:57Z,2024-05-16T07:03:00Z,2024-05-14T13:14:24Z,34780,7353,375
 11267509,bumptech/glide,https://github.com/bumptech/glide,96798,Java,2013-07-08T22:52:33Z,2024-05-02T11:19:32Z,2024-05-02T00:43:22Z,34372,6094,512
 64558143,Blankj/AndroidUtilCode,https://github.com/Blankj/AndroidUtilCode,47329,Java,2016-07-30T18:18:32Z,2024-05-15T16:19:46Z,2024-05-14T07:05:20Z,32958,10634,298
 1064563,netty/netty,https://github.com/netty/netty,89475,Java,2010-11-09T09:22:21Z,2024-05-21T19:17:27Z,2024-05-21T19:17:10Z,32883,15749,590
-110211147,xkcoding/spring-boot-demo,https://github.com/xkcoding/spring-boot-demo,14194,Java,2017-11-10T06:27:29Z,2024-05-12T18:22:09Z,2024-04-08T06:40:37Z,32114,10667,129
 44804216,termux/termux-app,https://github.com/termux/termux-app,4484,Java,2015-10-23T09:42:46Z,2024-05-22T00:34:11Z,2024-05-18T16:32:51Z,31473,3341,368
 120395176,alibaba/easyexcel,https://github.com/alibaba/easyexcel,26407,Java,2018-02-06T03:14:08Z,2024-05-14T15:30:20Z,2024-04-22T10:20:10Z,31060,7399,550
 137451403,alibaba/nacos,https://github.com/alibaba/nacos,56317,Java,2018-06-15T06:49:27Z,2024-05-21T11:51:41Z,2024-05-21T02:06:12Z,29192,12592,236
@@ -57,7 +51,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 13404515,brettwooldridge/HikariCP,https://github.com/brettwooldridge/HikariCP,4786,Java,2013-10-08T05:43:03Z,2024-05-12T21:38:07Z,2024-05-09T14:44:42Z,19458,2885,526
 8205602,mybatis/mybatis-3,https://github.com/mybatis/mybatis-3,146770,Java,2013-02-14T19:03:32Z,2024-05-02T06:56:12Z,2024-05-02T08:11:41Z,19426,12671,212
 3766706,iBotPeaches/Apktool,https://github.com/iBotPeaches/Apktool,290802,Java,2012-03-19T17:46:53Z,2024-05-02T14:54:13Z,2024-05-02T10:39:04Z,18931,3516,63
-126365965,linlinjava/litemall,https://github.com/linlinjava/litemall,24595,Java,2018-03-22T16:42:30Z,2024-05-21T11:07:44Z,2024-05-14T09:09:14Z,18927,7122,31
 5084750,Baseflow/PhotoView,https://github.com/Baseflow/PhotoView,16896,Java,2012-07-17T16:39:00Z,2024-05-20T05:57:05Z,2022-03-25T09:53:49Z,18693,3915,211
 7010724,dianping/cat,https://github.com/dianping/cat,114113,Java,2012-12-05T02:31:48Z,2024-05-13T16:14:47Z,2024-05-11T08:10:46Z,18448,5377,187
 7968417,google/dagger,https://github.com/google/dagger,106234,Java,2013-02-01T23:14:14Z,2024-05-01T18:44:42Z,2024-05-02T16:03:46Z,17317,2000,312
@@ -65,20 +58,15 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 2862290,nostra13/Android-Universal-Image-Loader,https://github.com/nostra13/Android-Universal-Image-Loader,27128,Java,2011-11-27T18:48:23Z,2024-04-30T21:56:37Z,2022-01-17T09:48:53Z,16803,6112,457
 4576305,openzipkin/zipkin,https://github.com/openzipkin/zipkin,75600,Java,2012-06-06T18:26:16Z,2024-05-01T17:21:58Z,2024-05-02T00:03:57Z,16740,3068,171
 74359442,Tencent/APIJSON,https://github.com/Tencent/APIJSON,72789,Java,2016-11-21T12:03:29Z,2024-05-19T15:32:57Z,2024-05-19T15:32:54Z,16699,2096,271
-17804584,winterbe/java8-tutorial,https://github.com/winterbe/java8-tutorial,149,Java,2014-03-16T17:25:43Z,2024-05-20T06:17:04Z,2023-08-11T18:44:34Z,16644,4020,16
 69953445,shuzheng/zheng,https://github.com/shuzheng/zheng,41267,Java,2016-10-04T10:07:06Z,2024-05-01T05:01:55Z,2022-12-16T09:53:00Z,16632,7410,78
-85371262,williamfiset/Algorithms,https://github.com/williamfiset/Algorithms,1274482,Java,2017-03-18T02:50:46Z,2024-05-21T23:13:30Z,2024-02-15T09:09:05Z,16616,4257,108
 501687,antlr/antlr4,https://github.com/antlr/antlr4,69963,Java,2010-02-04T01:36:28Z,2024-04-30T22:36:53Z,2024-04-22T17:29:53Z,16402,3214,929
 2993595,infinilabs/analysis-ik,https://github.com/infinilabs/analysis-ik,7672,Java,2011-12-16T09:01:45Z,2024-05-03T08:06:23Z,2024-04-28T14:27:24Z,16128,3247,370
-81057842,JeffLi1993/springboot-learning-example,https://github.com/JeffLi1993/springboot-learning-example,407,Java,2017-02-06T07:02:25Z,2024-05-21T09:42:37Z,2023-12-03T12:33:47Z,16074,7122,51
 168500397,justauth/JustAuth,https://github.com/justauth/JustAuth,9554,Java,2019-01-31T09:42:20Z,2024-05-01T16:33:10Z,2024-03-14T09:04:26Z,16013,2723,53
 75643096,material-components/material-components-android,https://github.com/material-components/material-components-android,149701,Java,2016-12-05T16:11:29Z,2024-05-16T05:56:17Z,2024-05-15T20:40:18Z,15997,3028,628
 65987043,baomidou/mybatis-plus,https://github.com/baomidou/mybatis-plus,23361,Java,2016-08-18T10:06:53Z,2024-05-01T05:44:56Z,2024-05-01T05:44:55Z,15803,4207,46
 75277003,thingsboard/thingsboard,https://github.com/thingsboard/thingsboard,244952,Java,2016-12-01T09:33:30Z,2024-05-02T09:17:21Z,2024-05-02T08:21:01Z,15673,4821,1627
 5349565,prestodb/presto,https://github.com/prestodb/presto,214129,Java,2012-08-09T01:03:37Z,2024-05-14T06:56:41Z,2024-05-14T10:23:11Z,15619,5258,2084
 237940592,dromara/Sa-Token,https://github.com/dromara/Sa-Token,6537,Java,2020-02-03T10:34:29Z,2024-05-15T18:50:04Z,2024-05-15T17:54:45Z,15588,2510,24
-391055597,kunal-kushwaha/DSA-Bootcamp-Java,https://github.com/kunal-kushwaha/DSA-Bootcamp-Java,101637,Java,2021-07-30T12:23:25Z,2024-05-20T19:40:16Z,2024-05-09T10:06:19Z,15522,10149,475
-23112526,android10/Android-CleanArchitecture,https://github.com/android10/Android-CleanArchitecture,5191,Java,2014-08-19T14:09:26Z,2024-05-03T12:00:52Z,2023-04-28T06:54:52Z,15457,3322,142
 117965972,alibaba/DataX,https://github.com/alibaba/DataX,23494,Java,2018-01-18T10:09:47Z,2024-05-21T08:16:35Z,2024-05-17T09:03:32Z,15284,5277,1242
 6207167,mockito/mockito,https://github.com/mockito/mockito,48938,Java,2012-10-13T20:27:12Z,2024-05-21T02:23:25Z,2024-05-19T03:23:47Z,14626,2527,411
 76413186,alibaba/ARouter,https://github.com/alibaba/ARouter,26589,Java,2016-12-14T01:27:49Z,2024-05-21T18:35:16Z,2023-09-11T06:07:41Z,14386,2588,126
@@ -101,7 +89,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 77993578,LuckSiege/PictureSelector,https://github.com/LuckSiege/PictureSelector,542078,Java,2017-01-04T07:47:39Z,2024-04-30T07:05:40Z,2024-04-03T02:14:08Z,13068,2974,469
 33082868,sqshq/piggymetrics,https://github.com/sqshq/piggymetrics,1512,Java,2015-03-29T17:56:31Z,2024-05-19T12:31:53Z,2024-05-17T09:38:48Z,13015,6023,19
 56829582,youth5201314/banner,https://github.com/youth5201314/banner,11310,Java,2016-04-22T05:50:25Z,2024-05-13T13:26:09Z,2024-01-11T08:41:56Z,12749,2502,19
-181012406,macrozheng/mall-learning,https://github.com/macrozheng/mall-learning,39417,Java,2019-04-12T13:20:31Z,2024-05-16T16:25:31Z,2024-04-07T01:26:35Z,12747,8302,27
 221862,projectlombok/lombok,https://github.com/projectlombok/lombok,80679,Java,2009-06-08T19:46:41Z,2024-04-29T03:38:28Z,2024-04-04T13:02:16Z,12602,2335,855
 88111990,zhihu/Matisse,https://github.com/zhihu/Matisse,1991,Java,2017-04-13T01:31:05Z,2024-05-20T06:15:23Z,2023-05-15T09:55:57Z,12502,2072,461
 6650539,neo4j/neo4j,https://github.com/neo4j/neo4j,622800,Java,2012-11-12T08:46:15Z,2024-04-29T20:35:33Z,2024-04-24T10:23:06Z,12472,2316,306
@@ -129,7 +116,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 88703315,gyf-dev/ImmersionBar,https://github.com/gyf-dev/ImmersionBar,325009,Java,2017-04-19T05:10:09Z,2024-05-20T15:46:30Z,2022-03-25T02:26:08Z,11172,1870,124
 4839957,jfeinstein10/SlidingMenu,https://github.com/jfeinstein10/SlidingMenu,32085,Java,2012-06-30T05:14:23Z,2024-05-11T17:21:24Z,2021-09-19T14:04:18Z,11100,5054,305
 728981719,conductor-oss/conductor,https://github.com/conductor-oss/conductor,32305,Java,2023-12-08T06:06:09Z,2024-05-16T09:24:25Z,2024-05-13T12:40:03Z,11024,274,58
-22043847,mission-peace/interview,https://github.com/mission-peace/interview,1200,Java,2014-07-20T21:27:31Z,2024-04-28T19:31:14Z,2024-01-12T18:01:05Z,11007,5159,174
 45808756,H07000223/FlycoTabLayout,https://github.com/H07000223/FlycoTabLayout,2620,Java,2015-11-09T01:53:19Z,2024-05-11T09:23:01Z,2023-05-28T16:32:48Z,10995,2410,368
 48427914,lingochamp/FileDownloader,https://github.com/lingochamp/FileDownloader,40720,Java,2015-12-22T11:17:16Z,2024-05-12T10:15:36Z,2022-01-30T05:13:38Z,10959,2172,177
 7961991,square/javapoet,https://github.com/square/javapoet,1944,Java,2013-02-01T16:56:30Z,2024-05-03T07:17:50Z,2024-05-01T19:08:12Z,10695,1361,146
@@ -165,19 +151,15 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 10981994,OpenFeign/feign,https://github.com/OpenFeign/feign,5985,Java,2013-06-26T23:28:16Z,2024-05-21T17:12:25Z,2024-05-21T13:40:29Z,9299,1903,213
 91065402,Justson/AgentWeb,https://github.com/Justson/AgentWeb,29032,Java,2017-05-12T07:45:56Z,2024-05-22T06:41:52Z,2023-12-09T10:30:43Z,9146,1623,72
 134164777,crossoverJie/cim,https://github.com/crossoverJie/cim,32060,Java,2018-05-20T15:55:56Z,2024-04-28T17:32:02Z,2022-10-04T23:43:04Z,9125,2827,40
-25062303,android/testing-samples,https://github.com/android/testing-samples,12011,Java,2014-10-11T03:51:27Z,2024-05-21T09:18:06Z,2024-05-16T14:30:41Z,9118,3604,114
 250512612,ssssssss-team/spider-flow,https://github.com/ssssssss-team/spider-flow,3382,Java,2020-03-27T11:07:15Z,2024-05-14T10:40:06Z,2023-06-14T22:27:23Z,9096,1739,20
 49030451,GcsSloop/AndroidNote,https://github.com/GcsSloop/AndroidNote,7036,Java,2016-01-04T23:51:36Z,2024-05-20T02:36:21Z,2024-03-18T08:17:39Z,9093,2130,52
-24628923,navasmdc/MaterialDesignLibrary,https://github.com/navasmdc/MaterialDesignLibrary,8930,Java,2014-09-30T07:37:17Z,2024-05-11T03:10:43Z,2023-05-28T17:32:11Z,9007,2232,254
 84631679,huanghaibin-dev/CalendarView,https://github.com/huanghaibin-dev/CalendarView,126397,Java,2017-03-11T07:16:09Z,2024-05-11T19:04:41Z,2023-08-07T09:14:13Z,8987,1759,449
 95750391,didi/VirtualAPK,https://github.com/didi/VirtualAPK,1010,Java,2017-06-29T07:25:05Z,2024-05-13T14:25:41Z,2023-07-13T22:06:36Z,8954,1524,118
-66023605,awsdocs/aws-doc-sdk-examples,https://github.com/awsdocs/aws-doc-sdk-examples,275221,Java,2016-08-18T19:06:57Z,2024-05-01T19:30:29Z,2024-05-01T18:39:18Z,8940,5464,254
 6072443,cats-oss/android-gpuimage,https://github.com/cats-oss/android-gpuimage,1368,Java,2012-10-04T08:11:58Z,2024-05-18T04:11:42Z,2022-08-03T16:07:30Z,8897,2259,342
 2404027,nathanmarz/storm,https://github.com/nathanmarz/storm,27015,Java,2011-09-17T07:55:13Z,2024-05-02T22:46:44Z,2017-08-16T04:24:20Z,8848,1666,42
 203183673,zfile-dev/zfile,https://github.com/zfile-dev/zfile,46372,Java,2019-08-19T13:57:56Z,2024-05-02T13:15:31Z,2024-05-01T22:46:48Z,8847,1722,110
 51727325,laobie/StatusBarUtil,https://github.com/laobie/StatusBarUtil,9364,Java,2016-02-15T03:06:06Z,2024-05-20T05:56:03Z,2022-06-24T09:55:37Z,8820,1724,111
 334274271,opensearch-project/OpenSearch,https://github.com/opensearch-project/OpenSearch,572244,Java,2021-01-29T22:10:00Z,2024-05-14T14:21:53Z,2024-05-14T14:47:30Z,8802,1611,1658
-57147349,firebase/quickstart-android,https://github.com/firebase/quickstart-android,32973,Java,2016-04-26T17:13:27Z,2024-05-13T23:21:57Z,2024-05-13T23:21:53Z,8735,7304,56
 1287669,json-path/JsonPath,https://github.com/json-path/JsonPath,2694,Java,2011-01-24T13:19:19Z,2024-05-20T08:48:53Z,2024-03-31T01:06:32Z,8687,1618,397
 15328210,chrisjenx/Calligraphy,https://github.com/chrisjenx/Calligraphy,1523,Java,2013-12-20T02:35:45Z,2024-05-17T01:59:30Z,2024-04-21T20:12:01Z,8592,1096,94
 54308113,ybq/Android-SpinKit,https://github.com/ybq/Android-SpinKit,10241,Java,2016-03-20T08:40:51Z,2024-05-13T08:15:53Z,2023-05-28T14:27:04Z,8587,1302,62
@@ -271,7 +253,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 42115933,sshahine/JFoenix,https://github.com/sshahine/JFoenix,28243,Java,2015-09-08T14:04:24Z,2024-05-13T11:58:01Z,2023-06-28T17:20:35Z,6256,1053,131
 1450115,AsyncHttpClient/async-http-client,https://github.com/AsyncHttpClient/async-http-client,19089,Java,2011-03-07T13:41:46Z,2024-04-29T10:03:56Z,2024-04-15T14:25:29Z,6242,1583,103
 33134213,wasabeef/richeditor-android,https://github.com/wasabeef/richeditor-android,2898,Java,2015-03-30T16:19:20Z,2024-05-14T09:01:31Z,2024-04-15T16:18:54Z,6204,1202,221
-265579053,fuzhengwei/itstack-demo-design,https://github.com/fuzhengwei/itstack-demo-design,1827,Java,2020-05-20T13:45:30Z,2024-05-20T09:17:19Z,2024-05-10T10:05:58Z,6200,1866,32
 10873724,joelittlejohn/jsonschema2pojo,https://github.com/joelittlejohn/jsonschema2pojo,11816,Java,2013-06-22T22:28:53Z,2024-05-13T11:56:10Z,2024-05-03T05:10:26Z,6151,1646,215
 12353678,ikew0ng/SwipeBackLayout,https://github.com/ikew0ng/SwipeBackLayout,2934,Java,2013-08-25T03:36:12Z,2024-05-08T07:19:05Z,2019-09-18T06:44:18Z,6127,1408,119
 2544305,wiremock/wiremock,https://github.com/wiremock/wiremock,43625,Java,2011-10-09T20:27:24Z,2024-05-16T12:25:47Z,2024-05-16T17:40:09Z,6113,1403,397
@@ -356,17 +337,13 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 114520717,lingochamp/okdownload,https://github.com/lingochamp/okdownload,8129,Java,2017-12-17T08:21:22Z,2024-05-20T01:16:42Z,2022-11-04T04:02:49Z,5094,758,261
 76474200,apache/hudi,https://github.com/apache/hudi,1188202,Java,2016-12-14T15:53:41Z,2024-05-02T10:13:41Z,2024-05-02T18:37:42Z,5084,2347,930
 231329990,jetlinks/jetlinks-community,https://github.com/jetlinks/jetlinks-community,68350,Java,2020-01-02T07:27:34Z,2024-05-13T05:09:30Z,2024-05-09T11:23:38Z,5073,1594,23
-159422409,CodingDocs/springboot-guide,https://github.com/CodingDocs/springboot-guide,5354,Java,2018-11-28T01:05:07Z,2024-04-28T14:02:30Z,2023-05-28T15:09:17Z,5067,1390,16
-16381571,spring-projects/spring-data-examples,https://github.com/spring-projects/spring-data-examples,11619,Java,2014-01-30T15:42:43Z,2024-05-01T20:23:55Z,2024-01-23T08:04:52Z,5066,3355,18
 5490568,meefik/linuxdeploy,https://github.com/meefik/linuxdeploy,53204,Java,2012-08-21T04:49:14Z,2024-05-13T08:21:48Z,2022-06-16T23:14:57Z,5043,672,729
 46977130,wequick/Small,https://github.com/wequick/Small,7023,Java,2015-11-27T11:37:20Z,2024-04-23T04:36:14Z,2023-09-23T13:49:56Z,5037,1106,263
 39673913,coobird/thumbnailator,https://github.com/coobird/thumbnailator,11686,Java,2015-07-25T05:38:33Z,2024-05-20T16:16:49Z,2024-02-08T11:56:05Z,5034,778,51
 4710876,Trinea/android-common,https://github.com/Trinea/android-common,1253,Java,2012-06-19T07:49:46Z,2024-05-13T11:55:37Z,2024-02-28T16:00:47Z,5008,2651,18
-206877845,android/views-widgets-samples,https://github.com/android/views-widgets-samples,63749,Java,2019-09-06T21:39:12Z,2024-05-16T18:33:41Z,2023-12-05T15:18:14Z,5004,3006,179
 27913753,orhanobut/dialogplus,https://github.com/orhanobut/dialogplus,6790,Java,2014-12-12T09:24:44Z,2024-04-29T13:01:41Z,2022-01-17T09:57:28Z,5002,793,54
 26450553,frogermcs/InstaMaterial,https://github.com/frogermcs/InstaMaterial,4531,Java,2014-11-10T18:56:49Z,2024-05-11T23:13:51Z,2020-09-30T19:55:47Z,4996,1449,30
 1756350,JodaOrg/joda-time,https://github.com/JodaOrg/joda-time,12927,Java,2011-05-16T16:49:57Z,2024-05-18T16:40:04Z,2024-04-15T14:27:35Z,4973,965,38
-66704088,amitshekhariitbhu/RxJava2-Android-Samples,https://github.com/amitshekhariitbhu/RxJava2-Android-Samples,494,Java,2016-08-27T08:21:37Z,2024-04-15T05:02:40Z,2023-01-18T08:12:31Z,4964,1068,17
 67328052,hyperledger/web3j,https://github.com/hyperledger/web3j,10272,Java,2016-09-04T05:48:49Z,2024-05-01T22:48:27Z,2024-05-01T22:48:22Z,4958,1631,133
 54961145,Devlight/NavigationTabBar,https://github.com/Devlight/NavigationTabBar,389,Java,2016-03-29T08:59:27Z,2024-05-11T03:11:07Z,2019-10-25T13:29:42Z,4947,857,64
 25208398,traex/RippleEffect,https://github.com/traex/RippleEffect,833,Java,2014-10-14T13:32:51Z,2024-05-17T04:44:26Z,2021-02-04T10:54:44Z,4936,1085,54
@@ -435,7 +412,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 195856796,GeyserMC/Geyser,https://github.com/GeyserMC/Geyser,26363,Java,2019-07-08T17:23:17Z,2024-04-30T17:05:49Z,2024-05-01T20:07:53Z,4450,642,256
 312830970,648540858/wvp-GB28181-pro,https://github.com/648540858/wvp-GB28181-pro,44213,Java,2020-11-14T14:16:37Z,2024-05-21T01:34:25Z,2024-05-20T03:37:20Z,4448,1355,78
 7923123,square/android-times-square,https://github.com/square/android-times-square,1541,Java,2013-01-30T20:28:27Z,2024-05-15T21:05:53Z,2023-05-28T01:46:37Z,4437,1186,23
-80192374,janishar/android-mvp-architecture,https://github.com/janishar/android-mvp-architecture,6144,Java,2017-01-27T08:39:06Z,2024-04-29T09:51:49Z,2024-04-16T15:28:00Z,4433,1243,40
 426287111,SPLWare/esProc,https://github.com/SPLWare/esProc,808156,Java,2021-11-09T15:41:25Z,2024-04-29T05:34:34Z,2024-04-28T06:11:12Z,4430,310,39
 27911088,apache/nifi,https://github.com/apache/nifi,253745,Java,2014-12-12T08:00:05Z,2024-04-30T17:03:03Z,2024-04-30T17:02:50Z,4421,2601,37
 165767349,tianshiyeben/wgcloud,https://github.com/tianshiyeben/wgcloud,47880,Java,2019-01-15T02:02:21Z,2024-05-03T00:15:46Z,2024-02-21T00:09:54Z,4409,813,40
@@ -446,7 +422,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 6325420,killbill/killbill,https://github.com/killbill/killbill,680811,Java,2012-10-21T20:55:05Z,2024-04-29T10:32:45Z,2024-04-30T00:18:26Z,4393,733,203
 84934979,Meituan-Dianping/Robust,https://github.com/Meituan-Dianping/Robust,26253,Java,2017-03-14T10:14:50Z,2024-05-16T08:33:52Z,2022-04-27T10:11:34Z,4390,802,162
 49610798,rubenlagus/TelegramBots,https://github.com/rubenlagus/TelegramBots,3117,Java,2016-01-14T00:13:07Z,2024-04-30T06:06:51Z,2024-04-13T14:43:55Z,4389,1125,178
-14545717,phishman3579/java-algorithms-implementation,https://github.com/phishman3579/java-algorithms-implementation,1487,Java,2013-11-20T03:30:19Z,2024-05-02T08:07:49Z,2022-12-05T03:25:28Z,4387,1763,77
 21193524,apache/calcite,https://github.com/apache/calcite,98288,Java,2014-06-25T07:00:07Z,2024-05-20T16:45:46Z,2024-05-20T16:45:39Z,4386,2292,328
 18992193,bytedeco/javacpp,https://github.com/bytedeco/javacpp,10456,Java,2014-04-21T12:47:21Z,2024-05-01T08:46:50Z,2024-04-05T14:58:10Z,4380,571,99
 63452341,robinhood/ticker,https://github.com/robinhood/ticker,1681,Java,2016-07-15T21:37:52Z,2024-04-29T18:13:58Z,2023-11-23T18:03:23Z,4375,458,18
@@ -454,7 +429,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 15958676,CalebFenton/simplify,https://github.com/CalebFenton/simplify,103553,Java,2014-01-16T05:14:02Z,2024-05-01T15:38:12Z,2022-04-30T12:20:33Z,4370,438,31
 37286678,airbnb/DeepLinkDispatch,https://github.com/airbnb/DeepLinkDispatch,2819,Java,2015-06-11T21:16:48Z,2024-05-19T01:45:46Z,2023-06-27T23:16:54Z,4362,407,57
 54283063,Ashok-Varma/BottomNavigation,https://github.com/Ashok-Varma/BottomNavigation,3928,Java,2016-03-19T19:19:30Z,2024-05-01T12:15:41Z,2020-12-14T10:06:25Z,4359,687,26
-87683712,zq2599/blog_demos,https://github.com/zq2599/blog_demos,247898,Java,2017-04-09T04:51:56Z,2024-05-20T00:31:58Z,2024-05-18T11:41:51Z,4349,1814,153
 87859908,micrometer-metrics/micrometer,https://github.com/micrometer-metrics/micrometer,34069,Java,2017-04-10T21:36:51Z,2024-05-13T16:01:56Z,2024-05-13T17:00:03Z,4345,956,250
 6275822,dreamhead/moco,https://github.com/dreamhead/moco,6069,Java,2012-10-18T09:09:51Z,2024-05-02T09:49:41Z,2024-05-02T09:49:37Z,4315,1076,140
 36450840,bingoogolapple/BGARefreshLayout-Android,https://github.com/bingoogolapple/BGARefreshLayout-Android,7561,Java,2015-05-28T16:17:00Z,2024-05-08T23:42:24Z,2023-05-28T16:34:15Z,4314,1004,96
@@ -465,7 +439,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 1258570,osmandapp/OsmAnd,https://github.com/osmandapp/OsmAnd,854546,Java,2011-01-15T19:59:44Z,2024-05-02T21:55:50Z,2024-05-02T21:55:45Z,4270,980,2763
 22430020,ongakuer/CircleIndicator,https://github.com/ongakuer/CircleIndicator,4407,Java,2014-07-30T14:02:56Z,2024-05-15T16:04:03Z,2023-05-03T11:02:37Z,4251,712,30
 1364139,grantland/android-autofittextview,https://github.com/grantland/android-autofittextview,1190,Java,2011-02-14T06:00:52Z,2024-05-11T03:10:52Z,2019-01-12T23:57:12Z,4251,692,58
-165214494,ddd-by-examples/library,https://github.com/ddd-by-examples/library,48023,Java,2019-01-11T09:14:03Z,2024-05-15T05:44:32Z,2023-07-07T21:43:17Z,4237,663,17
 62611784,ChadCSong/ShineButton,https://github.com/ChadCSong/ShineButton,2525,Java,2016-07-05T06:32:26Z,2024-04-26T07:08:41Z,2022-10-08T07:47:29Z,4223,541,29
 96896313,ThirtyDegreesRay/OpenHub,https://github.com/ThirtyDegreesRay/OpenHub,10128,Java,2017-07-11T13:29:51Z,2024-04-30T13:22:21Z,2024-01-20T12:59:49Z,4218,413,244
 216236917,bjmashibing/InternetArchitect,https://github.com/bjmashibing/InternetArchitect,298764,Java,2019-10-19T16:32:01Z,2024-05-21T02:05:24Z,2022-12-14T20:42:20Z,4215,2856,26
@@ -505,7 +478,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 99224057,pqpo/SmartCropper,https://github.com/pqpo/SmartCropper,249118,Java,2017-08-03T11:08:41Z,2024-04-30T03:52:52Z,2024-04-01T14:11:18Z,3959,724,31
 32567673,Sayi/poi-tl,https://github.com/Sayi/poi-tl,102860,Java,2015-03-20T06:47:52Z,2024-05-14T07:18:59Z,2024-05-06T05:52:56Z,3950,971,59
 160125469,mercyblitz/tech-weekly,https://github.com/mercyblitz/tech-weekly,19489,Java,2018-12-03T03:10:52Z,2024-04-29T06:55:30Z,2024-04-04T04:44:58Z,3932,712,21
-61471841,binIoter/GuideView,https://github.com/binIoter/GuideView,7068,Java,2016-06-19T08:52:25Z,2024-04-28T07:37:59Z,2023-05-28T16:36:55Z,3927,649,27
 30561160,zendesk/maxwell,https://github.com/zendesk/maxwell,25674,Java,2015-02-09T22:06:13Z,2024-05-12T09:02:34Z,2024-03-27T07:55:40Z,3926,994,221
 10641697,JoanZapata/android-iconify,https://github.com/JoanZapata/android-iconify,3689,Java,2013-06-12T11:42:01Z,2024-05-11T09:08:00Z,2022-11-17T00:11:55Z,3925,529,68
 108965444,charles2gan/GDA-android-reversing-Tool,https://github.com/charles2gan/GDA-android-reversing-Tool,82285,Java,2017-10-31T08:18:29Z,2024-05-13T13:01:25Z,2024-05-08T09:19:37Z,3915,498,42
@@ -513,7 +485,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 54057611,bluelinelabs/Conductor,https://github.com/bluelinelabs/Conductor,3764,Java,2016-03-16T18:42:41Z,2024-04-22T20:51:57Z,2024-04-10T21:00:41Z,3896,341,112
 39436964,zzhoujay/RichText,https://github.com/zzhoujay/RichText,2485,Java,2015-07-21T09:36:01Z,2024-05-02T03:22:14Z,2020-12-25T02:39:28Z,3887,552,135
 218396611,deepjavalibrary/djl,https://github.com/deepjavalibrary/djl,47140,Java,2019-10-29T22:38:54Z,2024-05-13T05:46:54Z,2024-05-13T01:36:35Z,3878,615,192
-20873044,databricks/learning-spark,https://github.com/databricks/learning-spark,370,Java,2014-06-16T04:47:54Z,2024-05-19T03:07:58Z,2023-12-16T18:15:33Z,3873,2423,30
 54115435,aurelhubert/ahbottomnavigation,https://github.com/aurelhubert/ahbottomnavigation,5644,Java,2016-03-17T12:17:56Z,2024-05-09T02:26:29Z,2021-07-10T21:57:52Z,3841,683,145
 42464201,MiguelCatalan/MaterialSearchView,https://github.com/MiguelCatalan/MaterialSearchView,4665,Java,2015-09-14T17:13:46Z,2024-05-05T08:20:59Z,2020-07-24T16:31:11Z,3826,615,166
 92832589,amirzaidi/Launcher3,https://github.com/amirzaidi/Launcher3,129066,Java,2017-05-30T12:53:32Z,2024-04-28T12:31:48Z,2022-08-24T13:51:46Z,3802,641,135
@@ -528,27 +499,22 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 2045207,jetty/jetty.project,https://github.com/jetty/jetty.project,255130,Java,2011-07-14T01:11:57Z,2024-05-16T17:04:58Z,2024-05-17T06:12:31Z,3759,1897,424
 57261362,mpusher/mpush,https://github.com/mpusher/mpush,2595,Java,2016-04-28T01:43:19Z,2024-05-19T09:05:19Z,2022-06-17T01:50:04Z,3736,1453,31
 43409398,promeG/TinyPinyin,https://github.com/promeG/TinyPinyin,664,Java,2015-09-30T03:24:50Z,2024-05-15T03:35:39Z,2023-05-18T09:12:08Z,3734,463,42
-262792419,Snailclimb/guide-rpc-framework,https://github.com/Snailclimb/guide-rpc-framework,4364,Java,2020-05-10T13:24:42Z,2024-05-20T06:26:24Z,2024-04-02T06:25:52Z,3729,1988,26
 188779637,apache/incubator-streampark,https://github.com/apache/incubator-streampark,58474,Java,2019-05-27T05:56:03Z,2024-05-15T14:41:11Z,2024-05-15T10:14:47Z,3724,968,285
 483924,awaitility/awaitility,https://github.com/awaitility/awaitility,1393,Java,2010-01-22T15:12:52Z,2024-05-17T12:48:03Z,2024-04-08T10:43:27Z,3715,233,77
 72967236,CameraKit/blurkit-android,https://github.com/CameraKit/blurkit-android,6270,Java,2016-11-06T03:14:58Z,2024-05-17T01:37:07Z,2021-04-03T23:18:57Z,3705,308,36
 39876649,yanzhenjie/NoHttp,https://github.com/yanzhenjie/NoHttp,54486,Java,2015-07-29T06:11:12Z,2024-05-09T23:59:49Z,2018-07-30T01:23:31Z,3703,852,76
 68117034,ryanhoo/StylishMusicPlayer,https://github.com/ryanhoo/StylishMusicPlayer,2929,Java,2016-09-13T14:38:32Z,2024-04-30T02:28:28Z,2020-05-13T16:42:12Z,3701,764,25
 17960746,jMonkeyEngine/jmonkeyengine,https://github.com/jMonkeyEngine/jmonkeyengine,971781,Java,2014-03-20T22:29:28Z,2024-04-30T04:42:17Z,2024-04-24T01:33:26Z,3699,1106,226
-64578459,fishercoder1534/Leetcode,https://github.com/fishercoder1534/Leetcode,9225,Java,2016-07-31T05:28:15Z,2024-05-02T04:03:15Z,2024-05-02T04:03:12Z,3695,1260,19
 11720297,yangfuhai/ASimpleCache,https://github.com/yangfuhai/ASimpleCache,719,Java,2013-07-28T13:50:59Z,2024-05-04T02:33:46Z,2020-07-25T03:29:18Z,3680,1242,33
 265237968,nining377/dolby_beta,https://github.com/nining377/dolby_beta,101223,Java,2020-05-19T12:13:36Z,2024-05-20T07:42:01Z,2024-04-22T15:21:15Z,3676,197,192
 749137,Atmosphere/atmosphere,https://github.com/Atmosphere/atmosphere,112897,Java,2010-06-30T14:26:23Z,2024-04-23T05:55:59Z,2024-04-15T14:15:36Z,3668,752,39
 66538534,mcxtzhang/SwipeDelMenuLayout,https://github.com/mcxtzhang/SwipeDelMenuLayout,5660,Java,2016-08-25T08:10:45Z,2024-05-15T11:55:43Z,2020-01-02T06:03:55Z,3668,631,51
 80711156,stfalcon-studio/ChatKit,https://github.com/stfalcon-studio/ChatKit,6136,Java,2017-02-02T09:37:15Z,2024-05-14T11:42:37Z,2022-05-23T20:11:06Z,3664,811,130
 113356740,google/rejoiner,https://github.com/google/rejoiner,793,Java,2017-12-06T19:09:53Z,2024-04-26T23:09:25Z,2023-06-13T22:58:03Z,3660,142,48
-9307997,VaughnVernon/IDDD_Samples,https://github.com/VaughnVernon/IDDD_Samples,546,Java,2013-04-08T22:12:57Z,2024-05-02T11:57:16Z,2023-09-09T17:02:35Z,3657,892,32
 67165904,lisawray/groupie,https://github.com/lisawray/groupie,678,Java,2016-09-01T20:59:35Z,2024-05-16T08:17:25Z,2023-10-03T04:12:10Z,3645,287,68
 61079960,yanzhenjie/AndServer,https://github.com/yanzhenjie/AndServer,6648,Java,2016-06-14T00:52:52Z,2024-05-21T10:59:58Z,2023-06-07T08:04:09Z,3638,740,121
 98780134,ethanhua/Skeleton,https://github.com/ethanhua/Skeleton,17001,Java,2017-07-30T06:42:39Z,2024-05-13T05:41:45Z,2021-07-31T07:30:24Z,3633,451,28
-78223894,RipMeApp/ripme,https://github.com/RipMeApp/ripme,4140,Java,2017-01-06T17:12:09Z,2024-05-13T21:44:31Z,2024-04-06T12:55:44Z,3631,617,678
 1438007,MovingBlocks/Terasology,https://github.com/MovingBlocks/Terasology,305563,Java,2011-03-04T03:49:19Z,2024-04-30T02:19:53Z,2024-04-29T21:34:37Z,3621,1321,477
-176555805,shuzijun/leetcode-editor,https://github.com/shuzijun/leetcode-editor,30865,Java,2019-03-19T16:32:17Z,2024-04-30T13:03:02Z,2024-04-02T08:03:18Z,3618,395,108
 16025084,rockerhieu/emojicon,https://github.com/rockerhieu/emojicon,9713,Java,2014-01-18T12:32:38Z,2024-04-29T06:30:37Z,2020-06-13T00:51:58Z,3613,818,83
 28738447,apache/kylin,https://github.com/apache/kylin,525899,Java,2015-01-03T08:00:05Z,2024-05-15T10:14:06Z,2024-04-12T08:23:56Z,3610,1531,88
 67836637,networknt/light-4j,https://github.com/networknt/light-4j,11527,Java,2016-09-09T22:28:14Z,2024-05-02T04:05:43Z,2024-04-30T19:20:26Z,3600,629,18
@@ -569,9 +535,7 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 10113030,googlemaps/android-maps-utils,https://github.com/googlemaps/android-maps-utils,15819,Java,2013-05-17T00:08:48Z,2024-05-01T11:22:04Z,2024-04-29T23:47:19Z,3524,1528,47
 23284820,baoyongzhang/SwipeMenuListView,https://github.com/baoyongzhang/SwipeMenuListView,1854,Java,2014-08-24T15:40:45Z,2024-04-24T09:58:54Z,2022-09-08T07:08:01Z,3509,1263,136
 172680589,zhkl0228/unidbg,https://github.com/zhkl0228/unidbg,589708,Java,2019-02-26T09:32:15Z,2024-05-15T07:25:33Z,2024-05-14T15:24:40Z,3509,900,323
-31272860,vert-x3/vertx-examples,https://github.com/vert-x3/vertx-examples,51281,Java,2015-02-24T17:42:44Z,2024-04-22T16:11:39Z,2023-12-11T07:34:52Z,3508,2090,45
 43876166,dingjikerbo/Android-BluetoothKit,https://github.com/dingjikerbo/Android-BluetoothKit,3989,Java,2015-10-08T09:07:33Z,2024-05-01T12:42:44Z,2023-04-25T06:02:54Z,3496,723,109
-98618636,huburt-Hu/NewbieGuide,https://github.com/huburt-Hu/NewbieGuide,795,Java,2017-07-28T06:54:05Z,2024-05-18T06:30:27Z,2024-02-18T03:21:03Z,3496,516,105
 150938406,alibaba/Alink,https://github.com/alibaba/Alink,18730,Java,2018-09-30T06:36:11Z,2024-04-29T08:17:57Z,2024-04-26T12:02:47Z,3495,796,55
 1161862,spockframework/spock,https://github.com/spockframework/spock,31429,Java,2010-12-12T19:02:34Z,2024-04-29T15:11:13Z,2024-04-28T11:35:38Z,3492,462,221
 173721564,sofastack/sofa-jraft,https://github.com/sofastack/sofa-jraft,3515,Java,2019-03-04T10:13:43Z,2024-05-21T10:50:13Z,2024-04-10T01:57:09Z,3485,1107,58
@@ -585,7 +549,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 90675730,kubernetes-client/java,https://github.com/kubernetes-client/java,45057,Java,2017-05-08T21:52:58Z,2024-05-19T07:14:00Z,2024-05-20T02:57:29Z,3428,1811,61
 445585860,dromara/dynamic-tp,https://github.com/dromara/dynamic-tp,16007,Java,2022-01-07T16:35:27Z,2024-04-30T06:28:56Z,2024-04-14T14:36:15Z,3426,710,19
 73541549,ittianyu/BottomNavigationViewEx,https://github.com/ittianyu/BottomNavigationViewEx,1770,Java,2016-11-12T08:39:38Z,2024-05-17T14:34:00Z,2024-04-21T20:10:20Z,3426,557,58
-76670734,sherxon/AlgoDS,https://github.com/sherxon/AlgoDS,1585,Java,2016-12-16T17:01:22Z,2024-04-24T00:01:19Z,2023-10-27T13:05:54Z,3420,611,21
 24139593,alamkanak/Android-Week-View,https://github.com/alamkanak/Android-Week-View,814,Java,2014-09-17T10:07:12Z,2024-05-13T01:05:06Z,2021-11-20T06:01:14Z,3413,1231,202
 76400426,spring-cloud/spring-cloud-kubernetes,https://github.com/spring-cloud/spring-cloud-kubernetes,57097,Java,2016-12-13T21:36:25Z,2024-05-01T12:36:52Z,2024-05-01T13:43:25Z,3413,1024,35
 42584365,anggrayudi/android-hidden-api,https://github.com/anggrayudi/android-hidden-api,334963,Java,2015-09-16T11:58:33Z,2024-05-17T14:32:34Z,2023-03-04T18:03:53Z,3409,642,41
@@ -608,7 +571,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 102696598,luojilab/DDComponentForAndroid,https://github.com/luojilab/DDComponentForAndroid,1060,Java,2017-09-07T05:48:44Z,2024-04-09T03:00:48Z,2020-08-05T03:14:22Z,3328,568,26
 72753876,woxingxiao/BubbleSeekBar,https://github.com/woxingxiao/BubbleSeekBar,43994,Java,2016-11-03T14:31:05Z,2024-05-06T01:44:24Z,2022-06-29T13:11:46Z,3327,511,58
 2622727,kevinsawicki/http-request,https://github.com/kevinsawicki/http-request,1678,Java,2011-10-21T19:54:58Z,2024-05-19T04:47:08Z,2023-10-25T22:21:44Z,3325,839,85
-107932176,microservices-patterns/ftgo-application,https://github.com/microservices-patterns/ftgo-application,1144,Java,2017-10-23T04:30:04Z,2024-05-19T16:05:25Z,2023-09-20T19:07:10Z,3323,1286,96
 38829639,fabric8io/kubernetes-client,https://github.com/fabric8io/kubernetes-client,489900,Java,2015-07-09T15:43:13Z,2024-05-17T16:43:36Z,2024-05-20T11:48:15Z,3318,1438,123
 14514767,Red5/red5-server,https://github.com/Red5/red5-server,119993,Java,2013-11-19T05:04:10Z,2024-05-11T02:40:10Z,2024-05-04T00:10:29Z,3300,981,43
 10637896,apache/logging-log4j2,https://github.com/apache/logging-log4j2,89963,Java,2013-06-12T07:00:19Z,2024-05-02T19:03:32Z,2024-05-02T19:13:09Z,3273,1551,133
@@ -658,7 +620,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 88962042,TNG/ArchUnit,https://github.com/TNG/ArchUnit,16868,Java,2017-04-21T08:39:20Z,2024-05-14T12:36:28Z,2024-05-13T23:46:45Z,3070,282,127
 48155157,elvishew/xLog,https://github.com/elvishew/xLog,1660,Java,2015-12-17T05:50:05Z,2024-05-21T02:23:01Z,2023-11-16T09:38:19Z,3059,408,55
 86270752,yarolegovich/SlidingRootNav,https://github.com/yarolegovich/SlidingRootNav,10856,Java,2017-03-26T22:58:48Z,2024-05-06T08:34:10Z,2022-07-22T06:15:58Z,3051,452,53
-7396792,yusugomori/DeepLearning,https://github.com/yusugomori/DeepLearning,140,Java,2013-01-01T16:23:53Z,2024-05-08T09:12:45Z,2021-10-01T16:30:16Z,3046,1357,33
 54298946,camunda/zeebe,https://github.com/camunda/zeebe,270924,Java,2016-03-20T03:38:04Z,2024-05-14T16:12:49Z,2024-05-14T16:26:05Z,3042,548,777
 119939427,sofastack/sofa-jarslink,https://github.com/sofastack/sofa-jarslink,356,Java,2018-02-02T06:02:09Z,2024-05-20T06:10:53Z,2024-05-20T06:10:48Z,3041,707,19
 12559641,real-logic/simple-binary-encoding,https://github.com/real-logic/simple-binary-encoding,26661,Java,2013-09-03T09:13:34Z,2024-04-29T03:41:55Z,2024-05-01T15:23:12Z,3023,511,31
@@ -674,7 +635,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 33599546,lovetuzitong/MultiImageSelector,https://github.com/lovetuzitong/MultiImageSelector,4004,Java,2015-04-08T10:12:50Z,2024-05-10T03:02:36Z,2020-05-06T02:39:00Z,2966,802,98
 45987741,jasonross/Nuwa,https://github.com/jasonross/Nuwa,0,Java,2015-11-11T14:48:23Z,2024-03-31T14:16:57Z,2022-07-23T02:12:09Z,2964,576,68
 223748401,WeBankFinTech/DataSphereStudio,https://github.com/WeBankFinTech/DataSphereStudio,246574,Java,2019-11-24T13:27:19Z,2024-04-30T13:19:51Z,2024-04-29T03:35:12Z,2953,984,352
-96517640,janishar/android-mvvm-architecture,https://github.com/janishar/android-mvvm-architecture,835,Java,2017-07-07T08:34:07Z,2024-04-29T20:20:04Z,2024-04-16T15:26:34Z,2932,940,40
 38396503,googlesamples/android-vision,https://github.com/googlesamples/android-vision,735,Java,2015-07-01T21:40:31Z,2024-04-28T14:03:10Z,2023-07-01T07:16:56Z,2924,1735,323
 17170044,prometheus/jmx_exporter,https://github.com/prometheus/jmx_exporter,1841,Java,2014-02-25T10:55:39Z,2024-05-20T15:13:11Z,2024-05-18T03:17:13Z,2923,1182,69
 39889599,sockeqwe/AdapterDelegates,https://github.com/sockeqwe/AdapterDelegates,1001,Java,2015-07-29T11:19:56Z,2024-05-13T11:57:55Z,2024-04-18T09:55:42Z,2920,314,17
@@ -712,7 +672,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 6047468,Neamar/KISS,https://github.com/Neamar/KISS,165233,Java,2012-10-02T16:03:43Z,2024-05-01T18:05:27Z,2024-05-01T18:05:22Z,2793,573,282
 17488986,osmdroid/osmdroid,https://github.com/osmdroid/osmdroid,111304,Java,2014-03-06T19:03:48Z,2024-05-11T08:46:43Z,2024-04-18T21:20:06Z,2788,979,294
 12796207,square/flow,https://github.com/square/flow,974,Java,2013-09-12T22:20:16Z,2024-05-09T02:23:41Z,2023-03-19T08:26:29Z,2788,242,36
-26398337,pedrovgs/Algorithms,https://github.com/pedrovgs/Algorithms,489,Java,2014-11-09T14:32:33Z,2024-05-14T09:23:43Z,2023-06-24T04:38:33Z,2785,797,28
 8247368,mybatis/spring,https://github.com/mybatis/spring,19326,Java,2013-02-17T07:01:55Z,2024-05-16T23:26:08Z,2024-05-16T23:26:53Z,2782,2586,34
 3069822,jOOQ/jOOR,https://github.com/jOOQ/jOOR,507,Java,2011-12-29T17:01:00Z,2024-05-10T01:45:24Z,2024-05-07T08:30:40Z,2780,378,25
 206459,apache/avro,https://github.com/apache/avro,33390,Java,2009-05-21T02:48:37Z,2024-05-13T01:44:48Z,2024-05-12T17:23:56Z,2778,1571,137
@@ -740,7 +699,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 68010404,TangoAgency/material-intro-screen,https://github.com/TangoAgency/material-intro-screen,27796,Java,2016-09-12T13:16:19Z,2024-04-29T05:44:20Z,2020-09-19T23:53:32Z,2716,412,56
 40251005,deano2390/MaterialShowcaseView,https://github.com/deano2390/MaterialShowcaseView,293,Java,2015-08-05T14:47:59Z,2024-05-17T17:51:30Z,2023-04-01T09:36:02Z,2710,526,140
 7044667,spring-projects/spring-loaded,https://github.com/spring-projects/spring-loaded,35230,Java,2012-12-06T23:17:42Z,2024-04-27T01:25:33Z,2022-04-07T12:04:39Z,2710,510,128
-86371864,aritraroy/PatternLockView,https://github.com/aritraroy/PatternLockView,1451,Java,2017-03-27T18:46:20Z,2024-04-28T20:00:20Z,2022-03-03T15:17:44Z,2710,452,29
 73226302,C2SP/wycheproof,https://github.com/C2SP/wycheproof,31893,Java,2016-11-08T20:56:25Z,2024-04-28T22:29:52Z,2024-04-08T23:26:47Z,2706,289,38
 250036571,dromara/liteflow,https://github.com/dromara/liteflow,9020,Java,2020-03-25T16:49:22Z,2024-05-12T15:55:41Z,2024-04-14T15:59:46Z,2701,385,35
 2623406,internetarchive/heritrix3,https://github.com/internetarchive/heritrix3,10973,Java,2011-10-21T22:00:17Z,2024-05-21T05:59:09Z,2024-05-15T14:17:28Z,2700,755,43
@@ -778,7 +736,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 197545351,Creators-of-Create/Create,https://github.com/Creators-of-Create/Create,68347,Java,2019-07-18T08:27:10Z,2024-04-29T14:52:44Z,2024-04-29T19:19:47Z,2596,854,2281
 108050,mongodb/mongo-java-driver,https://github.com/mongodb/mongo-java-driver,131388,Java,2009-01-15T15:16:29Z,2024-05-17T17:53:55Z,2024-05-18T02:56:41Z,2595,1468,24
 5639802,SimonVT/android-menudrawer,https://github.com/SimonVT/android-menudrawer,5057,Java,2012-09-01T13:34:04Z,2024-04-16T06:46:58Z,2014-06-30T15:29:28Z,2594,1115,27
-98801926,thombergs/code-examples,https://github.com/thombergs/code-examples,121387,Java,2017-07-30T14:12:24Z,2024-05-02T05:46:33Z,2024-04-30T09:35:05Z,2589,2602,120
 25084074,LuckyJayce/ViewPagerIndicator,https://github.com/LuckyJayce/ViewPagerIndicator,36270,Java,2014-10-11T15:28:43Z,2024-04-15T11:32:19Z,2019-12-17T12:50:40Z,2588,627,46
 24297039,vdurmont/emoji-java,https://github.com/vdurmont/emoji-java,539,Java,2014-09-21T16:58:57Z,2024-04-05T09:14:53Z,2024-03-29T19:35:14Z,2587,512,81
 656893,cyrilmottier/GreenDroid,https://github.com/cyrilmottier/GreenDroid,1914,Java,2010-05-08T20:31:52Z,2024-04-01T03:57:30Z,2013-07-24T07:16:04Z,2582,884,51
@@ -795,16 +752,13 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 23502577,pushtorefresh/storio,https://github.com/pushtorefresh/storio,4427,Java,2014-08-30T23:23:41Z,2024-03-31T14:15:10Z,2023-09-16T09:28:58Z,2549,188,42
 102083576,apache/netbeans,https://github.com/apache/netbeans,399087,Java,2017-09-01T07:00:11Z,2024-05-02T13:38:10Z,2024-05-01T19:20:41Z,2547,815,803
 145653898,iReaderAndroid/X2C,https://github.com/iReaderAndroid/X2C,626,Java,2018-08-22T03:58:59Z,2024-05-20T06:15:32Z,2021-01-08T09:47:18Z,2541,250,33
-201179882,android/animation-samples,https://github.com/android/animation-samples,49884,Java,2019-08-08T04:45:57Z,2024-05-19T00:14:25Z,2024-02-27T05:57:29Z,2540,899,27
 55052303,Azoft/CarouselLayoutManager,https://github.com/Azoft/CarouselLayoutManager,10924,Java,2016-03-30T09:57:49Z,2024-04-29T00:57:04Z,2021-06-02T04:16:14Z,2535,366,26
 40492118,pwittchen/ReactiveNetwork,https://github.com/pwittchen/ReactiveNetwork,1706,Java,2015-08-10T16:06:58Z,2024-05-10T03:20:15Z,2022-12-11T00:06:07Z,2528,275,37
 66030306,reactor/reactor-netty,https://github.com/reactor/reactor-netty,24314,Java,2016-08-18T20:58:56Z,2024-05-12T07:52:45Z,2024-05-10T14:58:46Z,2514,625,54
 1873881,nutzam/nutz,https://github.com/nutzam/nutz,44422,Java,2011-06-10T01:25:43Z,2024-04-23T14:06:16Z,2024-03-07T13:31:00Z,2513,944,62
-37431461,iPaulPro/Android-ItemTouchHelper-Demo,https://github.com/iPaulPro/Android-ItemTouchHelper-Demo,284,Java,2015-06-14T22:08:17Z,2024-05-06T09:12:38Z,2022-04-13T07:12:04Z,2513,503,45
 60839877,Zomato/AndroidPhotoFilters,https://github.com/Zomato/AndroidPhotoFilters,2733,Java,2016-06-10T10:23:49Z,2024-05-05T07:00:16Z,2023-07-18T15:49:27Z,2511,482,41
 91458860,team-supercharge/ShimmerLayout,https://github.com/team-supercharge/ShimmerLayout,647,Java,2017-05-16T13:00:37Z,2024-05-18T14:02:02Z,2020-03-26T09:56:57Z,2510,283,18
 396380514,SonicCloudOrg/sonic-server,https://github.com/SonicCloudOrg/sonic-server,89397,Java,2021-08-15T14:36:57Z,2024-05-20T02:34:17Z,2024-05-14T03:12:20Z,2508,582,16
-12414592,javaee-samples/javaee7-samples,https://github.com/javaee-samples/javaee7-samples,4333,Java,2013-08-27T18:47:51Z,2024-05-10T08:44:02Z,2022-09-01T22:46:28Z,2506,1661,113
 2198510,apache/logging-flume,https://github.com/apache/logging-flume,45193,Java,2011-08-12T18:20:14Z,2024-04-30T10:09:49Z,2024-03-25T10:16:36Z,2505,1571,91
 72589714,yanzhenjie/Album,https://github.com/yanzhenjie/Album,69554,Java,2016-11-02T00:49:15Z,2024-04-23T07:21:47Z,2022-08-25T21:09:56Z,2500,504,134
 19020770,liyiorg/weixin-popular,https://github.com/liyiorg/weixin-popular,1603,Java,2014-04-22T07:22:27Z,2024-04-28T02:09:52Z,2022-10-25T07:17:53Z,2499,1055,35
@@ -835,8 +789,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 26807221,ozodrukh/CircularReveal,https://github.com/ozodrukh/CircularReveal,1338,Java,2014-11-18T11:59:59Z,2024-04-26T13:19:06Z,2019-04-07T19:32:24Z,2434,394,27
 20675636,apache/parquet-mr,https://github.com/apache/parquet-mr,14803,Java,2014-06-10T07:00:07Z,2024-05-13T16:23:38Z,2024-05-15T04:54:16Z,2431,1362,131
 3701855,http-kit/http-kit,https://github.com/http-kit/http-kit,2425,Java,2012-03-13T00:51:18Z,2024-05-16T21:01:23Z,2024-04-30T11:21:34Z,2421,336,44
-41310523,deeplearning4j/deeplearning4j-examples,https://github.com/deeplearning4j/deeplearning4j-examples,355459,Java,2015-08-24T15:17:43Z,2024-04-28T08:37:35Z,2023-05-16T15:01:06Z,2418,1807,81
-28638448,konifar/android-material-design-icon-generator-plugin,https://github.com/konifar/android-material-design-icon-generator-plugin,177675,Java,2014-12-30T17:01:03Z,2024-04-10T12:41:47Z,2018-04-28T03:26:15Z,2415,239,16
 295737485,erupts/erupt,https://github.com/erupts/erupt,160326,Java,2020-09-15T13:30:13Z,2024-05-02T11:39:34Z,2024-05-01T19:05:15Z,2414,439,25
 59951874,AhmadElsagheer/Competitive-programming-library,https://github.com/AhmadElsagheer/Competitive-programming-library,278,Java,2016-05-29T16:04:20Z,2024-05-17T07:42:18Z,2022-07-02T22:23:58Z,2413,475,24
 7502247,lealone/Lealone,https://github.com/lealone/Lealone,28140,Java,2013-01-08T13:57:08Z,2024-05-10T11:31:10Z,2024-04-13T08:50:19Z,2412,517,18
@@ -874,7 +826,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 77441910,bingoogolapple/BGASwipeBackLayout-Android,https://github.com/bingoogolapple/BGASwipeBackLayout-Android,618,Java,2016-12-27T09:06:24Z,2024-05-17T18:29:33Z,2021-07-17T17:27:36Z,2310,313,67
 36177024,vikramkakkar/SublimePicker,https://github.com/vikramkakkar/SublimePicker,18633,Java,2015-05-24T14:51:50Z,2024-05-13T05:45:03Z,2023-01-14T05:42:32Z,2309,407,64
 29653587,hidroh/materialistic,https://github.com/hidroh/materialistic,46386,Java,2015-01-22T04:03:54Z,2024-04-27T14:40:49Z,2024-05-08T04:25:13Z,2299,508,433
-100753606,confluentinc/kafka-streams-examples,https://github.com/confluentinc/kafka-streams-examples,24833,Java,2017-08-18T22:07:36Z,2024-05-13T08:21:04Z,2024-05-13T09:48:22Z,2287,1139,26
 144974148,meituan/WMRouter,https://github.com/meituan/WMRouter,3722,Java,2018-08-16T10:38:51Z,2024-05-17T02:45:56Z,2022-06-25T23:48:08Z,2282,339,31
 41625616,H07000223/FlycoDialog_Master,https://github.com/H07000223/FlycoDialog_Master,11093,Java,2015-08-30T11:10:15Z,2024-04-29T20:22:18Z,2018-05-05T22:04:20Z,2281,531,31
 104705553,vladmihalcea/hypersistence-utils,https://github.com/vladmihalcea/hypersistence-utils,2438,Java,2017-09-25T05:10:02Z,2024-05-13T21:02:53Z,2024-05-08T22:47:35Z,2275,355,54
@@ -889,7 +840,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 24653868,moquette-io/moquette,https://github.com/moquette-io/moquette,6208,Java,2014-09-30T20:14:41Z,2024-05-13T01:58:45Z,2024-05-01T17:00:06Z,2251,811,116
 30860673,jenkinsci/kubernetes-plugin,https://github.com/jenkinsci/kubernetes-plugin,7498,Java,2015-02-16T09:02:22Z,2024-04-30T09:43:47Z,2024-05-01T19:44:14Z,2244,1244,23
 58871536,Devlight/NavigationTabStrip,https://github.com/Devlight/NavigationTabStrip,226,Java,2016-05-15T16:17:24Z,2024-04-22T08:25:50Z,2020-10-02T08:51:23Z,2237,312,38
-168183392,apache/incubator-seata-samples,https://github.com/apache/incubator-seata-samples,2938,Java,2019-01-29T16:01:42Z,2024-05-01T05:03:22Z,2024-04-30T13:02:02Z,2236,1898,182
 1020601,modelmapper/modelmapper,https://github.com/modelmapper/modelmapper,1816,Java,2010-10-24T21:46:09Z,2024-04-29T09:37:48Z,2024-02-01T10:35:20Z,2235,343,250
 4449830,sarxos/webcam-capture,https://github.com/sarxos/webcam-capture,23942,Java,2012-05-25T20:26:28Z,2024-05-21T05:39:36Z,2023-12-28T08:40:52Z,2233,1108,300
 3037907,FasterXML/jackson-core,https://github.com/FasterXML/jackson-core,25278,Java,2011-12-23T02:00:51Z,2024-05-16T00:48:24Z,2024-05-16T00:48:44Z,2233,762,56
@@ -905,14 +855,12 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 66121085,xinghongfei/LookLook,https://github.com/xinghongfei/LookLook,31129,Java,2016-08-20T00:57:24Z,2024-05-11T02:28:12Z,2018-06-25T07:13:08Z,2214,707,23
 146941185,firebase/firebase-android-sdk,https://github.com/firebase/firebase-android-sdk,44057,Java,2018-08-31T20:50:43Z,2024-05-15T04:05:00Z,2024-05-15T03:15:24Z,2209,554,412
 50572514,LogNet/grpc-spring-boot-starter,https://github.com/LogNet/grpc-spring-boot-starter,17134,Java,2016-01-28T09:39:21Z,2024-05-19T13:06:07Z,2024-01-22T13:58:19Z,2201,428,50
-141951361,baomidou/mybatis-plus-samples,https://github.com/baomidou/mybatis-plus-samples,2809,Java,2018-07-23T02:32:11Z,2024-05-14T14:17:35Z,2024-05-06T14:15:55Z,2196,2063,17
 27392543,apache/gobblin,https://github.com/apache/gobblin,132770,Java,2014-12-01T18:10:50Z,2024-05-10T18:01:10Z,2024-05-10T19:32:28Z,2192,743,125
 12726339,anjlab/android-inapp-billing-v3,https://github.com/anjlab/android-inapp-billing-v3,1147,Java,2013-09-10T10:04:16Z,2024-05-14T17:55:43Z,2023-12-29T13:42:41Z,2189,532,162
 135305722,anitaa1990/Android-Cheat-sheet,https://github.com/anitaa1990/Android-Cheat-sheet,418,Java,2018-05-29T14:08:42Z,2024-04-30T09:25:22Z,2023-02-23T18:54:53Z,2188,681,16
 50244301,vsch/flexmark-java,https://github.com/vsch/flexmark-java,156179,Java,2016-01-23T15:29:29Z,2024-04-27T13:03:02Z,2024-02-26T19:58:34Z,2184,259,139
 10416648,bcgit/bc-java,https://github.com/bcgit/bc-java,109782,Java,2013-06-01T02:38:42Z,2024-05-21T06:34:52Z,2024-05-21T10:35:56Z,2177,1088,275
 11344961,shyiko/mysql-binlog-connector-java,https://github.com/shyiko/mysql-binlog-connector-java,1405,Java,2013-07-11T15:05:22Z,2024-05-10T04:18:55Z,2023-04-15T13:27:03Z,2177,793,103
-131394823,apache/dubbo-samples,https://github.com/apache/dubbo-samples,17423,Java,2018-04-28T09:25:29Z,2024-05-13T02:03:18Z,2024-05-12T07:15:16Z,2176,1858,92
 60341171,loopeer/CardStackView,https://github.com/loopeer/CardStackView,4179,Java,2016-06-03T10:53:43Z,2024-05-15T03:58:39Z,2017-06-26T03:21:54Z,2173,343,21
 84085844,seiginonakama/BlockCanaryEx,https://github.com/seiginonakama/BlockCanaryEx,1681,Java,2017-03-06T14:56:32Z,2024-04-26T07:38:18Z,2017-08-23T03:29:40Z,2170,233,24
 19730456,ethereum/ethereumj,https://github.com/ethereum/ethereumj,47979,Java,2014-05-13T07:50:14Z,2024-04-25T15:15:39Z,2022-02-24T15:16:54Z,2168,1084,92
@@ -975,7 +923,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 36840131,scouter-project/scouter,https://github.com/scouter-project/scouter,95538,Java,2015-06-04T01:19:31Z,2024-05-16T09:01:25Z,2024-04-20T14:47:37Z,2054,559,215
 196566030,luckybilly/SmartSwipe,https://github.com/luckybilly/SmartSwipe,18486,Java,2019-07-12T11:15:16Z,2024-04-26T09:32:22Z,2020-01-04T05:40:54Z,2053,261,33
 164091262,Qihoo360/Quicksql,https://github.com/Qihoo360/Quicksql,12393,Java,2019-01-04T10:06:25Z,2024-05-04T06:40:47Z,2022-10-25T23:52:06Z,2051,582,89
-72604736,udacity/ud851-Exercises,https://github.com/udacity/ud851-Exercises,4053,Java,2016-11-02T04:41:25Z,2024-05-02T16:43:19Z,2023-12-15T17:57:34Z,2045,6867,40
 86480252,fossasia/pslab-android,https://github.com/fossasia/pslab-android,73435,Java,2017-03-28T16:03:15Z,2024-05-18T13:48:17Z,2024-05-20T05:50:57Z,2043,803,34
 63515681,yadav-rahul/TastyToast,https://github.com/yadav-rahul/TastyToast,903,Java,2016-07-17T05:03:31Z,2024-05-10T02:18:30Z,2019-08-20T06:39:14Z,2043,358,19
 56727413,medyo/android-about-page,https://github.com/medyo/android-about-page,983,Java,2016-04-20T23:26:30Z,2024-04-25T11:27:14Z,2024-04-05T17:01:17Z,2041,285,19
@@ -1044,10 +991,8 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 82663956,Cleveroad/AdaptiveTableLayout,https://github.com/Cleveroad/AdaptiveTableLayout,8453,Java,2017-02-21T09:56:26Z,2024-03-31T14:19:05Z,2024-04-01T13:50:38Z,1904,235,20
 1824050,Wizcorp/phonegap-facebook-plugin,https://github.com/Wizcorp/phonegap-facebook-plugin,75734,Java,2011-05-31T01:02:23Z,2024-05-21T04:01:59Z,2021-01-03T18:26:18Z,1902,2007,431
 97563238,Tencent/soter,https://github.com/Tencent/soter,9248,Java,2017-07-18T06:52:29Z,2024-05-09T09:21:58Z,2023-11-28T08:35:45Z,1902,203,51
-160156999,quarkusio/quarkus-quickstarts,https://github.com/quarkusio/quarkus-quickstarts,16258,Java,2018-12-03T08:25:11Z,2024-05-15T15:36:17Z,2024-05-15T16:52:16Z,1901,1427,183
 11426278,dlazaro66/QRCodeReaderView,https://github.com/dlazaro66/QRCodeReaderView,3667,Java,2013-07-15T15:18:11Z,2024-04-27T18:28:17Z,2021-06-21T04:55:28Z,1901,489,53
 5683653,apache/drill,https://github.com/apache/drill,71237,Java,2012-09-05T07:00:26Z,2024-04-28T09:53:16Z,2024-04-28T21:06:22Z,1895,979,107
-158704131,mercyblitz/thinking-in-spring-boot-samples,https://github.com/mercyblitz/thinking-in-spring-boot-samples,350,Java,2018-11-22T13:34:21Z,2024-04-04T13:18:48Z,2023-05-26T22:10:16Z,1895,794,22
 114649434,NordicSemiconductor/Android-BLE-Library,https://github.com/NordicSemiconductor/Android-BLE-Library,3044,Java,2017-12-18T14:17:43Z,2024-05-16T10:52:22Z,2024-04-29T10:21:20Z,1895,407,39
 4657583,sephiroth74/ImageViewZoom,https://github.com/sephiroth74/ImageViewZoom,601,Java,2012-06-14T00:11:22Z,2024-04-11T07:45:26Z,2017-10-21T18:07:00Z,1893,535,74
 46045466,ZhaoKaiQiang/KLog,https://github.com/ZhaoKaiQiang/KLog,1168,Java,2015-11-12T10:21:33Z,2024-05-08T09:04:44Z,2019-08-23T06:13:18Z,1893,355,25
@@ -1075,12 +1020,9 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 26181278,googleapis/google-cloud-java,https://github.com/googleapis/google-cloud-java,960141,Java,2014-11-04T17:57:16Z,2024-04-30T20:04:31Z,2024-05-01T03:02:29Z,1835,1050,90
 10440209,flavienlaurent/datetimepicker,https://github.com/flavienlaurent/datetimepicker,3365,Java,2013-06-02T18:22:24Z,2024-03-31T14:13:45Z,2022-02-06T15:00:26Z,1835,582,59
 21052744,spring-projects/spring-session,https://github.com/spring-projects/spring-session,23967,Java,2014-06-20T21:16:58Z,2024-05-16T01:16:03Z,2024-05-15T04:17:42Z,1833,1099,171
-78640217,keycloak/keycloak-quickstarts,https://github.com/keycloak/keycloak-quickstarts,107450,Java,2017-01-11T13:11:18Z,2024-05-02T18:57:49Z,2024-04-19T00:51:04Z,1824,945,29
 1493359,indy256/codelibrary,https://github.com/indy256/codelibrary,3782,Java,2011-03-17T20:38:29Z,2024-05-15T14:03:10Z,2024-01-27T06:02:19Z,1820,509,97
-201566059,macrozheng/mall-tiny,https://github.com/macrozheng/mall-tiny,508,Java,2019-08-10T02:03:02Z,2024-05-15T15:58:12Z,2024-05-16T17:31:06Z,1817,1183,21
 3041887,goldmansachs/gs-collections,https://github.com/goldmansachs/gs-collections,12935,Java,2011-12-23T19:17:17Z,2024-04-24T08:50:23Z,2023-03-20T19:23:56Z,1814,286,24
 66854128,stfalcon-studio/FrescoImageViewer,https://github.com/stfalcon-studio/FrescoImageViewer,5466,Java,2016-08-29T15:05:41Z,2024-05-11T15:22:00Z,2022-09-21T09:37:40Z,1812,284,39
-82902089,ZHENFENG13/ssm-demo,https://github.com/ZHENFENG13/ssm-demo,33983,Java,2017-02-23T08:13:00Z,2024-04-24T16:47:49Z,2019-02-14T06:43:32Z,1808,787,18
 296658,haraldk/TwelveMonkeys,https://github.com/haraldk/TwelveMonkeys,298088,Java,2009-09-03T17:44:28Z,2024-05-16T03:19:47Z,2024-05-15T08:44:10Z,1808,304,56
 325438315,SafeGroceryStore/MDUT,https://github.com/SafeGroceryStore/MDUT,12335,Java,2020-12-30T02:49:31Z,2024-05-13T08:15:26Z,2023-09-22T04:28:28Z,1808,219,21
 186741876,siaorg/sia-task,https://github.com/siaorg/sia-task,83764,Java,2019-05-15T03:23:47Z,2024-05-12T03:58:55Z,2022-02-12T05:58:37Z,1806,589,29
@@ -1131,7 +1073,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 20989803,liuguangqiang/SwipeBack,https://github.com/liuguangqiang/SwipeBack,7028,Java,2014-06-19T06:15:36Z,2024-04-16T09:45:08Z,2022-05-16T09:33:00Z,1734,313,44
 65206209,PureDark/H-Viewer,https://github.com/PureDark/H-Viewer,91472,Java,2016-08-08T13:25:41Z,2024-04-19T08:14:40Z,2021-03-07T05:54:52Z,1734,235,44
 41693388,facebook/screenshot-tests-for-android,https://github.com/facebook/screenshot-tests-for-android,2657,Java,2015-08-31T18:36:02Z,2024-05-02T21:09:20Z,2024-03-23T23:14:18Z,1733,229,54
-112770118,Qihoo360/XLearning,https://github.com/Qihoo360/XLearning,131639,Java,2017-12-01T17:53:38Z,2024-04-02T17:43:26Z,2023-04-28T03:06:57Z,1732,385,43
 419950117,0x727/SpringBootExploit,https://github.com/0x727/SpringBootExploit,149,Java,2021-10-22T03:11:17Z,2024-04-29T08:49:44Z,2024-01-15T07:19:09Z,1731,298,16
 59925269,evollu/react-native-fcm,https://github.com/evollu/react-native-fcm,53799,Java,2016-05-29T03:53:22Z,2024-05-15T18:58:51Z,2022-12-06T20:27:57Z,1728,681,307
 48028229,tangqi92/WaveLoadingView,https://github.com/tangqi92/WaveLoadingView,6309,Java,2015-12-15T07:58:57Z,2024-05-11T20:27:37Z,2022-10-15T19:47:40Z,1728,312,33
@@ -1147,7 +1088,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 45387964,hongyangAndroid/AndroidChangeSkin,https://github.com/hongyangAndroid/AndroidChangeSkin,3979,Java,2015-11-02T10:33:14Z,2024-04-22T03:39:04Z,2016-07-22T09:17:34Z,1719,364,36
 48624415,Cutta/GifView,https://github.com/Cutta/GifView,16772,Java,2015-12-26T21:44:51Z,2024-05-15T08:07:01Z,2022-06-27T06:35:55Z,1719,317,17
 13870893,linkedin/ambry,https://github.com/linkedin/ambry,31800,Java,2013-10-25T20:04:54Z,2024-05-16T22:07:50Z,2024-05-16T22:37:29Z,1719,274,137
-32895424,GoogleCloudPlatform/java-docs-samples,https://github.com/GoogleCloudPlatform/java-docs-samples,101980,Java,2015-03-25T22:48:38Z,2024-05-18T19:47:19Z,2024-05-20T18:28:41Z,1718,2808,51
 99198811,yangchong211/YCWebView,https://github.com/yangchong211/YCWebView,17452,Java,2017-08-03T06:30:54Z,2024-04-28T08:31:48Z,2022-03-01T04:40:21Z,1718,269,59
 470487478,alibaba/SREWorks,https://github.com/alibaba/SREWorks,237746,Java,2022-03-16T08:08:10Z,2024-05-15T09:30:34Z,2024-04-11T05:52:37Z,1712,383,40
 252883578,LianjiaTech/retrofit-spring-boot-starter,https://github.com/LianjiaTech/retrofit-spring-boot-starter,981,Java,2020-04-04T01:44:57Z,2024-05-13T03:16:01Z,2024-03-07T02:31:09Z,1712,329,20
@@ -1180,7 +1120,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 134733282,spring-projects-experimental/spring-fu,https://github.com/spring-projects-experimental/spring-fu,18067,Java,2018-05-24T15:16:16Z,2024-04-26T00:16:46Z,2023-08-07T08:39:58Z,1664,139,39
 25446835,jooby-project/jooby,https://github.com/jooby-project/jooby,72372,Java,2014-10-20T02:03:16Z,2024-05-02T17:34:24Z,2024-04-29T01:19:59Z,1663,200,20
 284373979,birdLark/LarkMidTable,https://github.com/birdLark/LarkMidTable,85697,Java,2020-08-02T02:14:50Z,2024-04-30T11:22:10Z,2023-08-20T15:41:26Z,1660,552,27
-14933726,googleads/googleads-mobile-android-examples,https://github.com/googleads/googleads-mobile-android-examples,12706,Java,2013-12-04T19:36:18Z,2024-05-21T12:13:50Z,2024-05-16T00:29:05Z,1659,1852,140
 1589604,harism/android-pagecurl,https://github.com/harism/android-pagecurl,4748,Java,2011-04-08T22:40:28Z,2024-05-10T11:48:53Z,2017-11-04T12:05:08Z,1659,611,107
 30840914,Tibolte/ElasticDownload,https://github.com/Tibolte/ElasticDownload,310,Java,2015-02-15T20:30:24Z,2024-04-06T14:17:04Z,2018-05-10T00:17:05Z,1656,266,16
 41967587,AAkira/ExpandableLayout,https://github.com/AAkira/ExpandableLayout,20581,Java,2015-09-05T16:18:24Z,2024-05-14T05:46:24Z,2017-12-15T11:11:10Z,1655,323,66
@@ -1233,7 +1172,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 16869559,bramp/ffmpeg-cli-wrapper,https://github.com/bramp/ffmpeg-cli-wrapper,3828,Java,2014-02-15T19:07:50Z,2024-04-30T09:22:47Z,2024-04-24T13:32:29Z,1591,405,82
 117061206,Agontuk/react-native-geolocation-service,https://github.com/Agontuk/react-native-geolocation-service,6042,Java,2018-01-11T06:42:18Z,2024-05-08T18:55:08Z,2024-05-08T11:00:18Z,1590,287,118
 94848559,harjot-oberai/VectorMaster,https://github.com/harjot-oberai/VectorMaster,2938,Java,2017-06-20T04:07:03Z,2024-05-10T09:43:59Z,2020-06-01T02:26:11Z,1587,164,21
-206875901,android/connectivity-samples,https://github.com/android/connectivity-samples,5765,Java,2019-09-06T21:21:54Z,2024-04-30T20:32:58Z,2024-01-26T02:02:03Z,1585,1299,159
 94613553,zhisheng17/blog,https://github.com/zhisheng17/blog,7560,Java,2017-06-17T09:26:59Z,2024-05-12T03:36:39Z,2022-10-05T18:37:43Z,1585,930,21
 58488899,ocetnik/react-native-background-timer,https://github.com/ocetnik/react-native-background-timer,2051,Java,2016-05-10T19:42:56Z,2024-04-24T19:06:58Z,2023-10-25T15:45:46Z,1585,216,121
 8655057,j256/ormlite-android,https://github.com/j256/ormlite-android,593,Java,2013-03-08T16:37:44Z,2024-05-15T09:47:19Z,2023-03-09T07:24:10Z,1584,367,43
@@ -1307,7 +1245,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 2681994,mitreid-connect/OpenID-Connect-Java-Spring-Server,https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server,15301,Java,2011-10-31T16:39:24Z,2024-05-06T17:37:33Z,2024-03-14T11:50:41Z,1467,766,265
 36778231,naoufal/react-native-touch-id,https://github.com/naoufal/react-native-touch-id,988,Java,2015-06-03T03:41:22Z,2024-05-07T19:25:05Z,2023-08-03T07:05:47Z,1467,477,118
 52331788,xiepeijie/SwipeCardView,https://github.com/xiepeijie/SwipeCardView,41392,Java,2016-02-23T05:06:06Z,2024-03-22T01:59:24Z,2017-11-07T14:35:35Z,1465,282,19
-77308564,o19s/elasticsearch-learning-to-rank,https://github.com/o19s/elasticsearch-learning-to-rank,2121,Java,2016-12-25T03:19:01Z,2024-04-29T02:45:17Z,2024-04-30T17:55:41Z,1462,365,36
 163786975,ddssingsong/webrtc_android,https://github.com/ddssingsong/webrtc_android,319511,Java,2019-01-02T02:53:48Z,2024-05-13T12:01:33Z,2024-01-09T03:29:00Z,1460,485,31
 47923936,liuling07/SimpleNews,https://github.com/liuling07/SimpleNews,27833,Java,2015-12-13T15:08:53Z,2024-04-01T09:19:09Z,2016-12-09T17:05:21Z,1456,439,17
 131884789,Jigsaw-Code/Intra,https://github.com/Jigsaw-Code/Intra,321590,Java,2018-05-02T17:32:48Z,2024-05-16T05:30:44Z,2024-04-19T12:11:27Z,1455,258,101
@@ -1323,7 +1260,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 126714653,leinardi/FloatingActionButtonSpeedDial,https://github.com/leinardi/FloatingActionButtonSpeedDial,2395,Java,2018-03-25T16:01:47Z,2024-05-13T10:19:27Z,2024-04-04T07:35:37Z,1446,138,45
 4787136,mit-cml/appinventor-sources,https://github.com/mit-cml/appinventor-sources,1155974,Java,2012-06-25T20:42:28Z,2024-05-17T10:42:39Z,2024-05-20T16:07:08Z,1439,2027,590
 14645983,j4velin/Pedometer,https://github.com/j4velin/Pedometer,1055,Java,2013-11-23T16:37:22Z,2024-04-28T10:31:11Z,2023-11-03T09:32:24Z,1436,672,35
-39001727,motianhuo/VCameraDemo,https://github.com/motianhuo/VCameraDemo,35568,Java,2015-07-13T08:57:50Z,2024-03-20T00:45:08Z,2016-03-24T07:32:50Z,1435,457,29
 35959989,yahoo/mysql_perf_analyzer,https://github.com/yahoo/mysql_perf_analyzer,6979,Java,2015-05-20T16:27:27Z,2024-05-09T20:58:44Z,2023-03-21T04:05:35Z,1435,214,18
 33801306,cincheo/jsweet,https://github.com/cincheo/jsweet,11022,Java,2015-04-12T03:14:30Z,2024-04-17T09:53:23Z,2023-12-16T06:27:18Z,1435,160,163
 4634707,Intel-bigdata/HiBench,https://github.com/Intel-bigdata/HiBench,659188,Java,2012-06-12T07:56:57Z,2024-04-29T19:32:31Z,2024-03-08T03:24:46Z,1432,757,250
@@ -1440,7 +1376,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 94589657,revtel/react-native-nfc-manager,https://github.com/revtel/react-native-nfc-manager,3141,Java,2017-06-17T00:05:59Z,2024-05-22T01:44:35Z,2024-04-25T01:31:29Z,1278,309,21
 22831855,methusalah/OpenRTS,https://github.com/methusalah/OpenRTS,190827,Java,2014-08-11T08:20:35Z,2024-04-30T10:52:49Z,2018-11-07T13:18:51Z,1277,148,43
 2022916,mttkay/ignition,https://github.com/mttkay/ignition,3819,Java,2011-07-09T17:15:34Z,2024-04-14T07:33:41Z,2013-01-31T16:08:04Z,1274,293,35
-83344970,oracle-samples/oracle-db-examples,https://github.com/oracle-samples/oracle-db-examples,58749,Java,2017-02-27T18:53:21Z,2024-05-17T22:10:20Z,2024-05-17T22:10:12Z,1273,815,21
 61117729,29jitender/Spotlight,https://github.com/29jitender/Spotlight,436,Java,2016-06-14T11:34:35Z,2024-05-06T13:09:54Z,2020-07-11T04:15:06Z,1272,168,42
 147781722,proyecto26/react-native-inappbrowser,https://github.com/proyecto26/react-native-inappbrowser,2807,Java,2018-09-07T06:39:07Z,2024-05-17T18:19:16Z,2023-12-11T16:22:02Z,1270,215,71
 33421022,zstackio/zstack,https://github.com/zstackio/zstack,207802,Java,2015-04-04T21:29:29Z,2024-04-25T11:10:49Z,2024-02-20T06:44:00Z,1269,385,167
@@ -1464,9 +1399,7 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 16926533,jvm-profiling-tools/honest-profiler,https://github.com/jvm-profiling-tools/honest-profiler,2186,Java,2014-02-17T21:02:44Z,2024-03-31T14:14:32Z,2023-12-05T22:06:45Z,1242,149,64
 27672357,henryyan/activiti-in-action-codes,https://github.com/henryyan/activiti-in-action-codes,8781,Java,2014-12-07T14:15:20Z,2024-05-14T07:52:17Z,2022-07-08T19:04:45Z,1238,623,52
 15870488,VazkiiMods/Botania,https://github.com/VazkiiMods/Botania,112924,Java,2014-01-13T14:30:52Z,2024-04-29T11:24:27Z,2024-04-29T11:24:22Z,1237,483,129
-210663937,android/media-samples,https://github.com/android/media-samples,12284,Java,2019-09-24T17:47:36Z,2024-05-10T10:29:34Z,2024-03-19T13:30:36Z,1236,737,67
 4513405,pingpongboss/StandOut,https://github.com/pingpongboss/StandOut,786,Java,2012-05-31T21:57:02Z,2024-05-11T08:52:34Z,2017-06-01T19:38:20Z,1236,380,26
-11235473,mapstruct/mapstruct-examples,https://github.com/mapstruct/mapstruct-examples,827,Java,2013-07-07T15:38:42Z,2024-04-19T12:30:49Z,2024-03-28T16:41:46Z,1233,506,31
 44878154,Tibolte/AgendaCalendarView,https://github.com/Tibolte/AgendaCalendarView,2114,Java,2015-10-24T18:06:03Z,2024-04-29T13:44:55Z,2018-10-08T09:21:08Z,1233,339,115
 64561944,harjot-oberai/Croller,https://github.com/harjot-oberai/Croller,3890,Java,2016-07-30T20:01:56Z,2024-04-27T08:24:29Z,2020-06-13T10:18:01Z,1232,162,21
 76279202,google/conscrypt,https://github.com/google/conscrypt,25339,Java,2016-12-12T17:24:18Z,2024-05-17T22:21:32Z,2024-05-08T06:16:49Z,1231,261,147
@@ -1491,7 +1424,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 9594425,belerweb/pinyin4j,https://github.com/belerweb/pinyin4j,375,Java,2013-04-22T08:30:46Z,2024-05-19T01:13:35Z,2023-09-04T08:14:50Z,1207,303,38
 1195705,rkalla/imgscalr,https://github.com/rkalla/imgscalr,46361,Java,2010-12-24T15:51:58Z,2024-05-14T22:26:12Z,2023-10-21T09:52:16Z,1205,243,42
 79040742,muraee/Horizontal-Calendar,https://github.com/muraee/Horizontal-Calendar,1443,Java,2017-01-15T15:23:06Z,2024-05-15T06:04:06Z,2020-07-15T19:48:11Z,1203,230,72
-144424478,habuma/spring-in-action-5-samples,https://github.com/habuma/spring-in-action-5-samples,670,Java,2018-08-11T23:29:43Z,2024-04-24T12:05:11Z,2022-12-19T04:14:08Z,1202,1048,75
 60470713,rampatra/jbot,https://github.com/rampatra/jbot,45796,Java,2016-06-05T16:54:31Z,2024-04-08T16:13:58Z,2022-12-30T12:44:27Z,1199,352,77
 6022685,jcodec/jcodec,https://github.com/jcodec/jcodec,132200,Java,2012-09-30T21:47:38Z,2024-05-13T06:54:29Z,2023-03-02T07:49:53Z,1199,310,239
 36626150,jsquared21/Intro-to-Java-Programming,https://github.com/jsquared21/Intro-to-Java-Programming,9292,Java,2015-05-31T23:05:33Z,2024-05-12T03:58:21Z,2023-05-02T23:48:31Z,1198,876,52
@@ -1631,13 +1563,10 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 42983313,Chanven/CommonPullToRefresh,https://github.com/Chanven/CommonPullToRefresh,9095,Java,2015-09-23T06:45:05Z,2024-01-26T09:55:49Z,2017-06-29T09:22:53Z,1070,303,60
 60983785,ShawnLin013/NumberPicker,https://github.com/ShawnLin013/NumberPicker,549,Java,2016-06-12T18:51:06Z,2024-05-20T05:09:36Z,2022-04-25T20:16:02Z,1068,239,37
 7334654,PebbleTemplates/pebble,https://github.com/PebbleTemplates/pebble,3488,Java,2012-12-27T02:04:22Z,2024-04-29T14:53:34Z,2024-05-10T18:12:53Z,1068,163,73
-84344298,iiitv/algos,https://github.com/iiitv/algos,443,Java,2017-03-08T16:49:57Z,2024-05-21T03:15:37Z,2023-10-14T20:17:24Z,1064,497,211
 56489244,yarolegovich/LovelyDialog,https://github.com/yarolegovich/LovelyDialog,2121,Java,2016-04-18T08:12:04Z,2024-04-27T09:40:36Z,2022-10-08T14:25:43Z,1063,191,28
 93138840,taoweiji/MixPush,https://github.com/taoweiji/MixPush,9609,Java,2017-06-02T07:25:21Z,2024-05-21T07:11:44Z,2023-10-30T06:49:39Z,1062,180,26
 149598464,ucarGroup/DataLink,https://github.com/ucarGroup/DataLink,16624,Java,2018-09-20T11:26:16Z,2024-05-07T02:29:29Z,2022-12-06T00:35:57Z,1061,413,56
 11966919,bobbylight/RSyntaxTextArea,https://github.com/bobbylight/RSyntaxTextArea,14543,Java,2013-08-08T03:40:21Z,2024-05-01T17:09:30Z,2024-04-28T01:15:37Z,1061,251,126
-28795278,zirouan/NavigationDrawer-MaterialDesign,https://github.com/zirouan/NavigationDrawer-MaterialDesign,3132,Java,2015-01-05T03:13:24Z,2024-04-09T13:51:14Z,2021-03-26T08:53:54Z,1060,276,23
-63559858,wzgiceman/RxjavaRetrofitDemo-master,https://github.com/wzgiceman/RxjavaRetrofitDemo-master,3837,Java,2016-07-18T01:01:44Z,2024-03-31T14:18:05Z,2018-04-20T01:40:49Z,1059,290,28
 39255205,ISchwarz23/SortableTableView,https://github.com/ISchwarz23/SortableTableView,3284,Java,2015-07-17T13:23:54Z,2024-05-09T23:58:40Z,2021-04-17T13:39:26Z,1053,240,51
 212409034,androidx/constraintlayout,https://github.com/androidx/constraintlayout,36470,Java,2019-10-02T18:08:50Z,2024-05-18T09:00:54Z,2023-10-24T22:10:06Z,1052,174,99
 55330340,requery/sqlite-android,https://github.com/requery/sqlite-android,528,Java,2016-04-03T04:56:43Z,2024-05-10T14:36:23Z,2024-03-31T10:00:48Z,1051,137,36
@@ -1684,7 +1613,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 63752344,omkarmoghe/Pokemap,https://github.com/omkarmoghe/Pokemap,1178,Java,2016-07-20T05:17:39Z,2024-04-06T05:26:35Z,2021-11-04T09:05:44Z,1010,320,45
 84190094,donkingliang/LabelsView,https://github.com/donkingliang/LabelsView,355,Java,2017-03-07T11:11:59Z,2024-05-10T10:02:59Z,2023-05-09T12:10:39Z,1010,157,17
 40998919,zalando/problem-spring-web,https://github.com/zalando/problem-spring-web,1547,Java,2015-08-18T21:41:40Z,2024-04-29T12:10:39Z,2024-04-22T04:51:46Z,1010,128,46
-209615030,dapr/quickstarts,https://github.com/dapr/quickstarts,182499,Java,2019-09-19T17:48:03Z,2024-05-16T12:05:16Z,2024-05-08T10:09:48Z,1007,506,66
 42708912,jianzhongli/MathView,https://github.com/jianzhongli/MathView,4175,Java,2015-09-18T08:23:52Z,2024-04-30T00:56:46Z,2022-07-19T14:42:23Z,1005,190,62
 62760623,booncol/Pulsator4Droid,https://github.com/booncol/Pulsator4Droid,214,Java,2016-07-06T23:47:52Z,2024-05-03T08:57:54Z,2023-11-24T05:24:58Z,1003,171,23
 34428627,confluentinc/kafka-connect-jdbc,https://github.com/confluentinc/kafka-connect-jdbc,15150,Java,2015-04-23T02:23:08Z,2024-05-03T00:29:23Z,2024-05-03T02:16:47Z,1000,951,542
@@ -1728,7 +1656,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 12801725,codelibs/fess,https://github.com/codelibs/fess,50286,Java,2013-09-13T04:50:05Z,2024-05-13T01:17:52Z,2024-05-09T09:51:35Z,965,167,28
 120821522,Earthcomputer/clientcommands,https://github.com/Earthcomputer/clientcommands,1976,Java,2018-02-08T21:42:32Z,2024-05-22T06:08:17Z,2024-05-21T23:29:04Z,965,107,111
 42032884,commons-app/apps-android-commons,https://github.com/commons-app/apps-android-commons,282529,Java,2015-09-07T05:23:27Z,2024-05-14T14:21:13Z,2024-05-16T00:41:02Z,964,1169,557
-10084023,playgameservices/android-basic-samples,https://github.com/playgameservices/android-basic-samples,143968,Java,2013-05-15T17:19:49Z,2024-04-17T04:14:00Z,2021-10-05T10:08:53Z,964,975,84
 18378040,mimno/Mallet,https://github.com/mimno/Mallet,41038,Java,2014-04-02T19:10:38Z,2024-04-17T03:49:37Z,2024-03-14T13:49:54Z,964,345,107
 56238465,cfig/Android_boot_image_editor,https://github.com/cfig/Android_boot_image_editor,37635,Java,2016-04-14T13:12:18Z,2024-05-20T10:48:57Z,2024-05-20T05:09:41Z,964,221,19
 1346655,tomighty/tomighty,https://github.com/tomighty/tomighty,4236,Java,2011-02-09T14:47:37Z,2024-04-10T08:38:43Z,2023-12-16T18:10:43Z,962,211,79
@@ -1740,11 +1667,9 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 69422727,Hitomis/CircleMenu,https://github.com/Hitomis/CircleMenu,527,Java,2016-09-28T03:39:45Z,2024-05-12T10:20:16Z,2019-09-23T12:45:24Z,957,141,17
 85615363,i-net-software/JWebAssembly,https://github.com/i-net-software/JWebAssembly,2093,Java,2017-03-20T19:05:05Z,2024-05-01T15:56:34Z,2023-05-07T18:46:25Z,957,64,20
 333340595,yulichang/mybatis-plus-join,https://github.com/yulichang/mybatis-plus-join,1607,Java,2021-01-27T07:36:31Z,2024-04-29T16:00:41Z,2024-04-17T06:59:51Z,955,111,28
-299329204,sukritishah15/DS-Algo-Point,https://github.com/sukritishah15/DS-Algo-Point,4105,Java,2020-09-28T14:09:43Z,2024-05-13T01:10:29Z,2023-10-24T15:12:13Z,953,292,161
 1001284,pholser/junit-quickcheck,https://github.com/pholser/junit-quickcheck,18273,Java,2010-10-18T22:33:36Z,2024-04-29T15:52:44Z,2024-04-29T15:52:43Z,952,122,36
 44234368,zalando/nakadi,https://github.com/zalando/nakadi,15424,Java,2015-10-14T08:30:17Z,2024-04-29T15:17:51Z,2024-04-11T12:06:35Z,949,294,46
 58486585,diegodobelo/AndroidExpandingViewLibrary,https://github.com/diegodobelo/AndroidExpandingViewLibrary,992,Java,2016-05-10T19:04:35Z,2024-05-11T10:37:39Z,2018-08-24T11:21:06Z,949,122,18
-23296614,saki4510t/AudioVideoRecordingSample,https://github.com/saki4510t/AudioVideoRecordingSample,703,Java,2014-08-25T00:03:45Z,2024-05-15T01:51:52Z,2023-05-21T03:44:28Z,948,292,23
 12231724,protegeproject/protege,https://github.com/protegeproject/protege,44704,Java,2013-08-20T01:26:26Z,2024-05-01T15:14:59Z,2024-04-29T06:57:34Z,948,230,380
 13968244,zebrunner/carina,https://github.com/zebrunner/carina,58592,Java,2013-10-29T20:46:25Z,2024-04-22T09:51:22Z,2024-04-22T09:51:18Z,948,212,16
 357358127,awslabs/aws-saas-boost,https://github.com/awslabs/aws-saas-boost,7784,Java,2021-04-12T22:38:41Z,2024-05-10T10:41:36Z,2024-03-14T04:51:56Z,948,187,81
@@ -1758,7 +1683,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 245713683,krlvm/PowerTunnel-Android,https://github.com/krlvm/PowerTunnel-Android,61101,Java,2020-03-07T22:16:21Z,2024-05-18T16:00:44Z,2023-08-01T10:08:29Z,943,83,29
 23135537,don/cordova-plugin-ble-central,https://github.com/don/cordova-plugin-ble-central,791,Java,2014-08-20T04:14:14Z,2024-05-16T08:20:26Z,2024-03-20T00:50:21Z,941,600,49
 124869523,smarteist/Android-Image-Slider,https://github.com/smarteist/Android-Image-Slider,20705,Java,2018-03-12T10:05:01Z,2024-05-17T11:11:38Z,2023-10-31T15:51:33Z,941,280,122
-52093316,spring-cloud/spring-cloud-stream-samples,https://github.com/spring-cloud/spring-cloud-stream-samples,3652,Java,2016-02-19T14:32:27Z,2024-05-07T01:20:41Z,2024-01-23T16:07:08Z,940,673,38
 18225913,broadinstitute/picard,https://github.com/broadinstitute/picard,253083,Java,2014-03-28T20:43:35Z,2024-05-13T03:56:56Z,2024-05-13T17:58:51Z,940,365,213
 31231846,aol/micro-server,https://github.com/aol/micro-server,8327,Java,2015-02-23T21:54:25Z,2024-04-02T09:07:40Z,2023-03-21T11:09:09Z,939,216,48
 2397489,nathanmarz/storm-starter,https://github.com/nathanmarz/storm-starter,543,Java,2011-09-16T05:21:34Z,2024-04-02T17:40:54Z,2016-03-09T23:17:37Z,938,745,17
@@ -1776,17 +1700,14 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 33609151,hankcs/AhoCorasickDoubleArrayTrie,https://github.com/hankcs/AhoCorasickDoubleArrayTrie,3210,Java,2015-04-08T13:40:30Z,2024-04-29T07:34:45Z,2021-11-24T17:09:04Z,927,284,30
 501689,antlr/stringtemplate4,https://github.com/antlr/stringtemplate4,3056,Java,2010-02-04T01:37:35Z,2024-05-15T10:19:42Z,2023-11-19T20:33:01Z,927,228,44
 3564955,locationtech/spatial4j,https://github.com/locationtech/spatial4j,14042,Java,2012-02-27T21:22:30Z,2024-05-15T09:53:12Z,2023-04-07T06:10:29Z,926,165,73
-149785457,nacos-group/nacos-examples,https://github.com/nacos-group/nacos-examples,1151,Java,2018-09-21T15:52:49Z,2024-05-07T15:10:45Z,2024-04-03T18:26:52Z,925,1462,70
 9119163,emilsjolander/android-FlipView,https://github.com/emilsjolander/android-FlipView,1337,Java,2013-03-30T17:16:00Z,2024-04-06T14:16:36Z,2018-05-12T22:03:06Z,925,274,54
 3028163,togglz/togglz,https://github.com/togglz/togglz,3683,Java,2011-12-21T16:49:03Z,2024-05-15T11:58:23Z,2024-04-23T15:44:32Z,925,251,70
 36057260,apache/activemq-artemis,https://github.com/apache/activemq-artemis,95750,Java,2015-05-22T07:00:05Z,2024-05-12T00:45:17Z,2024-05-13T13:39:46Z,919,907,16
 14638138,jfaster/mango,https://github.com/jfaster/mango,2793,Java,2013-11-23T07:00:12Z,2024-04-28T02:12:18Z,2022-10-18T02:06:26Z,918,365,28
 81995571,imablanco/Zoomy,https://github.com/imablanco/Zoomy,17371,Java,2017-02-14T22:29:46Z,2024-04-08T08:43:07Z,2023-03-14T08:38:18Z,917,125,22
-354254077,thepranaygupta/Data-Structures-and-Algorithms,https://github.com/thepranaygupta/Data-Structures-and-Algorithms,5362,Java,2021-04-03T09:46:17Z,2024-05-11T05:47:44Z,2023-10-01T17:18:29Z,916,348,198
 43552369,nidi3/graphviz-java,https://github.com/nidi3/graphviz-java,10036,Java,2015-10-02T12:46:51Z,2024-04-27T21:48:56Z,2023-05-25T04:52:52Z,916,104,70
 57375687,crosswall/Android-Coverflow,https://github.com/crosswall/Android-Coverflow,2348,Java,2016-04-29T10:07:42Z,2024-03-24T04:52:59Z,2019-06-02T12:59:39Z,915,165,37
 363729,mttkay/droid-fu,https://github.com/mttkay/droid-fu,1723,Java,2009-11-06T20:46:13Z,2024-03-27T20:23:56Z,2013-01-31T07:40:06Z,912,248,42
-17197573,4pr0n/ripme,https://github.com/4pr0n/ripme,1288,Java,2014-02-26T03:30:50Z,2024-05-03T08:19:16Z,2020-04-14T14:33:03Z,911,203,202
 59624544,miguelhincapie/CustomBottomSheetBehavior,https://github.com/miguelhincapie/CustomBottomSheetBehavior,8264,Java,2016-05-25T02:30:51Z,2024-05-21T00:20:35Z,2021-06-14T10:01:14Z,911,185,36
 30874140,hexene/LocalVPN,https://github.com/hexene/LocalVPN,152,Java,2015-02-16T15:25:17Z,2024-05-13T05:56:26Z,2019-02-27T10:18:30Z,910,370,40
 198041727,OpenTracksApp/OpenTracks,https://github.com/OpenTracksApp/OpenTracks,94004,Java,2019-07-21T10:14:34Z,2024-05-02T15:37:12Z,2024-05-02T05:30:36Z,909,180,83
@@ -1800,7 +1721,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 1546909,Multiverse/Multiverse-Core,https://github.com/Multiverse/Multiverse-Core,15692,Java,2011-03-30T16:18:14Z,2024-05-01T13:26:35Z,2024-03-12T02:39:38Z,903,290,127
 1711467,Impetus/kundera,https://github.com/Impetus/kundera,30689,Java,2011-05-06T13:57:57Z,2024-04-11T09:38:36Z,2020-02-11T05:50:27Z,902,234,175
 238151562,Rosemoe/sora-editor,https://github.com/Rosemoe/sora-editor,12933,Java,2020-02-04T07:50:29Z,2024-04-29T14:28:01Z,2024-04-30T19:55:34Z,902,132,33
-10135158,wildfly/quickstart,https://github.com/wildfly/quickstart,44365,Java,2013-05-18T01:34:56Z,2024-04-25T13:53:30Z,2024-04-30T12:24:24Z,900,1388,24
 3664810,spring-projects/spring-data-rest,https://github.com/spring-projects/spring-data-rest,12826,Java,2012-03-08T21:55:39Z,2024-05-02T13:38:14Z,2024-04-12T08:53:05Z,900,535,781
 60201162,uber/uReplicator,https://github.com/uber/uReplicator,2335,Java,2016-06-01T18:27:06Z,2024-04-25T05:51:21Z,2023-12-16T20:30:09Z,898,201,77
 44597341,hanhailong/FlowTag,https://github.com/hanhailong/FlowTag,104,Java,2015-10-20T09:55:43Z,2024-04-06T14:19:16Z,2017-06-22T07:04:35Z,897,177,21
@@ -1821,7 +1741,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 22425058,gorbin/ASNE,https://github.com/gorbin/ASNE,4428,Java,2014-07-30T11:35:23Z,2024-01-22T23:19:57Z,2019-05-29T12:32:28Z,887,252,61
 127650028,Earthcomputer/EnchantmentCracker,https://github.com/Earthcomputer/EnchantmentCracker,435,Java,2018-04-01T16:33:55Z,2024-05-14T01:59:56Z,2023-03-14T14:39:40Z,886,90,100
 23764742,emmaguy/clean-status-bar,https://github.com/emmaguy/clean-status-bar,9082,Java,2014-09-07T16:37:20Z,2024-04-26T12:03:20Z,2020-08-01T19:10:10Z,886,83,18
-38446972,paulc4/microservices-demo,https://github.com/paulc4/microservices-demo,1355,Java,2015-07-02T17:29:29Z,2024-04-27T02:29:23Z,2022-03-04T07:29:53Z,885,828,20
 97924480,shts/StoriesProgressView,https://github.com/shts/StoriesProgressView,51941,Java,2017-07-21T08:23:37Z,2024-05-16T18:04:36Z,2023-10-21T17:59:30Z,884,204,39
 91772843,MasayukiSuda/ExoPlayerFilter,https://github.com/MasayukiSuda/ExoPlayerFilter,31282,Java,2017-05-19T06:25:10Z,2024-05-12T05:23:42Z,2023-04-06T14:11:06Z,883,163,17
 120119851,AAChartModel/AAChartCore,https://github.com/AAChartModel/AAChartCore,2212,Java,2018-02-03T18:52:16Z,2024-04-30T10:10:11Z,2024-03-11T08:18:14Z,883,126,77
@@ -1841,7 +1760,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 89879438,eclipse-vertx/vertx-sql-client,https://github.com/eclipse-vertx/vertx-sql-client,11746,Java,2017-04-30T21:50:57Z,2024-04-26T00:17:08Z,2024-04-23T08:49:28Z,870,194,133
 87646765,whataa/SuitLines,https://github.com/whataa/SuitLines,102,Java,2017-04-08T16:12:36Z,2024-04-08T10:45:16Z,2018-07-09T03:36:25Z,870,138,17
 28717741,prometheus/cloudwatch_exporter,https://github.com/prometheus/cloudwatch_exporter,649,Java,2015-01-02T15:49:44Z,2024-05-21T06:56:59Z,2024-05-16T21:10:30Z,868,320,53
-66163865,saturnism/grpc-by-example-java,https://github.com/saturnism/grpc-by-example-java,341,Java,2016-08-20T19:15:05Z,2024-05-16T04:05:57Z,2021-07-26T10:15:25Z,867,339,25
 2335594,jshiell/checkstyle-idea,https://github.com/jshiell/checkstyle-idea,19770,Java,2011-09-06T16:16:19Z,2024-05-12T10:57:19Z,2024-05-12T10:57:16Z,867,159,47
 210579021,apache/hop,https://github.com/apache/hop,181967,Java,2019-09-24T10:48:12Z,2024-05-20T12:18:05Z,2024-05-20T12:17:59Z,866,324,696
 23322482,OfficeDev/ews-java-api,https://github.com/OfficeDev/ews-java-api,12113,Java,2014-08-25T17:33:09Z,2024-05-02T16:44:01Z,2024-03-28T11:56:18Z,864,556,346
@@ -1900,7 +1818,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 88574269,ChenLittlePing/RecyclerCoverFlow,https://github.com/ChenLittlePing/RecyclerCoverFlow,15778,Java,2017-04-18T02:51:11Z,2024-05-07T09:29:13Z,2020-09-01T01:59:52Z,827,152,22
 688360,apache/mina-sshd,https://github.com/apache/mina-sshd,16990,Java,2010-05-26T23:38:08Z,2024-05-14T21:18:05Z,2024-05-11T18:36:06Z,826,344,43
 40583917,SpaceMadness/lunar-unity-console,https://github.com/SpaceMadness/lunar-unity-console,4480,Java,2015-08-12T06:24:57Z,2024-04-26T17:25:27Z,2021-10-24T00:59:48Z,826,110,36
-33104308,rampatra/Algorithms-and-Data-Structures-in-Java,https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java,846,Java,2015-03-30T05:08:29Z,2024-04-22T10:40:49Z,2024-05-02T03:15:53Z,825,309,40
 12916283,percyliang/sempre,https://github.com/percyliang/sempre,11384,Java,2013-09-18T06:59:41Z,2024-04-25T11:26:17Z,2023-05-01T19:48:10Z,825,302,88
 28824978,inferred/FreeBuilder,https://github.com/inferred/FreeBuilder,4706,Java,2015-01-05T18:11:27Z,2024-05-05T21:06:13Z,2023-10-01T12:14:53Z,825,101,49
 116181922,mkuczera/react-native-haptic-feedback,https://github.com/mkuczera/react-native-haptic-feedback,597,Java,2018-01-03T21:05:31Z,2024-05-15T08:39:06Z,2024-03-12T15:41:36Z,825,100,24
@@ -1926,7 +1843,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 20558257,baoyongzhang/android-ActionSheet,https://github.com/baoyongzhang/android-ActionSheet,960,Java,2014-06-06T09:26:41Z,2023-11-21T02:32:40Z,2017-03-29T18:49:03Z,810,254,19
 29318475,MachinePublishers/jBrowserDriver,https://github.com/MachinePublishers/jBrowserDriver,9663,Java,2015-01-15T21:12:32Z,2024-04-11T06:43:26Z,2024-02-19T22:39:51Z,810,143,115
 83231995,ifnoelse/pdf-bookmark,https://github.com/ifnoelse/pdf-bookmark,6766,Java,2017-02-26T18:45:51Z,2024-05-10T15:23:08Z,2022-09-23T07:18:42Z,810,128,22
-62040875,BuglyDevTeam/Bugly-Android-Demo,https://github.com/BuglyDevTeam/Bugly-Android-Demo,12045,Java,2016-06-27T08:56:51Z,2024-04-08T06:29:11Z,2021-06-04T09:12:49Z,809,312,287
 2901410,felixpalmer/android-visualizer,https://github.com/felixpalmer/android-visualizer,26503,Java,2011-12-02T20:50:55Z,2024-04-12T07:44:34Z,2018-08-22T01:19:03Z,808,279,24
 116057862,hivemq/hivemq-mqtt-client,https://github.com/hivemq/hivemq-mqtt-client,8044,Java,2018-01-02T21:15:55Z,2024-05-01T07:55:50Z,2024-04-22T10:02:07Z,808,150,62
 20717348,wso2/product-apim,https://github.com/wso2/product-apim,338908,Java,2014-06-11T08:05:00Z,2024-04-30T08:53:29Z,2024-04-30T08:53:24Z,806,758,1467
@@ -1949,7 +1865,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 1088796,spring-projects/spring-amqp,https://github.com/spring-projects/spring-amqp,17209,Java,2010-11-17T15:50:16Z,2024-05-18T02:56:12Z,2024-05-18T02:56:16Z,797,610,34
 4841359,na-ka-na/ExcelCompare,https://github.com/na-ka-na/ExcelCompare,257,Java,2012-06-30T09:36:26Z,2024-05-10T13:40:23Z,2023-10-17T07:38:05Z,797,103,21
 35210580,zaproxy/zap-extensions,https://github.com/zaproxy/zap-extensions,969479,Java,2015-05-07T09:17:13Z,2024-04-26T12:43:47Z,2024-04-27T12:10:42Z,796,671,40
-64465730,dunwu/spring-tutorial,https://github.com/dunwu/spring-tutorial,21317,Java,2016-07-29T08:48:34Z,2024-04-30T13:13:45Z,2024-04-23T23:38:26Z,796,364,19
 28924109,yegor256/takes,https://github.com/yegor256/takes,32188,Java,2015-01-07T16:57:47Z,2024-04-22T03:40:22Z,2024-05-03T01:05:24Z,795,195,79
 425174106,qqxx6661/log-record,https://github.com/qqxx6661/log-record,4073,Java,2021-11-06T06:35:33Z,2024-05-14T15:22:32Z,2024-05-14T15:44:18Z,794,159,20
 157470740,Interrupt/delverengine,https://github.com/Interrupt/delverengine,7452,Java,2018-11-14T01:22:00Z,2024-04-30T01:45:41Z,2023-10-19T05:22:09Z,791,77,64
@@ -2003,7 +1918,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 8836548,kongchen/swagger-maven-plugin,https://github.com/kongchen/swagger-maven-plugin,2136,Java,2013-03-17T15:38:21Z,2024-04-24T17:43:42Z,2024-01-06T00:15:01Z,758,449,336
 61065768,alinz/react-native-share-extension,https://github.com/alinz/react-native-share-extension,2827,Java,2016-06-13T20:00:30Z,2024-05-06T08:56:10Z,2024-01-24T08:30:30Z,758,398,104
 2176646,stripe/stripe-java,https://github.com/stripe/stripe-java,745266,Java,2011-08-09T00:06:31Z,2024-05-20T16:35:13Z,2024-05-20T20:24:28Z,755,354,19
-135796936,rieckpil/blog-tutorials,https://github.com/rieckpil/blog-tutorials,28533,Java,2018-06-02T07:25:24Z,2024-05-14T10:53:29Z,2024-04-25T07:09:28Z,753,759,49
 144689510,AwakenCN/InChat,https://github.com/AwakenCN/InChat,1069,Java,2018-08-14T08:12:19Z,2024-04-23T05:42:43Z,2023-08-28T15:15:16Z,753,361,22
 1072614,spring-projects/spring-data-commons,https://github.com/spring-projects/spring-data-commons,16971,Java,2010-11-11T20:19:31Z,2024-05-17T10:06:31Z,2024-05-17T10:06:31Z,752,658,186
 107559907,dlsc-software-consulting-gmbh/CalendarFX,https://github.com/dlsc-software-consulting-gmbh/CalendarFX,7416,Java,2017-10-19T14:49:19Z,2024-04-29T10:23:06Z,2024-04-01T23:57:53Z,751,169,19
@@ -2028,12 +1942,10 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 34401698,tipsy/j2html,https://github.com/tipsy/j2html,4595,Java,2015-04-22T16:24:53Z,2024-05-08T05:21:13Z,2024-05-04T13:52:12Z,743,135,25
 3532660,scala-android/sbt-android,https://github.com/scala-android/sbt-android,9620,Java,2012-02-24T04:11:36Z,2024-04-27T08:45:23Z,2020-12-03T18:44:05Z,743,94,21
 33839920,fangyidong/json-simple,https://github.com/fangyidong/json-simple,187,Java,2015-04-13T00:34:22Z,2024-04-28T07:06:30Z,2024-04-06T09:27:31Z,741,340,72
-125595640,amitshekhariitbhu/Android-TensorFlow-Lite-Example,https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example,19772,Java,2018-03-17T04:07:35Z,2024-05-14T13:46:14Z,2022-11-17T12:49:51Z,741,231,18
 41294846,NordicSemiconductor/Android-Scanner-Compat-Library,https://github.com/NordicSemiconductor/Android-Scanner-Compat-Library,329,Java,2015-08-24T09:36:45Z,2024-04-30T21:50:05Z,2024-01-19T21:39:00Z,741,153,16
 2784643,floodlight/floodlight,https://github.com/floodlight/floodlight,393258,Java,2011-11-16T00:58:20Z,2024-05-18T07:01:59Z,2024-04-26T21:23:22Z,740,626,57
 2363832,restfb/restfb,https://github.com/restfb/restfb,18209,Java,2011-09-11T03:06:54Z,2024-05-13T16:13:07Z,2024-05-13T21:06:01Z,739,393,24
 33941838,uPhyca/stetho-realm,https://github.com/uPhyca/stetho-realm,692,Java,2015-04-14T15:57:01Z,2024-05-19T08:59:48Z,2023-02-17T14:02:14Z,739,114,29
-33241390,springfox/springfox-demos,https://github.com/springfox/springfox-demos,384,Java,2015-04-01T10:24:07Z,2024-05-10T02:52:53Z,2022-10-03T21:23:19Z,737,353,64
 32219624,x-stream/xstream,https://github.com/x-stream/xstream,21430,Java,2015-03-14T15:57:12Z,2024-05-17T16:43:08Z,2024-05-16T22:09:47Z,737,217,39
 236570369,linkedin/coral,https://github.com/linkedin/coral,6579,Java,2020-01-27T19:07:47Z,2024-05-11T05:47:29Z,2024-05-08T03:42:09Z,737,174,69
 103781936,joltup/react-native-threads,https://github.com/joltup/react-native-threads,1590,Java,2017-09-16T20:30:28Z,2024-05-11T17:14:02Z,2023-12-27T10:59:13Z,737,139,74
@@ -2074,7 +1986,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 98432140,abel533/guns,https://github.com/abel533/guns,7359,Java,2017-07-26T14:28:56Z,2024-04-17T13:15:08Z,2022-10-18T02:19:43Z,713,362,18
 1577604,jline/jline2,https://github.com/jline/jline2,3461,Java,2011-04-06T14:53:44Z,2024-04-04T08:30:34Z,2020-10-12T18:56:53Z,712,183,56
 36417138,shuyo/language-detection,https://github.com/shuyo/language-detection,9668,Java,2015-05-28T05:39:31Z,2024-05-14T06:49:50Z,2019-02-25T10:17:55Z,712,182,85
-16709229,mapbox/mapbox-android-demo,https://github.com/mapbox/mapbox-android-demo,118399,Java,2014-02-10T21:01:59Z,2024-04-29T07:54:42Z,2022-01-04T19:57:31Z,711,496,88
 3821432,codebutler/android-websockets,https://github.com/codebutler/android-websockets,265,Java,2012-03-25T00:57:16Z,2024-05-13T02:13:16Z,2018-06-25T15:03:23Z,711,496,23
 81052983,deliveredtechnologies/rulebook,https://github.com/deliveredtechnologies/rulebook,1565,Java,2017-02-06T05:57:24Z,2024-04-15T23:50:38Z,2020-10-20T02:44:27Z,711,125,39
 97998938,ThanosFisherman/WifiUtils,https://github.com/ThanosFisherman/WifiUtils,469,Java,2017-07-22T01:36:50Z,2024-05-11T12:15:59Z,2024-05-11T12:15:55Z,710,188,55
@@ -2118,7 +2029,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 365956362,Pangu-Immortal/KeepAlivePerfect,https://github.com/Pangu-Immortal/KeepAlivePerfect,2781,Java,2021-05-10T07:32:34Z,2024-05-17T12:31:05Z,2023-11-09T09:18:11Z,687,271,18
 7630574,Esri/geometry-api-java,https://github.com/Esri/geometry-api-java,7426,Java,2013-01-15T18:29:18Z,2024-04-16T16:19:42Z,2024-04-16T16:53:36Z,687,260,44
 209459144,apache/submarine,https://github.com/apache/submarine,30721,Java,2019-09-19T04:00:17Z,2024-05-19T08:15:02Z,2024-04-03T00:59:35Z,687,252,53
-206148290,alphacep/vosk-android-demo,https://github.com/alphacep/vosk-android-demo,281599,Java,2019-09-03T18:42:57Z,2024-05-21T08:14:29Z,2023-11-24T08:46:46Z,686,184,69
 50351931,hierynomus/smbj,https://github.com/hierynomus/smbj,9840,Java,2016-01-25T13:23:01Z,2024-05-13T15:35:33Z,2024-05-08T05:10:32Z,685,174,171
 70976365,kimxogus/react-native-version-check,https://github.com/kimxogus/react-native-version-check,15714,Java,2016-10-15T08:35:35Z,2024-05-16T22:20:28Z,2024-05-13T12:22:49Z,685,166,56
 233913691,Rapsssito/react-native-background-actions,https://github.com/Rapsssito/react-native-background-actions,753,Java,2020-01-14T18:59:19Z,2024-05-13T12:27:36Z,2024-02-19T06:39:12Z,685,92,35
@@ -2247,7 +2157,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 8862411,asciidoctor/asciidoctorj,https://github.com/asciidoctor/asciidoctorj,4802,Java,2013-03-18T19:36:27Z,2024-04-28T17:30:04Z,2024-04-07T13:48:38Z,611,174,123
 11579275,ontop/ontop,https://github.com/ontop/ontop,232718,Java,2013-07-22T11:00:27Z,2024-04-30T14:04:21Z,2024-04-30T14:04:15Z,611,162,69
 53765018,georgewfraser/java-language-server,https://github.com/georgewfraser/java-language-server,44876,Java,2016-03-13T03:08:19Z,2024-05-21T07:20:19Z,2024-02-25T21:08:42Z,611,119,105
-33237039,spring-guides/gs-spring-boot-docker,https://github.com/spring-guides/gs-spring-boot-docker,742,Java,2015-04-01T08:57:10Z,2024-04-21T01:57:14Z,2024-03-09T08:47:45Z,609,1339,16
 3416578,igvteam/igv,https://github.com/igvteam/igv,446478,Java,2012-02-11T17:30:30Z,2024-04-18T06:23:14Z,2024-04-13T02:03:12Z,609,377,133
 21477166,kennycason/kumo,https://github.com/kennycason/kumo,38405,Java,2014-07-03T21:14:53Z,2024-04-18T03:35:48Z,2023-07-30T04:14:30Z,609,154,45
 5941021,takimafr/androidkickstartr,https://github.com/takimafr/androidkickstartr,396,Java,2012-09-24T21:05:38Z,2024-04-11T15:05:24Z,2023-12-18T03:17:08Z,609,117,42
@@ -2272,8 +2181,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 40714460,scalecube/scalecube-services,https://github.com/scalecube/scalecube-services,6726,Java,2015-08-14T12:44:39Z,2024-04-25T09:19:24Z,2024-04-12T08:22:09Z,600,104,19
 8220233,fixteam/fixflow,https://github.com/fixteam/fixflow,122558,Java,2013-02-15T15:02:55Z,2024-04-17T07:53:21Z,2017-04-20T06:37:32Z,598,301,30
 49421225,pinball83/Masked-Edittext,https://github.com/pinball83/Masked-Edittext,127,Java,2016-01-11T11:19:54Z,2023-11-29T03:31:38Z,2018-02-12T21:36:46Z,598,98,17
-9221361,camunda-consulting/camunda-7-code-examples,https://github.com/camunda-consulting/camunda-7-code-examples,126724,Java,2013-04-04T15:31:22Z,2024-05-08T07:42:14Z,2024-04-23T16:07:58Z,596,1000,527
-125895633,eventuate-tram/eventuate-tram-examples-customers-and-orders,https://github.com/eventuate-tram/eventuate-tram-examples-customers-and-orders,1355,Java,2018-03-19T17:29:16Z,2024-05-18T02:50:36Z,2024-03-21T01:49:46Z,596,289,35
 9751165,arx-deidentifier/arx,https://github.com/arx-deidentifier/arx,391487,Java,2013-04-29T15:23:18Z,2024-04-29T13:34:12Z,2024-04-18T08:18:00Z,596,210,62
 34880846,graalvm/simplelanguage,https://github.com/graalvm/simplelanguage,1445,Java,2015-04-30T22:58:08Z,2024-05-11T07:03:14Z,2023-10-19T11:01:18Z,596,195,31
 174378379,in28minutes/full-stack-with-react-and-spring-boot,https://github.com/in28minutes/full-stack-with-react-and-spring-boot,27499,Java,2019-03-07T16:11:10Z,2024-04-22T16:39:20Z,2023-03-03T10:03:31Z,595,510,24
@@ -2325,7 +2232,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 41012501,allenai/science-parse,https://github.com/allenai/science-parse,77098,Java,2015-08-19T04:03:40Z,2024-04-29T07:28:15Z,2023-07-25T07:28:52Z,571,86,27
 131141660,dpa99c/cordova-plugin-firebasex,https://github.com/dpa99c/cordova-plugin-firebasex,259790,Java,2018-04-26T10:49:08Z,2024-05-12T08:56:35Z,2024-04-25T16:55:12Z,570,457,108
 8943624,intel-cloud/cosbench,https://github.com/intel-cloud/cosbench,188135,Java,2013-03-22T02:47:50Z,2024-04-27T07:26:35Z,2022-08-22T16:55:05Z,570,238,137
-155852461,openjfx/samples,https://github.com/openjfx/samples,582,Java,2018-11-02T10:44:22Z,2024-05-02T21:49:49Z,2024-01-10T10:30:19Z,569,1525,32
 68241609,tolu360/react-native-google-places,https://github.com/tolu360/react-native-google-places,1330,Java,2016-09-14T20:41:32Z,2024-05-06T00:01:09Z,2024-02-09T12:45:26Z,569,287,62
 95439437,youseries/uflo,https://github.com/youseries/uflo,3239,Java,2017-06-26T11:25:56Z,2024-05-11T02:02:12Z,2022-12-10T03:12:44Z,569,234,33
 118187305,mreram/ShowCaseView,https://github.com/mreram/ShowCaseView,5118,Java,2018-01-19T22:47:49Z,2024-05-21T10:05:38Z,2024-02-13T16:07:18Z,569,130,25
@@ -2382,14 +2288,12 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 9349244,kobakei/Android-RateThisApp,https://github.com/kobakei/Android-RateThisApp,1468,Java,2013-04-10T15:26:49Z,2024-04-04T07:03:16Z,2020-05-08T09:53:49Z,549,164,42
 63785877,GantMan/jail-monkey,https://github.com/GantMan/jail-monkey,1429,Java,2016-07-20T13:59:01Z,2024-05-10T07:03:04Z,2024-05-16T22:00:20Z,549,141,46
 81557006,mgks/Android-SmartWebView,https://github.com/mgks/Android-SmartWebView,9984,Java,2017-02-10T10:59:02Z,2024-05-13T12:08:19Z,2024-03-01T19:03:49Z,548,275,103
-93834913,vert-x3/vertx-guide-for-java-devs,https://github.com/vert-x3/vertx-guide-for-java-devs,4981,Java,2017-06-09T08:07:34Z,2024-05-08T22:35:02Z,2023-12-05T22:18:32Z,547,182,23
 29989374,spring-cloud/spring-cloud-zookeeper,https://github.com/spring-cloud/spring-cloud-zookeeper,30863,Java,2015-01-28T21:34:09Z,2024-05-15T10:15:18Z,2024-04-04T15:39:23Z,546,408,39
 215394390,awslabs/aws-athena-query-federation,https://github.com/awslabs/aws-athena-query-federation,65235,Java,2019-10-15T20:51:45Z,2024-04-29T07:29:57Z,2024-05-03T08:39:40Z,546,279,106
 44841177,nats-io/nats.java,https://github.com/nats-io/nats.java,9040,Java,2015-10-23T22:09:38Z,2024-05-13T22:01:46Z,2024-05-13T22:01:42Z,544,148,30
 13300550,novoda/spikes,https://github.com/novoda/spikes,145562,Java,2013-10-03T14:31:43Z,2024-01-19T07:18:33Z,2023-03-02T11:47:13Z,543,132,64
 17046292,lessthanoptimal/ejml,https://github.com/lessthanoptimal/ejml,9666,Java,2014-02-21T05:16:46Z,2024-05-01T19:26:05Z,2024-02-08T20:03:53Z,543,114,29
 56023993,huxq17/SwipeCardsView,https://github.com/huxq17/SwipeCardsView,36028,Java,2016-04-12T02:25:01Z,2024-03-27T14:50:08Z,2020-06-08T16:06:08Z,543,100,19
-11708465,hazelcast/hazelcast-code-samples,https://github.com/hazelcast/hazelcast-code-samples,96326,Java,2013-07-27T17:31:05Z,2024-04-27T06:57:55Z,2024-04-29T17:54:34Z,542,591,42
 100995928,PlayPro/CoreProtect,https://github.com/PlayPro/CoreProtect,717,Java,2017-08-21T21:59:13Z,2024-05-02T19:03:58Z,2024-05-02T19:27:06Z,542,242,111
 130603282,apache/streampipes,https://github.com/apache/streampipes,321963,Java,2018-04-22T20:06:55Z,2024-04-29T06:28:11Z,2024-04-30T00:59:53Z,542,168,179
 93094953,bevy/photo-editor-android,https://github.com/bevy/photo-editor-android,7468,Java,2017-06-01T20:03:57Z,2024-05-02T14:40:47Z,2020-06-15T07:33:43Z,541,188,32
@@ -2453,8 +2357,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 59616258,nullpomino/nullpomino,https://github.com/nullpomino/nullpomino,187039,Java,2016-05-24T23:44:49Z,2024-05-18T08:31:28Z,2021-10-06T03:50:11Z,515,73,55
 117991990,aerogear/keycloak-metrics-spi,https://github.com/aerogear/keycloak-metrics-spi,312,Java,2018-01-18T14:16:38Z,2024-05-14T14:29:52Z,2024-04-30T08:41:05Z,513,148,56
 230802881,SpaiR/imgui-java,https://github.com/SpaiR/imgui-java,182823,Java,2019-12-29T21:01:06Z,2024-04-28T11:50:30Z,2024-03-13T05:55:59Z,513,86,44
-13938382,spring-guides/getting-started-guides,https://github.com/spring-guides/getting-started-guides,590,Java,2013-10-28T20:59:08Z,2024-04-20T15:54:26Z,2023-02-22T16:14:57Z,511,205,66
-240784219,Anuj-Kumar-Sharma/DS-Algo,https://github.com/Anuj-Kumar-Sharma/DS-Algo,44,Java,2020-02-15T20:36:00Z,2024-05-09T14:15:48Z,2023-01-11T17:55:24Z,510,404,35
 92887912,javapathfinder/jpf-core,https://github.com/javapathfinder/jpf-core,2220,Java,2017-05-31T00:28:26Z,2024-05-18T17:47:14Z,2024-05-18T17:55:56Z,510,327,38
 22720188,jitsi/jigasi,https://github.com/jitsi/jigasi,113240,Java,2014-08-07T12:20:09Z,2024-05-19T05:36:11Z,2024-05-18T16:19:41Z,510,288,66
 65184575,florent37/TutoShowcase,https://github.com/florent37/TutoShowcase,2555,Java,2016-08-08T07:57:18Z,2024-05-06T13:19:27Z,2018-11-06T11:06:03Z,509,89,24
@@ -2464,7 +2366,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 302673395,qinming99/dst-admin,https://github.com/qinming99/dst-admin,8368,Java,2020-10-09T14:58:26Z,2024-05-19T03:59:23Z,2024-03-04T02:11:03Z,506,103,38
 56775348,YoKeyword/SwipeBackFragment,https://github.com/YoKeyword/SwipeBackFragment,2110,Java,2016-04-21T13:19:22Z,2024-04-16T03:36:01Z,2018-11-29T03:06:01Z,506,86,17
 13663078,inmite/android-validation-komensky,https://github.com/inmite/android-validation-komensky,286,Java,2013-10-17T22:38:39Z,2023-08-13T16:25:25Z,2017-03-18T16:33:38Z,506,78,18
-112428883,eventuate-tram/eventuate-tram-sagas-examples-customers-and-orders,https://github.com/eventuate-tram/eventuate-tram-sagas-examples-customers-and-orders,1929,Java,2017-11-29T05:01:56Z,2024-05-09T22:32:23Z,2024-03-21T03:15:26Z,505,235,28
 6945670,crawljax/crawljax,https://github.com/crawljax/crawljax,75815,Java,2012-11-30T21:04:31Z,2024-05-15T01:17:15Z,2023-09-18T07:08:58Z,504,226,74
 7177096,Railcraft/Railcraft,https://github.com/Railcraft/Railcraft,15819,Java,2012-12-15T07:42:00Z,2024-04-25T12:22:01Z,2023-09-20T04:01:42Z,504,192,163
 158084770,Cicizz/jmqtt,https://github.com/Cicizz/jmqtt,5085,Java,2018-11-18T13:07:37Z,2024-05-07T08:20:57Z,2023-06-14T22:47:15Z,504,184,28
@@ -2492,7 +2393,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 20448696,locationtech/geowave,https://github.com/locationtech/geowave,982131,Java,2014-06-03T15:39:29Z,2024-04-14T06:01:30Z,2023-06-13T23:06:08Z,493,190,88
 22281482,mongobee/mongobee,https://github.com/mongobee/mongobee,470,Java,2014-07-26T08:05:45Z,2024-05-06T06:54:10Z,2022-12-16T01:14:55Z,493,165,58
 126844782,eventeum/eventeum,https://github.com/eventeum/eventeum,1152,Java,2018-03-26T14:52:18Z,2024-04-05T11:34:46Z,2023-04-29T11:00:14Z,493,148,36
-171872748,apache/servicecomb-samples,https://github.com/apache/servicecomb-samples,1563,Java,2019-02-21T13:02:49Z,2024-05-01T11:18:42Z,2024-04-24T06:10:29Z,493,144,24
 21445860,googlesamples/android-play-publisher-api,https://github.com/googlesamples/android-play-publisher-api,30,Java,2014-07-03T01:26:35Z,2024-05-08T06:02:47Z,2023-04-13T11:24:34Z,492,288,46
 388284349,line/line-fido2-server,https://github.com/line/line-fido2-server,13885,Java,2021-07-22T00:44:01Z,2024-04-30T06:58:49Z,2023-12-05T17:30:34Z,492,84,16
 73044482,danimahardhika/candybar-library,https://github.com/danimahardhika/candybar-library,8946,Java,2016-11-07T05:14:40Z,2024-04-25T08:44:40Z,2020-06-27T07:59:07Z,491,151,46
@@ -2512,7 +2412,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 24836018,sstrickx/yahoofinance-api,https://github.com/sstrickx/yahoofinance-api,4684,Java,2014-10-06T06:31:26Z,2024-05-11T08:29:06Z,2024-04-25T11:49:14Z,485,215,49
 238933392,ververica/flink-sql-gateway,https://github.com/ververica/flink-sql-gateway,271,Java,2020-02-07T13:44:32Z,2024-04-26T14:24:04Z,2022-10-21T16:42:11Z,484,186,48
 6403019,oVirt/ovirt-engine,https://github.com/oVirt/ovirt-engine,333231,Java,2012-10-26T11:48:34Z,2024-05-17T08:22:00Z,2024-05-16T14:11:52Z,483,256,121
-26934626,googlesamples/androidtv-sample-inputs,https://github.com/googlesamples/androidtv-sample-inputs,24208,Java,2014-11-20T22:18:21Z,2024-05-14T20:31:15Z,2024-01-01T13:20:20Z,483,239,43
 19287338,aleksandr-m/gitflow-maven-plugin,https://github.com/aleksandr-m/gitflow-maven-plugin,1755,Java,2014-04-29T18:35:29Z,2024-05-16T09:12:06Z,2024-02-10T13:19:52Z,483,179,49
 91538139,fr1kin/ForgeHax,https://github.com/fr1kin/ForgeHax,76483,Java,2017-05-17T05:46:22Z,2024-05-13T18:01:09Z,2022-12-09T01:31:32Z,483,132,109
 215950115,FinVolution/pmq,https://github.com/FinVolution/pmq,8903,Java,2019-10-18T05:49:48Z,2024-05-15T11:47:32Z,2022-12-16T11:19:29Z,482,172,16
@@ -2533,7 +2432,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 1161647,springtestdbunit/spring-test-dbunit,https://github.com/springtestdbunit/spring-test-dbunit,3451,Java,2010-12-12T18:24:31Z,2024-04-24T14:15:21Z,2023-11-11T13:50:56Z,475,239,63
 185394887,fair-acc/chart-fx,https://github.com/fair-acc/chart-fx,24736,Java,2019-05-07T12:13:31Z,2024-04-28T20:43:12Z,2024-03-08T08:01:50Z,475,88,16
 127122199,appoly/ARCore-Location,https://github.com/appoly/ARCore-Location,5057,Java,2018-03-28T10:12:11Z,2024-05-08T14:02:51Z,2020-11-27T14:16:12Z,474,158,45
-53420085,gaussic/SpringMVCDemo,https://github.com/gaussic/SpringMVCDemo,88,Java,2016-03-08T14:49:10Z,2024-03-31T14:17:31Z,2022-12-16T07:55:06Z,473,402,36
 64244238,HiromuHota/pentaho-kettle,https://github.com/HiromuHota/pentaho-kettle,557817,Java,2016-07-26T18:18:46Z,2024-04-26T18:35:21Z,2022-12-14T21:00:09Z,473,185,56
 2011633,fasseg/exp4j,https://github.com/fasseg/exp4j,1149,Java,2011-07-07T10:24:51Z,2024-05-08T09:07:40Z,2024-01-10T09:07:25Z,473,160,38
 27314060,egslava/edittext-mask,https://github.com/egslava/edittext-mask,612,Java,2014-11-29T20:26:56Z,2024-05-14T15:02:10Z,2021-04-11T18:51:28Z,473,122,39
@@ -2542,7 +2440,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 7074625,jprante/elasticsearch-knapsack,https://github.com/jprante/elasticsearch-knapsack,7650,Java,2012-12-09T02:19:43Z,2024-02-09T04:43:55Z,2021-11-18T00:46:41Z,472,77,53
 5316748,thymeleaf/thymeleaf-extras-springsecurity,https://github.com/thymeleaf/thymeleaf-extras-springsecurity,432,Java,2012-08-06T16:48:02Z,2024-05-06T09:04:16Z,2022-12-08T18:30:14Z,471,107,20
 32803313,wro4j/wro4j,https://github.com/wro4j/wro4j,111339,Java,2015-03-24T14:21:00Z,2024-04-07T08:26:10Z,2023-10-26T07:44:14Z,471,105,255
-90180748,androidthings/sample-googleassistant,https://github.com/androidthings/sample-googleassistant,278,Java,2017-05-03T18:27:58Z,2023-11-05T14:28:43Z,2021-05-26T17:59:20Z,470,147,19
 4007590,iipc/openwayback,https://github.com/iipc/openwayback,52798,Java,2012-04-12T17:53:44Z,2024-04-15T16:09:11Z,2024-01-03T23:55:02Z,469,268,105
 193179639,BiscuitDevelopment/SkyblockAddons,https://github.com/BiscuitDevelopment/SkyblockAddons,18015,Java,2019-06-22T01:56:34Z,2024-04-29T10:16:03Z,2023-12-09T08:29:00Z,469,248,92
 24853559,Itiviti/simple-slack-api,https://github.com/Itiviti/simple-slack-api,1616,Java,2014-10-06T16:13:21Z,2024-03-31T14:15:16Z,2022-10-04T15:37:21Z,469,240,81
@@ -2555,7 +2452,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 285281777,jmix-framework/jmix,https://github.com/jmix-framework/jmix,109832,Java,2020-08-05T12:29:27Z,2024-05-21T09:19:14Z,2024-05-21T15:26:23Z,464,112,606
 41930098,games647/FastLogin,https://github.com/games647/FastLogin,8522,Java,2015-09-04T17:54:25Z,2024-05-20T14:18:27Z,2024-05-10T10:20:44Z,464,109,146
 157569792,dekorateio/dekorate,https://github.com/dekorateio/dekorate,18564,Java,2018-11-14T15:30:03Z,2024-05-01T15:39:44Z,2024-04-14T14:42:28Z,464,99,77
-8196482,vaadin/dashboard-demo,https://github.com/vaadin/dashboard-demo,1187,Java,2013-02-14T09:08:09Z,2024-05-17T16:40:56Z,2022-05-20T20:50:03Z,463,392,19
 157127826,TerraformersMC/ModMenu,https://github.com/TerraformersMC/ModMenu,2077,Java,2018-11-11T22:32:57Z,2024-05-13T13:49:11Z,2024-05-11T08:54:13Z,463,136,99
 1873841,OneBusAway/onebusaway-android,https://github.com/OneBusAway/onebusaway-android,15224,Java,2011-06-10T01:07:10Z,2024-05-01T20:20:57Z,2024-04-30T17:19:54Z,462,284,173
 13200909,devadvance/circularseekbar,https://github.com/devadvance/circularseekbar,55,Java,2013-09-29T22:12:33Z,2024-01-25T03:27:13Z,2017-10-07T03:39:03Z,462,134,26
@@ -2606,7 +2502,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 500806,citrusframework/citrus,https://github.com/citrusframework/citrus,88890,Java,2010-02-03T15:32:30Z,2024-05-17T08:43:33Z,2024-05-21T04:58:45Z,441,135,172
 223355,alexo/wro4j,https://github.com/alexo/wro4j,112070,Java,2009-06-10T09:31:25Z,2023-09-08T16:25:32Z,2022-12-16T00:35:40Z,441,110,50
 305896397,alibaba/bytekit,https://github.com/alibaba/bytekit,268,Java,2020-10-21T03:20:13Z,2024-04-24T01:26:45Z,2024-03-25T11:50:06Z,441,108,17
-26283838,habuma/spring-in-action-4-samples,https://github.com/habuma/spring-in-action-4-samples,446,Java,2014-11-06T18:32:03Z,2023-11-27T07:18:26Z,2018-10-25T07:30:23Z,440,388,18
 69562331,ls1intum/Artemis,https://github.com/ls1intum/Artemis,339904,Java,2016-09-29T11:46:05Z,2024-05-15T21:44:18Z,2024-05-16T05:34:42Z,440,276,551
 119474953,GrapheneOS/Auditor,https://github.com/GrapheneOS/Auditor,1847,Java,2018-01-30T03:08:48Z,2024-05-20T22:05:07Z,2024-05-21T19:39:31Z,439,84,30
 98690886,Innoxia/liliths-throne-public,https://github.com/Innoxia/liliths-throne-public,335989,Java,2017-07-28T21:51:29Z,2024-05-14T13:45:09Z,2024-05-02T23:58:46Z,438,422,672
@@ -2656,7 +2551,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 63624217,ViaVersion/ViaBackwards,https://github.com/ViaVersion/ViaBackwards,6005,Java,2016-07-18T17:41:30Z,2024-05-14T07:56:48Z,2024-05-15T15:27:44Z,421,79,44
 14567924,lumifyio/lumify,https://github.com/lumifyio/lumify,78123,Java,2013-11-20T20:18:21Z,2024-03-31T14:14:16Z,2017-07-11T15:33:44Z,420,242,265
 10113304,cobbzilla/s3s3mirror,https://github.com/cobbzilla/s3s3mirror,240532,Java,2013-05-17T00:34:28Z,2024-04-18T18:12:07Z,2022-09-04T18:03:11Z,420,90,27
-145159816,aws-samples/aws-sam-java-rest,https://github.com/aws-samples/aws-sam-java-rest,46,Java,2018-08-17T19:39:39Z,2024-04-20T02:03:45Z,2024-04-16T05:32:32Z,419,144,16
 256500823,retrooper/packetevents,https://github.com/retrooper/packetevents,149853,Java,2020-04-17T12:46:34Z,2024-05-15T03:22:48Z,2024-05-12T17:25:56Z,419,122,48
 8946144,yahoo/storm-yarn,https://github.com/yahoo/storm-yarn,91780,Java,2013-03-22T06:21:02Z,2024-03-31T14:13:33Z,2023-07-21T06:09:50Z,418,161,46
 460537559,spring-projects-experimental/spring-boot-migrator,https://github.com/spring-projects-experimental/spring-boot-migrator,91105,Java,2022-02-17T17:26:36Z,2024-05-01T12:57:27Z,2024-02-02T22:05:57Z,418,88,79
@@ -2686,7 +2580,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 206662517,samdjstevens/java-totp,https://github.com/samdjstevens/java-totp,150,Java,2019-09-05T21:45:37Z,2024-04-29T12:53:46Z,2024-01-01T13:08:07Z,408,103,23
 18499671,highsource/jaxb-tools,https://github.com/highsource/jaxb-tools,21275,Java,2014-04-06T21:23:45Z,2024-05-02T01:15:00Z,2024-04-19T11:19:33Z,408,95,54
 15803329,wymsee/cordova-imagePicker,https://github.com/wymsee/cordova-imagePicker,878,Java,2014-01-10T16:34:17Z,2023-12-26T14:11:36Z,2022-05-26T01:06:14Z,407,853,195
-33250810,GwtMaterialDesign/gwt-material,https://github.com/GwtMaterialDesign/gwt-material,9385,Java,2015-04-01T14:02:10Z,2024-04-06T03:25:56Z,2024-04-17T02:20:34Z,407,124,108
 198162143,kafka-ops/julie,https://github.com/kafka-ops/julie,2797,Java,2019-07-22T06:35:26Z,2024-05-07T16:58:53Z,2024-04-03T14:33:12Z,407,111,83
 33823684,Camelcade/Perl5-IDEA,https://github.com/Camelcade/Perl5-IDEA,98704,Java,2015-04-12T16:09:15Z,2024-05-18T17:19:29Z,2024-05-17T08:08:03Z,407,75,940
 55638412,mapbox/mapbox-java,https://github.com/mapbox/mapbox-java,22999,Java,2016-04-06T20:30:35Z,2024-04-24T13:46:15Z,2024-04-24T13:46:11Z,406,124,79
@@ -2779,11 +2672,8 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 77066767,eclipse/repairnator,https://github.com/eclipse/repairnator,61512,Java,2016-12-21T16:12:54Z,2024-04-22T21:13:15Z,2023-12-12T20:27:57Z,377,85,138
 178471747,RamiJ3mli/PercentageChartView,https://github.com/RamiJ3mli/PercentageChartView,62131,Java,2019-03-29T20:30:46Z,2024-02-24T09:53:02Z,2023-10-25T18:52:55Z,377,82,21
 3289399,cybergarage/cybergarage-upnp,https://github.com/cybergarage/cybergarage-upnp,5927,Java,2012-01-28T08:15:49Z,2024-05-15T12:47:54Z,2024-05-15T12:48:11Z,376,145,22
-324375939,bobocode-projects/java-fundamentals-exercises,https://github.com/bobocode-projects/java-fundamentals-exercises,802,Java,2020-12-25T14:19:10Z,2024-05-21T10:26:56Z,2024-05-15T18:00:30Z,375,391,21
 9185941,segmentio/analytics-android,https://github.com/segmentio/analytics-android,80078,Java,2013-04-03T03:28:33Z,2024-04-22T17:40:06Z,2024-02-13T16:46:30Z,375,216,26
 68020885,goldmansachs/reladomo,https://github.com/goldmansachs/reladomo,10750,Java,2016-09-12T15:17:34Z,2024-03-31T14:18:21Z,2023-07-20T09:51:52Z,375,97,16
-73282380,spring-cloud-samples/spring-cloud-contract-samples,https://github.com/spring-cloud-samples/spring-cloud-contract-samples,22589,Java,2016-11-09T12:30:56Z,2024-05-08T01:26:42Z,2024-03-27T17:37:13Z,374,312,26
-178107430,GoogleCloudPlatform/cloud-code-samples,https://github.com/GoogleCloudPlatform/cloud-code-samples,28254,Java,2019-03-28T02:06:05Z,2024-03-31T14:22:18Z,2024-05-09T19:47:14Z,374,198,32
 26384591,ua-parser/uap-java,https://github.com/ua-parser/uap-java,98,Java,2014-11-09T04:06:58Z,2024-04-29T13:22:31Z,2024-01-25T13:03:27Z,374,176,23
 56113204,cdancy/jenkins-rest,https://github.com/cdancy/jenkins-rest,2833,Java,2016-04-13T02:09:37Z,2024-05-15T03:38:37Z,2024-05-07T18:25:02Z,374,167,31
 14828209,diegocarloslima/FloatingGroupExpandableListView,https://github.com/diegocarloslima/FloatingGroupExpandableListView,2058,Java,2013-11-30T20:53:36Z,2023-12-01T08:33:03Z,2017-12-08T10:59:21Z,374,136,18
@@ -2802,7 +2692,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 11527775,flaxsearch/luwak,https://github.com/flaxsearch/luwak,7393,Java,2013-07-19T12:58:07Z,2024-03-31T14:13:53Z,2023-03-08T21:34:38Z,371,82,25
 2183665,spring-projects/spring-data-cassandra,https://github.com/spring-projects/spring-data-cassandra,17190,Java,2011-08-10T06:16:44Z,2024-04-29T09:47:38Z,2024-04-12T08:53:04Z,370,306,33
 198220069,jd-opensource/joyqueue,https://github.com/jd-opensource/joyqueue,20789,Java,2019-07-22T12:34:59Z,2024-04-26T07:35:40Z,2022-12-16T04:45:30Z,370,161,34
-65614505,Qualeams/Android-Face-Recognition-with-Deep-Learning-Library,https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library,182471,Java,2016-08-13T11:37:19Z,2024-04-06T04:15:25Z,2018-12-29T18:31:41Z,370,135,20
 30913821,flipkart-incubator/springy-heads,https://github.com/flipkart-incubator/springy-heads,5689,Java,2015-02-17T11:16:21Z,2024-03-23T18:54:00Z,2018-02-21T13:12:16Z,370,110,34
 41505521,WPIRoboticsProjects/GRIP,https://github.com/WPIRoboticsProjects/GRIP,71152,Java,2015-08-27T18:59:07Z,2024-04-15T09:21:05Z,2021-07-30T16:44:03Z,370,109,154
 4155910,baidu/Cafe,https://github.com/baidu/Cafe,22250,Java,2012-04-27T07:02:58Z,2024-05-01T01:01:04Z,2014-05-12T06:56:11Z,369,223,41
@@ -2817,7 +2706,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 324861035,comp500/Indium,https://github.com/comp500/Indium,407,Java,2020-12-27T22:33:06Z,2024-05-10T09:03:28Z,2024-04-23T21:39:04Z,365,79,19
 77035252,wso2/product-ei,https://github.com/wso2/product-ei,102765,Java,2016-12-21T09:00:01Z,2024-05-15T01:45:26Z,2023-12-01T06:14:42Z,364,275,1028
 394557718,Trainguy9512/trainguys-animation-overhaul,https://github.com/Trainguy9512/trainguys-animation-overhaul,1315,Java,2021-08-10T07:06:24Z,2024-04-29T20:18:29Z,2024-03-31T02:57:52Z,364,266,91
-200787304,aliyun/alibabacloud-microservice-demo,https://github.com/aliyun/alibabacloud-microservice-demo,8054,Java,2019-08-06T06:08:50Z,2024-04-29T10:03:29Z,2024-04-28T06:09:54Z,364,256,64
 247912253,markusaksli/TradeBot,https://github.com/markusaksli/TradeBot,23601,Java,2020-03-17T08:05:00Z,2024-04-28T06:42:34Z,2023-03-19T19:53:19Z,364,139,21
 1581656,arquillian/arquillian-core,https://github.com/arquillian/arquillian-core,5610,Java,2011-04-07T10:12:58Z,2024-04-08T19:23:14Z,2024-04-19T13:54:34Z,363,194,48
 7563814,Esri/spatial-framework-for-hadoop,https://github.com/Esri/spatial-framework-for-hadoop,5675,Java,2013-01-11T17:25:28Z,2024-04-25T03:24:25Z,2024-03-05T17:33:29Z,363,158,22
@@ -2831,14 +2719,12 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 60379785,box/mojito,https://github.com/box/mojito,20683,Java,2016-06-03T21:50:33Z,2024-05-17T01:55:41Z,2024-05-01T22:56:43Z,359,73,55
 156955398,wu9007/qrcode_scanner,https://github.com/wu9007/qrcode_scanner,19293,Java,2018-11-10T06:44:23Z,2024-05-03T17:47:15Z,2023-05-19T18:06:44Z,358,187,90
 5853673,debop/hibernate-redis,https://github.com/debop/hibernate-redis,1703,Java,2012-09-18T08:53:12Z,2024-03-31T14:13:04Z,2022-12-16T03:53:47Z,358,184,57
-64016894,Qualeams/Android-Face-Recognition-with-Deep-Learning-Test-Framework,https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Test-Framework,75102,Java,2016-07-23T13:14:23Z,2024-05-08T06:19:19Z,2021-11-06T12:57:01Z,358,160,24
 1597396,nyholku/purejavacomm,https://github.com/nyholku/purejavacomm,11153,Java,2011-04-11T04:18:44Z,2024-04-25T11:44:00Z,2024-02-20T11:17:28Z,358,145,32
 276234579,LambdAurora/LambDynamicLights,https://github.com/LambdAurora/LambDynamicLights,2082,Java,2020-06-30T23:59:35Z,2024-05-11T07:16:54Z,2024-05-15T08:56:16Z,358,93,35
 3250009,mjiderhamn/classloader-leak-prevention,https://github.com/mjiderhamn/classloader-leak-prevention,824,Java,2012-01-23T20:21:49Z,2024-04-30T10:25:57Z,2024-02-22T00:08:36Z,358,88,20
 36397616,SerCeMan/jnr-fuse,https://github.com/SerCeMan/jnr-fuse,493,Java,2015-05-27T21:42:28Z,2024-05-17T02:54:38Z,2024-04-08T19:17:26Z,358,87,43
 193088046,vividus-framework/vividus,https://github.com/vividus-framework/vividus,78739,Java,2019-06-21T11:40:01Z,2024-05-21T05:03:35Z,2024-05-21T11:24:41Z,358,81,135
 246677383,jxlsteam/jxls,https://github.com/jxlsteam/jxls,7369,Java,2020-03-11T20:51:24Z,2024-05-13T02:42:22Z,2024-05-10T11:20:20Z,358,81,23
-106849441,spring-cloud-samples/spring-cloud-gateway-sample,https://github.com/spring-cloud-samples/spring-cloud-gateway-sample,79,Java,2017-10-13T16:41:13Z,2024-05-07T05:30:45Z,2021-12-07T20:03:34Z,357,232,16
 35890205,vijayrawatsan/android-json-form-wizard,https://github.com/vijayrawatsan/android-json-form-wizard,740,Java,2015-05-19T15:15:44Z,2024-04-11T09:38:48Z,2017-10-01T00:37:27Z,357,98,22
 30621232,marverenic/Jockey,https://github.com/marverenic/Jockey,49138,Java,2015-02-10T23:58:52Z,2024-03-04T09:03:39Z,2021-10-29T00:45:27Z,356,122,45
 187873041,CloudNetService/CloudNet,https://github.com/CloudNetService/CloudNet,106590,Java,2019-05-21T16:12:57Z,2024-05-10T17:31:02Z,2024-05-12T16:41:49Z,356,120,78
@@ -2871,7 +2757,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 61968968,simlu/voxelshop,https://github.com/simlu/voxelshop,118680,Java,2016-06-26T01:39:59Z,2024-04-19T16:40:14Z,2022-11-12T10:12:51Z,348,65,158
 28556746,SpongePowered/Configurate,https://github.com/SpongePowered/Configurate,14881,Java,2014-12-28T07:48:56Z,2024-05-07T15:11:38Z,2024-05-10T16:43:22Z,348,64,30
 49016095,controlwear/virtual-joystick-android,https://github.com/controlwear/virtual-joystick-android,328,Java,2016-01-04T18:46:14Z,2024-04-29T17:38:20Z,2024-05-15T14:56:21Z,347,123,18
-265994353,HMS-Core/hms-ml-demo,https://github.com/HMS-Core/hms-ml-demo,240209,Java,2020-05-22T01:55:19Z,2024-04-09T07:23:47Z,2023-08-15T08:16:54Z,347,120,18
 5760263,momodalo/vimtouch,https://github.com/momodalo/vimtouch,7004,Java,2012-09-11T05:22:19Z,2024-04-11T18:04:43Z,2016-08-19T21:42:13Z,347,71,50
 47563072,refinedmods/refinedstorage,https://github.com/refinedmods/refinedstorage,31938,Java,2015-12-07T16:05:16Z,2024-04-02T23:20:45Z,2024-04-05T14:53:37Z,346,175,99
 143730343,erdemcer/kafka-connect-oracle,https://github.com/erdemcer/kafka-connect-oracle,3506,Java,2018-08-06T13:10:47Z,2024-04-19T08:03:20Z,2023-12-17T17:22:05Z,346,168,67
@@ -2941,7 +2826,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 3059640,spring-projects/spring-webflow,https://github.com/spring-projects/spring-webflow,22999,Java,2011-12-27T23:27:14Z,2024-05-10T04:11:26Z,2024-05-01T18:40:02Z,323,228,464
 133990040,antkaynak/Keyist-Ecommerce,https://github.com/antkaynak/Keyist-Ecommerce,6789,Java,2018-05-18T18:23:17Z,2024-04-22T19:02:46Z,2023-01-06T20:37:00Z,323,176,45
 33664893,TechReborn/TechReborn,https://github.com/TechReborn/TechReborn,45854,Java,2015-04-09T11:19:27Z,2024-04-22T04:14:49Z,2024-05-01T16:22:07Z,323,170,24
-288249616,android/car-samples,https://github.com/android/car-samples,3058,Java,2020-08-17T17:56:26Z,2024-05-21T08:51:07Z,2024-01-08T15:36:41Z,323,155,34
 17537296,dhorions/boxable,https://github.com/dhorions/boxable,7508,Java,2014-03-08T07:19:04Z,2024-05-18T02:31:55Z,2024-01-05T13:06:01Z,323,149,72
 8533893,approvals/ApprovalTests.Java,https://github.com/approvals/ApprovalTests.Java,23372,Java,2013-03-03T08:44:41Z,2024-05-15T20:25:53Z,2024-05-15T20:25:57Z,323,72,51
 1320406,anismiles/websocket-android-phonegap,https://github.com/anismiles/websocket-android-phonegap,224,Java,2011-02-02T13:54:40Z,2024-03-31T14:11:57Z,2013-09-25T04:22:13Z,322,140,18
@@ -2953,13 +2837,11 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 7324594,zhuowei/RaspberryJuice,https://github.com/zhuowei/RaspberryJuice,793,Java,2012-12-26T07:46:37Z,2024-04-21T13:25:48Z,2024-03-03T13:24:19Z,319,145,28
 289070617,uber/RemoteShuffleService,https://github.com/uber/RemoteShuffleService,1542,Java,2020-08-20T17:41:23Z,2024-05-10T04:31:20Z,2023-09-29T12:15:57Z,319,98,31
 281313500,AnswerAIL/dingtalk-spring-boot-starter,https://github.com/AnswerAIL/dingtalk-spring-boot-starter,793,Java,2020-07-21T06:23:39Z,2024-05-10T07:41:00Z,2023-01-12T13:50:55Z,319,73,18
-126039046,brainhubeu/react-native-opencv-tutorial,https://github.com/brainhubeu/react-native-opencv-tutorial,1093,Java,2018-03-20T15:22:24Z,2024-05-10T12:27:37Z,2023-02-27T21:01:52Z,318,105,21
 31421294,sdaschner/jaxrs-analyzer,https://github.com/sdaschner/jaxrs-analyzer,1064,Java,2015-02-27T13:52:03Z,2024-03-31T14:15:48Z,2023-04-24T22:56:35Z,318,101,75
 28091299,sqlite-sync/SQLite-sync.com,https://github.com/sqlite-sync/SQLite-sync.com,147614,Java,2014-12-16T14:45:52Z,2024-05-06T07:50:48Z,2023-01-04T04:33:51Z,317,83,52
 122699999,imLibo/FilePicker,https://github.com/imLibo/FilePicker,15503,Java,2018-02-24T03:38:26Z,2024-05-13T12:00:41Z,2020-07-10T04:01:49Z,317,71,33
 5176685,jfrog/artifactory-client-java,https://github.com/jfrog/artifactory-client-java,1756,Java,2012-07-25T08:37:56Z,2024-04-28T14:39:14Z,2023-11-09T09:48:32Z,316,153,109
 112105039,shouryaj98/Hotel-Management-Project-Java,https://github.com/shouryaj98/Hotel-Management-Project-Java,15,Java,2017-11-26T18:07:21Z,2024-05-19T08:04:24Z,2023-10-30T07:23:38Z,315,404,41
-19383958,googleworkspace/java-samples,https://github.com/googleworkspace/java-samples,2097,Java,2014-05-02T18:11:16Z,2024-05-17T01:50:50Z,2024-05-13T19:59:00Z,315,391,115
 13353426,cinchapi/concourse,https://github.com/cinchapi/concourse,54784,Java,2013-10-05T22:12:00Z,2024-04-30T21:12:07Z,2024-04-30T21:22:45Z,315,236,42
 53297769,appium/appium-uiautomator2-server,https://github.com/appium/appium-uiautomator2-server,4667,Java,2016-03-07T05:18:34Z,2024-05-16T15:48:15Z,2024-05-16T15:48:13Z,315,222,63
 67018018,NiklasMerz/cordova-plugin-fingerprint-aio,https://github.com/NiklasMerz/cordova-plugin-fingerprint-aio,801,Java,2016-08-31T08:19:24Z,2024-04-22T10:39:16Z,2024-03-23T20:52:59Z,315,189,52
@@ -2973,7 +2855,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 63534520,castlemock/castlemock,https://github.com/castlemock/castlemock,18208,Java,2016-07-17T13:57:57Z,2024-05-10T17:15:04Z,2024-05-05T22:33:12Z,314,97,109
 23752325,paukiatwee/budgetapp,https://github.com/paukiatwee/budgetapp,7086,Java,2014-09-07T04:21:49Z,2024-04-25T13:17:35Z,2022-12-11T01:49:42Z,314,74,17
 202361279,LinuxForHealth/FHIR,https://github.com/LinuxForHealth/FHIR,909844,Java,2019-08-14T13:56:12Z,2024-05-01T00:05:15Z,2024-04-18T14:50:56Z,313,156,364
-360500135,thomasdarimont/keycloak-project-example,https://github.com/thomasdarimont/keycloak-project-example,26799,Java,2021-04-22T11:48:45Z,2024-05-10T19:48:38Z,2024-05-10T19:48:34Z,313,78,20
 5808829,jgritman/httpbuilder,https://github.com/jgritman/httpbuilder,1583,Java,2012-09-14T12:11:04Z,2024-04-11T13:20:43Z,2023-12-17T03:34:53Z,312,154,55
 91010840,joielechong/CountryCodePicker,https://github.com/joielechong/CountryCodePicker,10481,Java,2017-05-11T18:24:00Z,2024-03-31T14:19:27Z,2023-09-12T13:34:39Z,312,140,37
 236228216,devshawn/kafka-gitops,https://github.com/devshawn/kafka-gitops,315,Java,2020-01-25T20:51:15Z,2024-04-19T06:58:55Z,2023-04-30T13:27:40Z,312,70,44
@@ -2982,7 +2863,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 53168708,jMonkeyEngine/sdk,https://github.com/jMonkeyEngine/sdk,170856,Java,2016-03-04T22:09:49Z,2024-04-29T20:05:23Z,2024-05-19T13:14:00Z,311,100,123
 20214352,PeteGoo/tcSlackBuildNotifier,https://github.com/PeteGoo/tcSlackBuildNotifier,2106,Java,2014-05-27T09:26:41Z,2024-04-25T14:24:30Z,2023-03-22T21:24:31Z,311,81,70
 7914484,spring-projects/spring-ws,https://github.com/spring-projects/spring-ws,22274,Java,2013-01-30T12:50:51Z,2024-04-30T08:03:19Z,2024-04-11T11:12:23Z,310,300,161
-205291370,opennetworkinglab/ngsdn-tutorial,https://github.com/opennetworkinglab/ngsdn-tutorial,2227,Java,2019-08-30T02:43:43Z,2024-05-15T02:51:20Z,2022-07-17T12:01:11Z,310,185,39
 63132659,react-native-component/react-native-smart-barcode,https://github.com/react-native-component/react-native-smart-barcode,95,Java,2016-07-12T06:31:23Z,2024-05-01T01:27:57Z,2019-06-04T03:05:24Z,310,168,44
 51766472,jsibbold/zoomage,https://github.com/jsibbold/zoomage,6372,Java,2016-02-15T15:54:50Z,2024-04-28T20:50:20Z,2021-10-21T20:39:39Z,310,76,29
 15389347,aggregateknowledge/java-hll,https://github.com/aggregateknowledge/java-hll,427,Java,2013-12-23T06:38:25Z,2024-04-05T13:25:52Z,2018-02-07T08:55:20Z,310,70,16
@@ -3000,7 +2880,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 58145341,swri-robotics/bag-database,https://github.com/swri-robotics/bag-database,8020,Java,2016-05-05T16:34:14Z,2024-05-01T14:20:59Z,2024-04-30T21:47:48Z,305,70,34
 139468276,OSSpk/Library-Management-System-JAVA,https://github.com/OSSpk/Library-Management-System-JAVA,1020,Java,2018-07-02T16:35:51Z,2024-05-14T01:21:06Z,2024-02-06T04:57:44Z,304,218,19
 10963307,DroidPHP/DroidPHP,https://github.com/DroidPHP/DroidPHP,51770,Java,2013-06-26T08:59:13Z,2024-03-31T14:13:48Z,2015-08-31T03:14:11Z,304,166,55
-48294388,eventuate-examples/eventuate-examples-java-spring-todo-list,https://github.com/eventuate-examples/eventuate-examples-java-spring-todo-list,495,Java,2015-12-19T19:24:23Z,2024-04-25T08:48:12Z,2023-09-12T23:22:02Z,304,154,20
 57942251,FasterXML/jackson-dataformats-binary,https://github.com/FasterXML/jackson-dataformats-binary,10310,Java,2016-05-03T04:54:56Z,2024-04-26T03:50:08Z,2024-04-26T03:58:50Z,303,128,87
 14752173,TheHolyWaffle/TeamSpeak-3-Java-API,https://github.com/TheHolyWaffle/TeamSpeak-3-Java-API,87742,Java,2013-11-27T16:19:16Z,2024-04-26T19:13:32Z,2024-04-07T21:10:42Z,303,110,35
 434191869,Team-EnderIO/EnderIO,https://github.com/Team-EnderIO/EnderIO,10291,Java,2021-12-02T11:22:53Z,2024-05-20T11:57:52Z,2024-05-20T15:36:38Z,303,93,68
@@ -3017,13 +2896,11 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 202123832,evangui/multi-fitness-console,https://github.com/evangui/multi-fitness-console,7015,Java,2019-08-13T10:49:48Z,2024-05-10T09:16:57Z,2022-12-16T21:57:41Z,299,119,46
 36184563,darsh2/MultipleImageSelect,https://github.com/darsh2/MultipleImageSelect,13999,Java,2015-05-24T17:44:17Z,2023-09-29T11:37:02Z,2022-01-31T10:39:28Z,298,111,46
 52110673,microsoft/team-explorer-everywhere,https://github.com/microsoft/team-explorer-everywhere,53377,Java,2016-02-19T19:20:02Z,2024-04-12T01:19:15Z,2024-04-18T21:14:54Z,298,97,58
-178760528,confluentinc/kafka-tutorials,https://github.com/confluentinc/kafka-tutorials,22325,Java,2019-04-01T00:59:03Z,2024-04-25T12:26:32Z,2024-03-29T13:30:41Z,298,93,261
 282173852,alibaba/compileflow-idea-designer,https://github.com/alibaba/compileflow-idea-designer,166763,Java,2020-07-24T09:07:40Z,2024-04-23T08:01:31Z,2023-12-26T15:03:08Z,298,67,25
 11545371,OpenMods/OpenBlocks,https://github.com/OpenMods/OpenBlocks,14467,Java,2013-07-20T10:11:01Z,2024-04-16T15:53:08Z,2022-02-15T01:42:25Z,297,148,158
 20886134,pf4j/pf4j-spring,https://github.com/pf4j/pf4j-spring,119,Java,2014-06-16T13:38:58Z,2024-04-25T13:31:02Z,2023-02-02T18:40:49Z,297,99,31
 71025640,bohnman/squiggly,https://github.com/bohnman/squiggly,1214,Java,2016-10-16T02:27:08Z,2024-05-14T16:04:23Z,2024-01-04T11:46:44Z,297,80,37
 6092163,teiid/teiid,https://github.com/teiid/teiid,139110,Java,2012-10-05T15:21:04Z,2024-03-31T14:13:07Z,2023-01-04T20:21:29Z,296,228,38
-1999264,jjoe64/GraphView-Demos,https://github.com/jjoe64/GraphView-Demos,2466,Java,2011-07-05T08:09:30Z,2024-04-18T12:38:09Z,2018-04-26T09:20:39Z,296,203,22
 79976655,DevonCrawford/A-Pathfinding-Visualization,https://github.com/DevonCrawford/A-Pathfinding-Visualization,58,Java,2017-01-25T02:38:04Z,2024-05-10T04:47:04Z,2021-09-21T00:18:21Z,296,70,25
 18651796,ConnectSDK/Connect-SDK-Android,https://github.com/ConnectSDK/Connect-SDK-Android,1486,Java,2014-04-10T21:04:49Z,2024-05-20T12:22:49Z,2024-03-19T03:49:54Z,295,132,112
 1528861,usb4java/usb4java,https://github.com/usb4java/usb4java,7055,Java,2011-03-26T10:20:04Z,2024-04-11T06:25:27Z,2020-08-18T20:21:55Z,295,106,28
@@ -3064,7 +2941,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 56691718,tamir7/Contacts,https://github.com/tamir7/Contacts,169,Java,2016-04-20T14:00:40Z,2024-02-04T12:54:58Z,2017-06-22T04:02:28Z,287,74,26
 880546,FasterXML/aalto-xml,https://github.com/FasterXML/aalto-xml,4745,Java,2010-09-01T20:23:22Z,2024-05-02T16:43:27Z,2023-02-09T04:26:25Z,287,68,18
 50273514,imshyam/mintube,https://github.com/imshyam/mintube,782,Java,2016-01-24T05:23:09Z,2024-01-04T16:02:51Z,2019-04-21T02:48:30Z,287,67,20
-76456147,gluonhq/gluon-samples,https://github.com/gluonhq/gluon-samples,7197,Java,2016-12-14T12:06:29Z,2024-04-28T02:00:55Z,2023-12-29T17:24:06Z,286,164,23
 3410563,dadoonet/spring-elasticsearch,https://github.com/dadoonet/spring-elasticsearch,1174,Java,2012-02-10T20:02:15Z,2024-03-31T14:12:34Z,2023-11-08T04:48:28Z,286,115,18
 69919947,rubenlagus/TelegramApi,https://github.com/rubenlagus/TelegramApi,698,Java,2016-10-03T23:38:30Z,2024-05-04T19:24:21Z,2022-03-25T05:07:33Z,286,108,70
 291735249,nexmark/nexmark,https://github.com/nexmark/nexmark,135,Java,2020-08-31T14:18:49Z,2024-04-18T02:36:40Z,2024-01-31T01:50:17Z,286,96,26
@@ -3081,7 +2957,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 5196635,irccloud/android,https://github.com/irccloud/android,17780,Java,2012-07-26T19:58:15Z,2024-04-19T19:39:57Z,2024-02-22T14:27:52Z,284,105,33
 75380883,JarvanMo/ExoVideoView,https://github.com/JarvanMo/ExoVideoView,56154,Java,2016-12-02T09:25:15Z,2024-02-05T02:58:32Z,2021-02-25T13:15:19Z,284,73,25
 7720825,eidottermihi/rpicheck,https://github.com/eidottermihi/rpicheck,34304,Java,2013-01-20T19:42:14Z,2024-04-07T15:39:08Z,2023-05-08T15:16:15Z,284,66,39
-206875422,android/input-samples,https://github.com/android/input-samples,2609,Java,2019-09-06T21:17:44Z,2024-03-26T07:43:41Z,2023-11-15T21:47:06Z,283,262,44
 91683656,crnk-project/crnk-framework,https://github.com/crnk-project/crnk-framework,9415,Java,2017-05-18T11:06:31Z,2024-05-02T15:50:40Z,2023-10-19T19:21:14Z,283,151,242
 110522074,microsoft/vscode-java-test,https://github.com/microsoft/vscode-java-test,11042,Java,2017-11-13T08:40:43Z,2024-05-17T01:57:31Z,2024-05-17T01:57:29Z,283,123,82
 8828158,chrisbatt/AndroidFastImageProcessing,https://github.com/chrisbatt/AndroidFastImageProcessing,30833,Java,2013-03-17T01:22:52Z,2023-06-27T12:30:44Z,2017-03-23T08:56:24Z,283,118,23
@@ -3119,7 +2994,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 10401287,spring-projects/spring-data-couchbase,https://github.com/spring-projects/spring-data-couchbase,7171,Java,2013-05-31T08:53:23Z,2024-05-20T07:56:07Z,2024-05-17T10:06:32Z,273,187,79
 166662552,jaumard/sms_autofill,https://github.com/jaumard/sms_autofill,369,Java,2019-01-20T13:08:59Z,2024-04-28T07:27:05Z,2024-05-19T10:57:47Z,273,170,84
 266354600,HMS-Core/hms-flutter-plugin,https://github.com/HMS-Core/hms-flutter-plugin,30322,Java,2020-05-23T14:35:59Z,2024-04-24T02:30:44Z,2024-02-01T08:02:27Z,273,134,35
-40271574,GleasonK/android-webrtc-tutorial,https://github.com/GleasonK/android-webrtc-tutorial,3777,Java,2015-08-05T22:20:03Z,2024-02-21T01:26:21Z,2018-05-07T10:05:23Z,273,108,19
 93290292,CycloneDX/cyclonedx-maven-plugin,https://github.com/CycloneDX/cyclonedx-maven-plugin,1687,Java,2017-06-04T04:33:47Z,2024-05-17T16:46:10Z,2024-05-17T11:17:17Z,273,83,73
 19272315,samtools/htsjdk,https://github.com/samtools/htsjdk,114033,Java,2014-04-29T10:11:28Z,2024-05-01T13:07:22Z,2024-04-10T14:27:59Z,272,244,308
 5137620,dj3500/hightail,https://github.com/dj3500/hightail,11134,Java,2012-07-21T23:21:42Z,2024-05-09T22:07:09Z,2021-05-15T05:17:13Z,272,145,48
@@ -3174,7 +3048,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 44737383,horrorho/InflatableDonkey,https://github.com/horrorho/InflatableDonkey,2247,Java,2015-10-22T10:06:47Z,2024-05-04T18:36:18Z,2022-11-16T07:53:48Z,261,91,51
 15008570,copper-engine/copper-engine,https://github.com/copper-engine/copper-engine,123130,Java,2013-12-07T16:15:18Z,2024-04-29T22:57:33Z,2024-04-21T10:01:30Z,261,70,30
 74387321,confluentinc/kafka-connect-storage-cloud,https://github.com/confluentinc/kafka-connect-storage-cloud,3103,Java,2016-11-21T17:18:28Z,2024-05-09T11:21:48Z,2024-05-21T03:19:29Z,260,322,191
-7593542,CamelCookbook/camel-cookbook-examples,https://github.com/CamelCookbook/camel-cookbook-examples,6908,Java,2013-01-13T21:06:57Z,2024-03-28T19:05:58Z,2022-02-21T12:19:53Z,260,187,62
 42124382,cantaloupe-project/cantaloupe,https://github.com/cantaloupe-project/cantaloupe,51502,Java,2015-09-08T16:21:12Z,2024-03-31T14:16:40Z,2024-02-27T04:28:19Z,260,103,95
 202115368,didi/ES-Fastloader,https://github.com/didi/ES-Fastloader,26020,Java,2019-08-13T09:55:55Z,2024-04-17T07:16:36Z,2022-11-16T05:28:55Z,260,91,20
 31716516,trung/InMemoryJavaCompiler,https://github.com/trung/InMemoryJavaCompiler,46,Java,2015-03-05T14:02:26Z,2024-05-03T15:10:12Z,2021-05-28T12:00:51Z,260,85,25
@@ -3222,7 +3095,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 1720134,geosolutions-it/geoserver-manager,https://github.com/geosolutions-it/geoserver-manager,1914,Java,2011-05-08T21:57:00Z,2024-04-30T08:46:51Z,2024-01-31T12:48:20Z,248,190,68
 9884436,3pillarlabs/socialauth,https://github.com/3pillarlabs/socialauth,11868,Java,2013-05-06T10:18:56Z,2024-03-31T14:13:40Z,2023-09-27T11:13:02Z,248,141,35
 51905729,SeleniumHQ/htmlunit-driver,https://github.com/SeleniumHQ/htmlunit-driver,6537,Java,2016-02-17T08:07:17Z,2024-05-12T11:22:47Z,2024-05-16T06:02:27Z,248,83,19
-140592825,anitaa1990/Biometric-Auth-Sample,https://github.com/anitaa1990/Biometric-Auth-Sample,197,Java,2018-07-11T15:11:48Z,2024-04-16T13:27:21Z,2019-08-11T10:52:02Z,247,143,16
 24848102,TheCoder4eu/BootsFaces-OSP,https://github.com/TheCoder4eu/BootsFaces-OSP,11259,Java,2014-10-06T14:01:09Z,2024-03-31T14:15:16Z,2024-01-12T23:51:44Z,247,101,100
 212429244,MobilityData/gtfs-validator,https://github.com/MobilityData/gtfs-validator,55670,Java,2019-10-02T19:55:08Z,2024-04-27T03:35:50Z,2024-04-12T00:06:57Z,247,98,129
 1527173,jkrasnay/sqlbuilder,https://github.com/jkrasnay/sqlbuilder,291,Java,2011-03-25T20:38:03Z,2024-03-31T14:12:02Z,2023-09-06T12:46:20Z,247,73,17
@@ -3269,7 +3141,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 41505622,clockbyte/admobadapter,https://github.com/clockbyte/admobadapter,2483,Java,2015-08-27T19:01:39Z,2024-03-09T19:48:30Z,2021-10-11T23:37:48Z,237,79,23
 19404995,jaydeepw/audio-wife,https://github.com/jaydeepw/audio-wife,1413,Java,2014-05-03T14:45:52Z,2024-04-28T00:58:50Z,2017-04-17T00:38:02Z,237,78,23
 73037331,easybest/spring-data-mybatis,https://github.com/easybest/spring-data-mybatis,2876,Java,2016-11-07T03:01:48Z,2024-03-31T14:18:36Z,2023-12-24T08:18:11Z,237,73,29
-175368903,aliyun/tablestore-examples,https://github.com/aliyun/tablestore-examples,2886,Java,2019-03-13T07:29:58Z,2024-03-31T14:22:14Z,2022-11-16T12:20:41Z,236,108,26
 15192968,Red-Folder/bgs-core,https://github.com/Red-Folder/bgs-core,31,Java,2013-12-14T21:13:12Z,2024-02-17T14:05:18Z,2019-11-13T11:53:58Z,236,105,31
 34896300,openstf/STFService.apk,https://github.com/openstf/STFService.apk,40205,Java,2015-05-01T09:15:45Z,2024-05-09T18:41:01Z,2020-07-13T20:09:55Z,235,204,16
 5320077,julianhyde/optiq,https://github.com/julianhyde/optiq,20430,Java,2012-08-06T21:43:16Z,2024-04-07T15:19:53Z,2021-01-20T23:12:24Z,235,91,88
@@ -3332,7 +3203,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 13383431,sarahtattersall/PIPE,https://github.com/sarahtattersall/PIPE,31489,Java,2013-10-07T12:40:45Z,2024-04-18T08:55:49Z,2022-06-28T15:04:05Z,225,73,28
 14339501,googleads/googleads-java-lib,https://github.com/googleads/googleads-java-lib,149402,Java,2013-11-12T17:22:37Z,2024-03-31T14:14:14Z,2024-05-01T16:41:50Z,224,358,30
 206982975,swagger-api/swagger-petstore,https://github.com/swagger-api/swagger-petstore,4996,Java,2019-09-07T14:54:31Z,2024-05-19T14:25:09Z,2024-04-10T18:48:17Z,224,312,57
-76937619,flowable/flowable-examples,https://github.com/flowable/flowable-examples,3385,Java,2016-12-20T08:21:56Z,2024-05-06T13:09:10Z,2023-03-17T06:37:49Z,224,231,42
 153155267,smallrye/smallrye-reactive-messaging,https://github.com/smallrye/smallrye-reactive-messaging,52175,Java,2018-10-15T17:36:05Z,2024-05-02T20:18:24Z,2024-05-02T20:18:20Z,224,170,83
 75405804,abhn/marvel,https://github.com/abhn/marvel,16500,Java,2016-12-02T15:09:05Z,2024-05-02T12:48:58Z,2021-10-19T22:01:05Z,224,134,16
 34725942,jenkinsci/ansible-plugin,https://github.com/jenkinsci/ansible-plugin,504,Java,2015-04-28T11:12:10Z,2024-04-28T12:28:13Z,2024-04-23T04:10:41Z,223,116,18
@@ -3417,7 +3287,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 72019648,eclipse/microprofile-config,https://github.com/eclipse/microprofile-config,1235,Java,2016-10-26T15:55:45Z,2024-03-31T14:18:32Z,2024-01-16T14:51:30Z,204,116,52
 2543682,fluent/fluent-logger-java,https://github.com/fluent/fluent-logger-java,629,Java,2011-10-09T17:56:44Z,2024-03-31T14:12:20Z,2023-07-20T07:28:46Z,204,92,34
 472756,dwdyer/watchmaker,https://github.com/dwdyer/watchmaker,45693,Java,2010-01-14T23:22:18Z,2024-03-31T14:11:40Z,2023-10-20T21:25:35Z,204,79,22
-28894734,Adobe-Consulting-Services/acs-aem-samples,https://github.com/Adobe-Consulting-Services/acs-aem-samples,557,Java,2015-01-07T02:40:07Z,2024-03-28T00:46:59Z,2022-08-11T15:57:31Z,203,194,35
 206445,apache/xmlgraphics-batik,https://github.com/apache/xmlgraphics-batik,170893,Java,2009-05-21T02:32:14Z,2024-05-10T03:44:33Z,2024-04-23T10:13:33Z,203,138,17
 152455526,hashgraph/hedera-sdk-java,https://github.com/hashgraph/hedera-sdk-java,75930,Java,2018-10-10T16:32:15Z,2024-04-30T10:39:42Z,2024-05-02T10:18:33Z,203,111,67
 23099185,swagger-api/validator-badge,https://github.com/swagger-api/validator-badge,395,Java,2014-08-19T06:18:38Z,2024-05-14T09:30:29Z,2024-05-14T09:30:26Z,203,85,51
@@ -3468,7 +3337,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 165758293,awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore,https://github.com/awslabs/aws-glue-data-catalog-client-for-apache-hive-metastore,377,Java,2019-01-15T00:43:02Z,2024-05-13T17:55:09Z,2024-05-10T20:39:08Z,192,115,43
 6348423,erizet/SignalA,https://github.com/erizet/SignalA,14805,Java,2012-10-23T07:26:18Z,2023-12-29T16:11:29Z,2017-04-18T07:24:53Z,192,90,29
 2919224,vx/connectbot,https://github.com/vx/connectbot,6516,Java,2011-12-05T19:20:09Z,2023-11-30T19:23:55Z,2019-09-30T11:30:16Z,192,65,96
-20530014,googleads/googleads-shopping-samples,https://github.com/googleads/googleads-shopping-samples,791,Java,2014-06-05T15:16:46Z,2024-04-25T19:26:06Z,2024-03-13T13:48:27Z,191,270,30
 176214714,NervJS/taro-native-shell,https://github.com/NervJS/taro-native-shell,5818,Java,2019-03-18T06:04:31Z,2024-05-21T09:03:45Z,2024-03-18T04:34:47Z,191,95,16
 4150270,freshplanet/ANE-In-App-Purchase,https://github.com/freshplanet/ANE-In-App-Purchase,30160,Java,2012-04-26T17:37:05Z,2024-04-23T08:38:30Z,2023-11-17T13:36:49Z,191,87,28
 94617244,priteshrnandgaonkar/react-native-call-detection,https://github.com/priteshrnandgaonkar/react-native-call-detection,182233,Java,2017-06-17T10:40:07Z,2024-05-17T02:36:17Z,2023-09-13T21:09:25Z,190,109,40
@@ -3476,7 +3344,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 3615238,DenizenScript/Denizen,https://github.com/DenizenScript/Denizen,47800,Java,2012-03-04T01:33:07Z,2024-04-23T18:47:12Z,2024-04-29T15:51:54Z,190,100,16
 71131522,varunon9/Remote-Control-PC,https://github.com/varunon9/Remote-Control-PC,69387,Java,2016-10-17T11:34:40Z,2024-05-14T04:35:43Z,2020-10-01T11:47:29Z,190,98,20
 32919066,FAForever/downlords-faf-client,https://github.com/FAForever/downlords-faf-client,35136,Java,2015-03-26T09:47:32Z,2024-05-19T19:36:36Z,2024-05-19T19:36:33Z,189,117,100
-36962272,saki4510t/ScreenRecordingSample,https://github.com/saki4510t/ScreenRecordingSample,150,Java,2015-06-06T00:54:34Z,2024-04-26T06:45:26Z,2021-12-22T15:58:00Z,189,89,19
 45028699,FirelyTeam/fhirstarters,https://github.com/FirelyTeam/fhirstarters,20407,Java,2015-10-27T09:01:03Z,2024-05-13T06:13:43Z,2024-04-10T13:35:07Z,188,260,18
 124586660,eclipse-ee4j/eclipselink,https://github.com/eclipse-ee4j/eclipselink,323118,Java,2018-03-09T19:53:46Z,2024-04-25T08:48:02Z,2024-04-29T13:21:34Z,188,153,235
 6560370,cucumber/cucumber-eclipse,https://github.com/cucumber/cucumber-eclipse,100024,Java,2012-11-06T10:29:33Z,2024-03-31T14:13:10Z,2024-04-15T15:19:47Z,188,147,49
@@ -3501,7 +3368,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 38995301,Fleker/CumulusTV,https://github.com/Fleker/CumulusTV,227897,Java,2015-07-13T06:34:18Z,2024-04-10T07:42:32Z,2018-08-06T02:17:20Z,185,71,64
 5364100,Slowpoke101/FTBLaunch,https://github.com/Slowpoke101/FTBLaunch,9164,Java,2012-08-10T02:32:27Z,2024-02-25T06:04:26Z,2021-12-11T20:14:03Z,184,142,17
 148440998,espressif/esp-idf-provisioning-android,https://github.com/espressif/esp-idf-provisioning-android,4901,Java,2018-09-12T07:38:15Z,2024-04-16T10:00:04Z,2024-04-12T11:18:16Z,184,126,32
-168269412,googlemaps-samples/android-places-demos,https://github.com/googlemaps-samples/android-places-demos,1391,Java,2019-01-30T02:59:53Z,2024-05-20T15:38:42Z,2024-05-20T01:50:38Z,184,113,23
 2737689,mapfish/mapfish-print,https://github.com/mapfish/mapfish-print,253649,Java,2011-11-08T22:24:04Z,2024-05-01T16:28:59Z,2024-05-02T15:00:39Z,183,414,189
 59996616,Dreamroute/locker,https://github.com/Dreamroute/locker,231,Java,2016-05-30T09:12:25Z,2024-04-28T09:43:09Z,2024-04-28T09:43:05Z,183,100,17
 18154401,Netflix/dyno,https://github.com/Netflix/dyno,7322,Java,2014-03-26T21:23:42Z,2024-03-31T14:14:40Z,2023-04-25T02:13:31Z,183,94,54
@@ -3517,8 +3383,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 23258073,Korilakkuma/CanvasView,https://github.com/Korilakkuma/CanvasView,162,Java,2014-08-23T14:38:21Z,2024-01-12T21:47:45Z,2018-12-22T16:22:52Z,181,72,23
 17310686,apache/knox,https://github.com/apache/knox,23238,Java,2014-03-01T08:00:06Z,2024-04-30T15:05:36Z,2024-05-01T00:08:04Z,180,244,22
 120760965,ZaraclaJ/audio_recorder,https://github.com/ZaraclaJ/audio_recorder,17165,Java,2018-02-08T12:50:52Z,2024-04-24T07:50:52Z,2022-04-25T05:38:18Z,180,128,36
-190227265,benwilcock/spring-cloud-gateway-demo,https://github.com/benwilcock/spring-cloud-gateway-demo,2905,Java,2019-06-04T15:21:34Z,2024-05-09T07:03:59Z,2022-12-17T20:03:35Z,180,122,32
-248442932,LinkedBear/spring-framework-learning-code,https://github.com/LinkedBear/spring-framework-learning-code,242,Java,2020-03-19T07:56:31Z,2024-04-21T10:23:33Z,2022-12-16T15:50:03Z,180,113,18
 2800916,hmsonline/storm-cassandra,https://github.com/hmsonline/storm-cassandra,506,Java,2011-11-18T05:56:54Z,2023-05-15T15:56:01Z,2023-12-17T15:43:30Z,180,90,18
 484832,ge0rg/MemorizingTrustManager,https://github.com/ge0rg/MemorizingTrustManager,533,Java,2010-01-23T06:17:11Z,2024-03-07T09:14:37Z,2023-09-06T21:30:11Z,180,89,20
 69926042,amzn/fire-app-builder,https://github.com/amzn/fire-app-builder,14868,Java,2016-10-04T01:44:03Z,2024-03-31T14:18:26Z,2023-08-31T11:01:58Z,179,257,51
@@ -3608,14 +3472,12 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 184519626,QuadFlask/react-native-naver-map,https://github.com/QuadFlask/react-native-naver-map,4298,Java,2019-05-02T04:15:29Z,2024-05-13T01:04:18Z,2024-05-05T03:25:16Z,159,141,90
 62778268,jcustenborder/kafka-connect-spooldir,https://github.com/jcustenborder/kafka-connect-spooldir,487,Java,2016-07-07T05:44:56Z,2024-04-03T14:24:14Z,2024-01-08T06:03:28Z,159,123,44
 1548514,jenkinsci/stapler,https://github.com/jenkinsci/stapler,46075,Java,2011-03-30T22:39:45Z,2024-04-30T12:26:18Z,2024-04-29T23:21:50Z,159,100,39
-427247481,open-telemetry/opentelemetry-java-examples,https://github.com/open-telemetry/opentelemetry-java-examples,1224,Java,2021-11-12T05:50:26Z,2024-05-01T10:12:37Z,2024-04-27T10:29:51Z,159,97,16
 35698342,mojohaus/exec-maven-plugin,https://github.com/mojohaus/exec-maven-plugin,3250,Java,2015-05-15T21:44:45Z,2024-05-01T14:11:43Z,2024-05-01T14:11:39Z,159,91,62
 39236124,swagger-api/swagger-inflector,https://github.com/swagger-api/swagger-inflector,41353,Java,2015-07-17T05:14:14Z,2024-03-31T14:16:27Z,2024-04-08T07:01:04Z,159,85,40
 52803867,spring-cloud/spring-cloud-deployer,https://github.com/spring-cloud/spring-cloud-deployer,116338,Java,2016-02-29T16:00:00Z,2024-05-08T15:24:12Z,2024-05-13T15:42:14Z,159,85,36
 31298539,mbosecke/template-benchmark,https://github.com/mbosecke/template-benchmark,260,Java,2015-02-25T05:20:35Z,2024-04-23T03:51:15Z,2024-05-06T07:50:57Z,159,81,19
 36284548,korre/android-tv-epg,https://github.com/korre/android-tv-epg,104,Java,2015-05-26T09:07:17Z,2024-05-06T09:39:34Z,2020-04-21T10:47:25Z,159,77,16
 241962363,nosqlbench/nosqlbench,https://github.com/nosqlbench/nosqlbench,68147,Java,2020-02-20T18:42:42Z,2024-05-02T05:49:56Z,2024-05-02T05:49:52Z,159,68,275
-87452833,androidthings/sample-bluetooth-audio,https://github.com/androidthings/sample-bluetooth-audio,3133,Java,2017-04-06T16:45:06Z,2023-12-19T02:52:57Z,2021-05-26T17:55:15Z,159,64,16
 84917898,johrstrom/jmeter-prometheus-plugin,https://github.com/johrstrom/jmeter-prometheus-plugin,1595,Java,2017-03-14T07:18:10Z,2024-04-24T09:08:14Z,2023-08-03T16:28:46Z,158,109,32
 59326989,cloudera-labs/envelope,https://github.com/cloudera-labs/envelope,2230,Java,2016-05-20T21:17:36Z,2024-04-02T17:42:38Z,2022-10-04T23:49:17Z,158,90,26
 82739940,LMBishop/Quests,https://github.com/LMBishop/Quests,3932,Java,2017-02-21T23:59:37Z,2024-04-30T16:38:27Z,2024-05-03T19:14:00Z,158,78,117
@@ -3650,7 +3512,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 154230371,aws/aws-secretsmanager-jdbc,https://github.com/aws/aws-secretsmanager-jdbc,129,Java,2018-10-22T23:23:36Z,2024-05-09T21:15:04Z,2024-03-07T00:33:09Z,153,77,24
 18665039,vitalidze/traccar-web,https://github.com/vitalidze/traccar-web,33330,Java,2014-04-11T06:44:36Z,2024-03-29T12:59:04Z,2018-09-06T05:23:49Z,152,145,374
 84487370,BitwiseInc/Hydrograph,https://github.com/BitwiseInc/Hydrograph,35156,Java,2017-03-09T20:49:55Z,2024-04-02T17:43:06Z,2022-12-05T23:58:12Z,152,109,41
-193429820,mraible/jhipster6-demo,https://github.com/mraible/jhipster6-demo,8841,Java,2019-06-24T03:48:45Z,2024-04-21T15:57:49Z,2023-12-18T03:15:46Z,152,93,31
 43707061,ResearchStack/ResearchStack,https://github.com/ResearchStack/ResearchStack,18719,Java,2015-10-05T19:04:26Z,2023-12-21T06:21:51Z,2024-03-29T18:35:21Z,152,81,82
 16433054,viritin/viritin,https://github.com/viritin/viritin,1708,Java,2014-02-01T11:46:49Z,2024-04-01T06:19:34Z,2024-02-22T08:42:58Z,152,77,77
 84713071,chhsiao90/nitmproxy,https://github.com/chhsiao90/nitmproxy,319,Java,2017-03-12T09:02:49Z,2024-04-28T09:25:08Z,2023-03-10T18:57:32Z,152,67,17
@@ -3680,7 +3541,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 159297753,Shadows-of-Fire/Apotheosis,https://github.com/Shadows-of-Fire/Apotheosis,11156,Java,2018-11-27T08:00:00Z,2024-05-20T02:44:19Z,2024-05-16T07:23:56Z,146,114,31
 40980534,mycontroller-org/mycontroller-v1-legacy,https://github.com/mycontroller-org/mycontroller-v1-legacy,24240,Java,2015-08-18T15:37:16Z,2024-04-02T17:42:14Z,2022-08-04T09:17:00Z,146,90,63
 179494421,smallrye/smallrye-graphql,https://github.com/smallrye/smallrye-graphql,17184,Java,2019-04-04T12:37:13Z,2024-04-29T12:57:53Z,2024-04-29T19:45:35Z,146,85,134
-76666139,heremaps/here-android-sdk-examples,https://github.com/heremaps/here-android-sdk-examples,2784,Java,2016-12-16T15:55:38Z,2024-04-22T15:27:52Z,2022-11-28T10:25:49Z,145,191,65
 224111373,thon-ju/bluetooth_print,https://github.com/thon-ju/bluetooth_print,2628,Java,2019-11-26T05:40:11Z,2024-04-24T21:00:01Z,2024-04-30T14:50:07Z,145,168,140
 134160731,smallrye/smallrye-config,https://github.com/smallrye/smallrye-config,8320,Java,2018-05-20T15:07:04Z,2024-04-24T17:59:52Z,2024-04-24T18:02:01Z,145,113,40
 225818900,apache/camel-kafka-connector,https://github.com/apache/camel-kafka-connector,52981,Java,2019-12-04T08:39:07Z,2024-04-29T16:14:28Z,2024-04-29T16:15:02Z,145,96,131
@@ -3695,10 +3555,8 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 30761550,spotify/folsom,https://github.com/spotify/folsom,1171,Java,2015-02-13T15:12:37Z,2024-04-10T22:12:04Z,2024-03-28T10:37:39Z,144,69,16
 16162184,wso2/carbon-kernel,https://github.com/wso2/carbon-kernel,83803,Java,2014-01-23T04:23:41Z,2024-03-31T14:14:27Z,2024-05-09T04:48:19Z,143,644,155
 2849714,aspose-cells/Aspose.Cells-for-Java,https://github.com/aspose-cells/Aspose.Cells-for-Java,187663,Java,2011-11-25T13:16:33Z,2024-04-22T07:04:51Z,2024-04-17T03:30:54Z,143,99,19
-186942614,YugabyteDB-Samples/yugastore-java,https://github.com/YugabyteDB-Samples/yugastore-java,24153,Java,2019-05-16T03:15:13Z,2024-04-23T12:57:26Z,2023-07-19T09:20:31Z,143,65,24
 21672328,nekopanda/logbook,https://github.com/nekopanda/logbook,19024,Java,2014-07-09T23:26:05Z,2024-04-10T04:07:19Z,2024-03-02T08:50:08Z,143,64,16
 165549674,hapifhir/org.hl7.fhir.core,https://github.com/hapifhir/org.hl7.fhir.core,148505,Java,2019-01-13T20:14:02Z,2024-04-29T08:34:08Z,2024-05-01T19:57:14Z,142,143,39
-215840816,temporalio/samples-java,https://github.com/temporalio/samples-java,1542,Java,2019-10-17T16:45:18Z,2024-05-03T16:13:02Z,2024-05-03T16:12:59Z,142,131,30
 6973819,apps4av/avare,https://github.com/apps4av/avare,17101,Java,2012-12-02T23:34:31Z,2024-04-13T20:07:44Z,2023-11-18T20:18:22Z,142,118,139
 21737383,jinput/jinput,https://github.com/jinput/jinput,2225,Java,2014-07-11T13:39:39Z,2024-05-14T02:53:29Z,2024-05-17T03:12:47Z,142,75,39
 101572260,adoptium/installer,https://github.com/adoptium/installer,2221,Java,2017-08-27T18:32:38Z,2024-05-10T12:48:58Z,2024-05-10T12:48:54Z,142,71,94
@@ -3745,7 +3603,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 64340716,katharsis-project/katharsis-framework,https://github.com/katharsis-project/katharsis-framework,5026,Java,2016-07-27T20:46:27Z,2024-04-03T10:11:49Z,2023-12-05T19:36:36Z,133,65,76
 19739444,perwendel/spark-template-engines,https://github.com/perwendel/spark-template-engines,224,Java,2014-05-13T13:09:48Z,2024-04-02T17:41:43Z,2023-08-23T06:59:24Z,132,103,47
 39764417,uber/tchannel-java,https://github.com/uber/tchannel-java,1314,Java,2015-07-27T08:49:33Z,2024-04-28T09:07:00Z,2023-03-19T22:47:19Z,132,67,29
-14517858,BrightcoveOS/android-player-samples,https://github.com/BrightcoveOS/android-player-samples,16655,Java,2013-11-19T07:56:35Z,2024-05-14T15:20:54Z,2024-05-14T15:20:49Z,131,131,17
 70661345,shimohq/react-native-prompt-android,https://github.com/shimohq/react-native-prompt-android,184,Java,2016-10-12T04:04:45Z,2024-03-15T00:48:27Z,2021-01-19T03:06:13Z,131,75,32
 61179178,LynxITDigital/react-native-contacts-wrapper,https://github.com/LynxITDigital/react-native-contacts-wrapper,26888,Java,2016-06-15T05:11:22Z,2023-07-27T15:33:03Z,2020-04-21T09:51:49Z,130,135,43
 206364,apache/openjpa,https://github.com/apache/openjpa,39254,Java,2009-05-21T01:13:25Z,2024-05-02T01:41:41Z,2024-02-15T08:56:23Z,130,129,19
@@ -3771,7 +3628,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 146190739,MicrosoftDocs/pipelines-java,https://github.com/MicrosoftDocs/pipelines-java,120,Java,2018-08-26T15:05:22Z,2024-05-17T15:56:27Z,2024-05-15T16:21:55Z,125,9620,23
 27504653,OHDSI/WebAPI,https://github.com/OHDSI/WebAPI,29342,Java,2014-12-03T19:49:51Z,2024-04-23T06:10:26Z,2024-05-09T09:45:25Z,125,155,143
 16767223,nishio-dens/bitbucket-pullrequest-builder-plugin,https://github.com/nishio-dens/bitbucket-pullrequest-builder-plugin,338,Java,2014-02-12T12:59:37Z,2023-04-14T07:05:29Z,2023-06-15T11:23:27Z,125,146,35
-105259815,safaricom/LNMOnlineAndroidSample,https://github.com/safaricom/LNMOnlineAndroidSample,1537,Java,2017-09-29T10:20:50Z,2024-04-17T17:46:55Z,2023-12-28T21:57:17Z,125,128,16
 27546391,vert-x3/vertx-redis-client,https://github.com/vert-x3/vertx-redis-client,2720,Java,2014-12-04T15:22:16Z,2024-03-31T14:15:30Z,2024-04-05T12:58:24Z,125,115,42
 27883327,confluentinc/rest-utils,https://github.com/confluentinc/rest-utils,14301,Java,2014-12-11T17:33:16Z,2024-03-31T14:15:32Z,2024-05-10T20:42:45Z,124,210,24
 345914473,tronprotocol/trident,https://github.com/tronprotocol/trident,1235,Java,2021-03-09T07:07:27Z,2024-04-19T06:23:10Z,2024-04-26T06:39:52Z,124,100,17
@@ -3846,7 +3702,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 129769092,eclipse-sw360/sw360,https://github.com/eclipse-sw360/sw360,17702,Java,2018-04-16T15:54:19Z,2024-04-30T09:50:47Z,2024-04-30T10:40:45Z,112,95,429
 64378453,ekreutz/react-native-barcode-scanner-google,https://github.com/ekreutz/react-native-barcode-scanner-google,114,Java,2016-07-28T08:36:16Z,2024-04-26T11:41:42Z,2023-01-10T16:12:42Z,112,68,22
 1175683,jenkinsci/s3-plugin,https://github.com/jenkinsci/s3-plugin,10587,Java,2010-12-16T23:28:08Z,2023-11-23T14:09:47Z,2024-04-08T23:37:39Z,111,191,21
-75368166,powermock/powermock-examples-maven,https://github.com/powermock/powermock-examples-maven,176,Java,2016-12-02T06:37:15Z,2024-04-08T13:39:29Z,2022-07-08T18:48:58Z,111,115,30
 372769600,648540858/wvp-pro-assist,https://github.com/648540858/wvp-pro-assist,63336,Java,2021-06-01T09:14:37Z,2024-04-23T01:20:07Z,2024-03-15T02:02:44Z,111,90,18
 91747262,hyperledger/web3j-maven-plugin,https://github.com/hyperledger/web3j-maven-plugin,292,Java,2017-05-18T23:49:21Z,2024-05-10T10:15:09Z,2024-05-09T10:03:23Z,111,80,30
 1158315,apache/stanbol,https://github.com/apache/stanbol,83326,Java,2010-12-11T08:00:07Z,2024-03-31T14:11:53Z,2024-02-29T05:33:10Z,111,77,27
@@ -3891,7 +3746,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 12939039,docusign/docusign-esign-java-client,https://github.com/docusign/docusign-esign-java-client,50734,Java,2013-09-19T02:11:36Z,2024-05-12T04:04:14Z,2024-05-03T15:15:14Z,100,96,30
 152603148,melihyarikkaya/react-native-serialport,https://github.com/melihyarikkaya/react-native-serialport,308,Java,2018-10-11T14:15:22Z,2024-04-18T11:48:11Z,2023-02-06T06:43:20Z,100,94,36
 319385382,WiIIiam278/HuskHomes,https://github.com/WiIIiam278/HuskHomes,17157,Java,2020-12-07T16:54:50Z,2024-05-13T20:33:18Z,2024-05-13T20:33:21Z,100,74,22
-155254807,saucelabs-training/demo-java,https://github.com/saucelabs-training/demo-java,21560,Java,2018-10-29T17:41:25Z,2024-05-13T10:04:27Z,2024-05-13T10:05:29Z,99,117,42
 297143392,paulevsGitch/BetterEnd,https://github.com/paulevsGitch/BetterEnd,200111,Java,2020-09-20T18:57:14Z,2024-04-02T08:50:02Z,2023-07-02T17:41:04Z,99,76,40
 35698983,mojohaus/jaxb2-maven-plugin,https://github.com/mojohaus/jaxb2-maven-plugin,8726,Java,2015-05-15T22:02:53Z,2024-05-12T04:05:28Z,2024-05-21T06:41:30Z,99,72,81
 27207708,playframework/play-ebean,https://github.com/playframework/play-ebean,721,Java,2014-11-27T03:43:03Z,2024-04-29T06:56:57Z,2024-04-29T06:56:53Z,99,70,18
@@ -3910,7 +3764,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 11640519,DataDog/jmxfetch,https://github.com/DataDog/jmxfetch,32715,Java,2013-07-24T17:12:51Z,2024-05-12T04:03:31Z,2024-05-08T15:41:36Z,96,67,33
 86828501,pravega/flink-connectors,https://github.com/pravega/flink-connectors,1928,Java,2017-03-31T14:33:11Z,2024-03-31T14:19:17Z,2024-03-04T06:54:16Z,96,64,23
 412358541,vijaygupta18/Hacktoberfest-2022,https://github.com/vijaygupta18/Hacktoberfest-2022,277861,Java,2021-10-01T06:44:22Z,2024-04-24T17:28:29Z,2022-10-30T07:32:04Z,95,338,18
-59769548,redhat-developer/redhat-sso-quickstarts,https://github.com/redhat-developer/redhat-sso-quickstarts,1977,Java,2016-05-26T17:24:16Z,2024-04-10T08:04:03Z,2023-04-17T06:18:33Z,95,118,18
 35204049,apache/incubator-atlas,https://github.com/apache/incubator-atlas,34352,Java,2015-05-07T07:00:05Z,2024-04-07T03:25:31Z,2023-04-18T22:44:05Z,95,106,31
 203461509,googleapis/java-storage,https://github.com/googleapis/java-storage,10195,Java,2019-08-20T22:07:48Z,2024-05-15T09:16:41Z,2024-05-15T19:53:12Z,95,69,36
 105314178,Azure/azure-libraries-for-java,https://github.com/Azure/azure-libraries-for-java,271657,Java,2017-09-29T20:27:25Z,2024-03-31T14:20:01Z,2023-10-07T04:51:17Z,94,96,150
@@ -3919,7 +3772,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 6315994,bigdata-mx/factura-electronica,https://github.com/bigdata-mx/factura-electronica,1529,Java,2012-10-21T02:13:24Z,2024-04-25T06:28:36Z,2018-03-15T05:23:24Z,93,107,85
 123228861,Azure/azure-sdk-for-android,https://github.com/Azure/azure-sdk-for-android,26391,Java,2018-02-28T04:25:35Z,2024-05-02T20:39:09Z,2024-05-02T20:39:06Z,93,90,27
 7836898,lenis0012/LoginSecurity,https://github.com/lenis0012/LoginSecurity,1850,Java,2013-01-26T11:44:08Z,2024-04-16T05:43:36Z,2024-05-18T13:36:04Z,93,85,162
-472172179,dji-sdk/DJI-Cloud-API-Demo,https://github.com/dji-sdk/DJI-Cloud-API-Demo,2240,Java,2022-03-21T03:22:14Z,2024-04-24T09:08:48Z,2024-04-07T12:36:52Z,93,80,36
 69514197,calatonsystems/wc-api-java,https://github.com/calatonsystems/wc-api-java,61,Java,2016-09-29T00:14:32Z,2024-03-31T14:18:26Z,2023-02-21T06:57:04Z,93,75,30
 28554650,StephenBlackWasAlreadyTaken/NightWatch,https://github.com/StephenBlackWasAlreadyTaken/NightWatch,1410,Java,2014-12-28T05:33:55Z,2023-05-19T08:16:27Z,2018-07-31T11:52:12Z,92,167,71
 388880322,opensearch-project/opensearch-java,https://github.com/opensearch-project/opensearch-java,26872,Java,2021-07-23T17:39:35Z,2024-04-25T09:15:49Z,2024-04-30T03:40:06Z,92,155,108
@@ -3943,13 +3795,11 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 23227167,nchutchind/cordova-plugin-app-launcher,https://github.com/nchutchind/cordova-plugin-app-launcher,36,Java,2014-08-22T14:00:55Z,2024-03-31T14:15:08Z,2023-06-12T17:31:00Z,88,92,30
 94013538,snyk-labs/java-goof,https://github.com/snyk-labs/java-goof,74925,Java,2017-06-11T15:26:51Z,2024-04-19T19:44:29Z,2024-04-26T14:58:31Z,87,1143,172
 58620409,sjhoeksma/cordova-plugin-keychain-touch-id,https://github.com/sjhoeksma/cordova-plugin-keychain-touch-id,385,Java,2016-05-12T07:55:05Z,2024-04-17T20:06:13Z,2024-02-16T09:07:42Z,87,159,57
-45400892,razorpay/razorpay-android-sample-app,https://github.com/razorpay/razorpay-android-sample-app,5259,Java,2015-11-02T14:52:41Z,2024-03-23T05:09:32Z,2023-11-10T17:32:10Z,87,91,38
 30519618,embulk/embulk-output-jdbc,https://github.com/embulk/embulk-output-jdbc,2020,Java,2015-02-09T05:05:50Z,2024-03-27T08:27:37Z,2024-04-10T07:41:03Z,87,83,43
 3215104,Multiverse/Multiverse-Inventories,https://github.com/Multiverse/Multiverse-Inventories,3627,Java,2012-01-19T04:23:50Z,2024-05-02T11:21:57Z,2023-10-21T14:06:57Z,87,80,84
 126665656,jenkinsci/custom-war-packager,https://github.com/jenkinsci/custom-war-packager,539,Java,2018-03-25T04:50:40Z,2024-03-31T14:20:49Z,2023-11-20T20:59:47Z,87,67,46
 3385857,Mobiperf/MobiPerf,https://github.com/Mobiperf/MobiPerf,7484,Java,2012-02-08T09:31:43Z,2023-12-27T02:30:17Z,2017-08-24T06:15:07Z,87,65,27
 60562363,nextcloud/android-library,https://github.com/nextcloud/android-library,17839,Java,2016-06-06T21:32:53Z,2024-05-01T09:39:51Z,2024-05-01T09:39:50Z,86,88,44
-183382045,lagom/lagom-samples,https://github.com/lagom/lagom-samples,1094,Java,2019-04-25T07:38:24Z,2024-05-17T16:48:54Z,2022-09-08T01:00:10Z,86,84,34
 44262636,logstash-plugins/logstash-input-beats,https://github.com/logstash-plugins/logstash-input-beats,1087,Java,2015-10-14T16:54:06Z,2024-05-20T13:47:57Z,2024-05-20T13:47:53Z,86,80,87
 201243689,Woonivers/react-native-document-scanner,https://github.com/Woonivers/react-native-document-scanner,85705,Java,2019-08-08T11:25:19Z,2024-01-14T13:32:12Z,2021-08-18T08:40:41Z,86,72,37
 16505851,opencog/relex,https://github.com/opencog/relex,10439,Java,2014-02-04T08:05:49Z,2024-04-04T11:16:54Z,2023-12-12T21:24:01Z,86,71,23
@@ -3965,7 +3815,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 48755728,Traincraft/Traincraft,https://github.com/Traincraft/Traincraft,93955,Java,2015-12-29T16:12:58Z,2023-11-12T01:09:38Z,2024-02-05T18:51:57Z,83,92,33
 48444374,napolitano/cordova-plugin-intent,https://github.com/napolitano/cordova-plugin-intent,2384,Java,2015-12-22T17:11:31Z,2023-12-13T11:28:05Z,2021-12-24T12:04:51Z,83,88,22
 164428881,Kucoin/kucoin-java-sdk,https://github.com/Kucoin/kucoin-java-sdk,284,Java,2019-01-07T12:23:18Z,2024-05-11T11:58:38Z,2024-03-08T08:07:16Z,83,75,28
-94636369,TechPrimers/jenkins-example,https://github.com/TechPrimers/jenkins-example,18,Java,2017-06-17T16:40:25Z,2024-05-07T02:42:43Z,2024-05-11T09:40:25Z,82,2375,52
 307992244,p2p-org/solanaj,https://github.com/p2p-org/solanaj,68,Java,2020-10-28T11:17:49Z,2024-04-23T12:43:00Z,2024-02-05T09:20:29Z,82,97,16
 191256202,checkmarx-ltd/cx-flow,https://github.com/checkmarx-ltd/cx-flow,24974,Java,2019-06-10T22:49:22Z,2024-04-30T09:06:25Z,2024-04-30T10:01:05Z,82,89,75
 17155129,jenkinsci/syslog-java-client,https://github.com/jenkinsci/syslog-java-client,213,Java,2014-02-24T23:53:04Z,2024-04-24T10:25:31Z,2024-05-02T07:02:37Z,82,70,27
@@ -4005,7 +3854,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 74385593,confluentinc/kafka-connect-storage-common,https://github.com/confluentinc/kafka-connect-storage-common,3644,Java,2016-11-21T16:58:41Z,2024-05-13T06:56:12Z,2024-05-14T04:32:33Z,72,152,60
 15771533,sgrebnov/cordova-plugin-background-download,https://github.com/sgrebnov/cordova-plugin-background-download,244,Java,2014-01-09T16:07:10Z,2024-04-19T21:48:44Z,2020-10-07T14:46:36Z,72,78,28
 46368934,rollbar/rollbar-java,https://github.com/rollbar/rollbar-java,1254,Java,2015-11-17T19:06:43Z,2024-05-11T06:46:56Z,2024-05-11T16:05:34Z,72,75,17
-163471949,aliyunmq/mq-http-samples,https://github.com/aliyunmq/mq-http-samples,62,Java,2018-12-29T03:26:21Z,2023-05-08T21:34:29Z,2022-07-11T06:13:41Z,71,116,16
 86027482,januslo/react-native-sunmi-inner-printer,https://github.com/januslo/react-native-sunmi-inner-printer,980,Java,2017-03-24T04:34:08Z,2023-08-09T18:53:12Z,2023-01-25T21:59:52Z,71,112,28
 22198602,Credo-Zhao/init-spring,https://github.com/Credo-Zhao/init-spring,224,Java,2014-07-24T04:12:41Z,2021-09-07T07:18:12Z,2022-12-16T15:36:16Z,71,76,16
 60328064,kogitant/sonar-slack-notifier-plugin,https://github.com/kogitant/sonar-slack-notifier-plugin,1520,Java,2016-06-03T07:35:20Z,2023-08-22T22:07:12Z,2020-02-28T15:43:26Z,71,67,29
@@ -4018,7 +3866,6 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 12310030,couchbase/couchbase-lite-java-core,https://github.com/couchbase/couchbase-lite-java-core,9410,Java,2013-08-22T23:13:23Z,2023-07-27T19:34:58Z,2020-06-08T17:26:02Z,68,90,194
 39182136,linagora/james-project,https://github.com/linagora/james-project,116916,Java,2015-07-16T07:04:59Z,2024-03-04T23:58:25Z,2024-03-10T22:19:03Z,68,64,78
 2482640,lightcouch/LightCouch,https://github.com/lightcouch/LightCouch,357,Java,2011-09-29T14:55:50Z,2024-04-23T09:17:32Z,2022-05-20T20:46:26Z,67,70,22
-26172294,fabric8io/ipaas-quickstarts,https://github.com/fabric8io/ipaas-quickstarts,19184,Java,2014-11-04T14:28:20Z,2023-04-19T19:19:46Z,2022-03-23T11:32:49Z,66,86,36
 297555559,flutter-package/images_picker,https://github.com/flutter-package/images_picker,323,Java,2020-09-22T06:24:57Z,2024-05-11T23:47:57Z,2023-11-15T03:05:06Z,66,79,36
 176235792,WeBankBlockchain/WeBASE-Front,https://github.com/WeBankBlockchain/WeBASE-Front,140216,Java,2019-03-18T08:22:28Z,2024-03-30T06:13:53Z,2024-05-09T02:28:35Z,66,74,29
 68967191,a0x8o/kafka,https://github.com/a0x8o/kafka,141564,Java,2016-09-22T22:28:02Z,2024-04-23T08:16:12Z,2023-03-28T11:02:56Z,65,172,42
@@ -4027,6 +3874,5 @@ id,full_name,html_url,size,language,created_at,updated_at,pushed_at,stargazers_c
 2466190,apptentive/apptentive-android,https://github.com/apptentive/apptentive-android,14193,Java,2011-09-27T07:51:41Z,2023-08-17T22:57:27Z,2022-09-26T17:51:03Z,65,64,23
 32667736,nemccarthy/stash-pullrequest-builder-plugin,https://github.com/nemccarthy/stash-pullrequest-builder-plugin,239,Java,2015-03-22T08:21:34Z,2023-11-12T04:02:31Z,2023-12-16T18:22:41Z,64,131,39
 182827515,pikaju/flutter-braintree,https://github.com/pikaju/flutter-braintree,333,Java,2019-04-22T16:38:08Z,2024-04-12T13:00:50Z,2024-03-18T04:20:49Z,64,109,46
-35301028,pivotal-cf/identity-sample-apps,https://github.com/pivotal-cf/identity-sample-apps,17719,Java,2015-05-08T20:45:30Z,2024-01-13T23:53:46Z,2023-03-14T17:40:07Z,64,99,24
 203461401,googleapis/java-bigtable,https://github.com/googleapis/java-bigtable,14463,Java,2019-08-20T22:06:58Z,2024-05-13T15:54:26Z,2024-05-14T19:02:29Z,64,81,51
 6882201,contiki-ng/mspsim,https://github.com/contiki-ng/mspsim,7539,Java,2012-11-27T11:32:48Z,2024-05-17T16:40:46Z,2023-09-08T04:46:54Z,64,81,16
