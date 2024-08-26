@@ -45,9 +45,9 @@ def split_identifier(name: str) -> set[str]:
 @click.option("--output", required=True, help="Path to output CSV file")
 @click.option("--languages", default="Java", help="Comma-separated list of languages")
 @click.option("--max-size", default=2.0, help="Max size a repo can be (in GB)")
-@click.option("--min-stars", default=64, help="Min number of stars")
-@click.option("--min-forks", default=64, help="Min number of forks")
-@click.option("--min-open-issues", default=16, help="Min number of open issues")
+@click.option("--min-stars", default=5, help="Min number of stars")
+@click.option("--min-forks", default=5, help="Min number of forks")
+@click.option("--min-open-issues", default=5, help="Min number of open issues")
 @click.option("--keywords", help="Text file with a newline-delimited list of keywords.")
 def main(
     input: str,

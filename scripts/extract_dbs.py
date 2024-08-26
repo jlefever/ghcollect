@@ -66,7 +66,7 @@ def main(neodepends, input, clones, output, skip, step):
     Extract dbs from repositories one-by-one in the order that they appear in the CSV.
     """
     df = pd.read_csv(input)
-    repo_names = list(df["full_name"])
+    repo_names = sorted((df["full_name"]))
     indices = list(range(skip, len(repo_names), step))
 
     with Progress() as progress:

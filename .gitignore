@@ -2,5 +2,7 @@
 .vscode
 .DS_Store
 clones
-dbs
+dbs*
 artifacts/repo_details
+student_dbs.txt
+student_dbs/

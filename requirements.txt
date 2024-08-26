@@ -9,6 +9,7 @@ dill==0.3.8
 filelock==3.14.0
 frozenlist==1.4.1
 fsspec==2024.3.1
+guppy3==3.1.4.post1
 huggingface-hub==0.22.2
 idna==3.7
 markdown-it-py==3.0.0

@@ -15,7 +15,9 @@ SQL_TEST_5 = """
         ==
         (SELECT COUNT(*) FROM entities WHERE kind == 'File')
 """
-SQL_TESTS = [SQL_TEST_1, SQL_TEST_2, SQL_TEST_3, SQL_TEST_4, SQL_TEST_5]
+SQL_TEST_6 = "SELECT COUNT(*) >= 50 FROM entities WHERE kind == 'File'"
+SQL_TEST_7 = "SELECT COUNT(DISTINCT commit_id) >= 50 FROM changes C"
+SQL_TESTS = [SQL_TEST_1, SQL_TEST_2, SQL_TEST_3, SQL_TEST_4, SQL_TEST_5, SQL_TEST_6, SQL_TEST_7]
 
 
 def passes_sql_test(cur, sql_test) -> bool:
